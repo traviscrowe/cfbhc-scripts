@@ -1,6 +1,11 @@
-#TODO: implement Player base type
+import json
+import collections
 
-class Passer():
+class Player():
+	def to_JSON(self):
+		return json.dumps(self.__dict__, sort_keys=False)
+
+class Passer(Player):
 
 	#Serialize into a passer object - expects 20 columns
 	def __init__(self, cols = []):
@@ -21,13 +26,11 @@ class Passer():
 		self.ints = int(cols[14])
 		self.rating = float(cols[15])
 		self.ypa = float(cols[16])
-		self.ypg = float(cols[17])7
+		self.ypg = float(cols[17])
 		self.tdpct = float(cols[18])
 		self.intpct = float(cols[19])
-	def to_JSON(self):
-		return json.dumps(self.__dict__)
 
-class Runner():
+class Runner(Player):
 
 	#Serialize into runner object - expects 16 columns
 	def __init__(self, cols = []):
@@ -47,10 +50,8 @@ class Runner():
 		self.hyg = int(cols[13])
 		self.ypc = float[cols[14]]
 		self.ypg = float[cols[15]]
-	def to_JSON(self):
-		return json.dumps(self.__dict__)
 
-class Reciever():
+class Reciever(Player):
 
 	#Serialize into reciever object - expects 15 columns
 	def __init__(self, cols = []):
@@ -69,5 +70,25 @@ class Reciever():
 		self.fumbles = int(cols[12])
 		self.ypc = float(cols[13])
 		self.ypg = float(cols[14])
-	def to_JSON(self):
-		return json.dumps(self. __dict__)
+
+class Defender(Player):
+
+	#Serialize into defender object - expects 17 columns
+	def __init__(self, cols = []):
+		self.position = cols[0]
+		self.firstName = cols[1]
+		self.lastName = cols[2]
+		self.height = cols[3]
+		self.weight = int(cols[4])
+		self.year = cols[5]
+		self.skill = int(cols[6])
+		self.team = cols[7]
+		self.games = int(cols[8])
+		self.tackles = int(cols[9])
+		self.ints = int(cols[10])
+		self.sacks = float(cols[11])
+		self.ff = int(cols[12])
+		self.fr = int(cols[13])
+		self.blocks = int(cols[14])
+		self.tds = int(cols[15])
+		self.safeties = int(cols[16])
