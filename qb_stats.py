@@ -6,22 +6,20 @@ LEAGUES = ["NFLHC"]
 YEARS = ["2017"]
 TABLES = [1, 2, 3, 4, 5, 6]
 
-LEAGUE_SELECTED = "NFLHC"
-YEAR_SELECTED = "2017"
-TABLE_SELECTED = 4
+LEAGUE_SELECTED = LEAGUES[0]
+YEAR_SELECTED = YEARS[0]
+TABLE_SELECTED = TABLES[3]
 
+#build query object
 data = query_data.Data(LEAGUE_SELECTED, YEAR_SELECTED, TABLE_SELECTED)
 
+#get raw player data
 playerData = util.parseTableData(data)
 
-print data.league
-print data.tablePath
-print data.pageLink
-print data.cols
-
+#chunk data into lists
 players = util.chunkPlayerData(playerData, data.cols)
 
-#Print each list of stats for each player
+#serialize to json and print each list of stats for each player
 for t in players:
 	tmp = []
 	for p in t:
