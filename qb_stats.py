@@ -1,7 +1,9 @@
 import models
 import util
 import query_data
+import json
 
+#currently only works with NFLHC in 2017 due to table changes from CFB -> NFLHC in that year
 LEAGUES = ["NFLHC"]
 YEARS = ["2017"]
 TABLES = [1, 2, 3, 4, 5, 6]
@@ -14,10 +16,12 @@ TABLE_SELECTED = TABLES[3]
 data = query_data.Data(LEAGUE_SELECTED, YEAR_SELECTED, TABLE_SELECTED)
 
 #get raw player data
-playerData = util.parseTableData(data)
+player_data = util.parse_table_data(data)
 
 #chunk data into lists
-players = util.chunkPlayerData(playerData, data.cols)
+players = util.chunk_player_data(player_data, data.cols)
+
+final = []
 
 #serialize to json and print each list of stats for each player
 for t in players:
@@ -25,5 +29,6 @@ for t in players:
 	for p in t:
 		tmp.append(p.text)
 	i = models.Defender(tmp)
-	j = i.to_JSON()
-	print j
+	final.append(i.to_JSON())
+
+print final

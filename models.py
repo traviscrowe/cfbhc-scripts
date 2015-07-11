@@ -3,15 +3,15 @@ import collections
 
 class Player():
 	def to_JSON(self):
-		return json.dumps(self.__dict__, sort_keys=False)
+		return json.dumps(self.__dict__)
 
 class Passer(Player):
 
 	#Serialize into a passer object - expects 20 columns
 	def __init__(self, cols = []):
 		self.position = cols[0]
-		self.firstName = cols[1]
-		self.lastName = cols[2]
+		self.first_name = cols[1]
+		self.last_name = cols[2]
 		self.height = cols[3]
 		self.weight = int(cols[4])
 		self.year = cols[5]
@@ -29,14 +29,16 @@ class Passer(Player):
 		self.ypg = float(cols[17])
 		self.tdpct = float(cols[18])
 		self.intpct = float(cols[19])
+	def to_JSON(self):
+		return json.dumps(self.__dict__)
 
 class Runner(Player):
 
 	#Serialize into runner object - expects 16 columns
 	def __init__(self, cols = []):
 		self.position = cols[0]
-		self.firstName = cols[1]
-		self.lastName = cols[2]
+		self.first_name = cols[1]
+		self.last_name = cols[2]
 		self.height = cols[3]
 		self.weight = int(cols[4])
 		self.year = cols[5]
@@ -56,8 +58,8 @@ class Reciever(Player):
 	#Serialize into reciever object - expects 15 columns
 	def __init__(self, cols = []):
 		self.position = cols[0]
-		self.firstName = cols[1]
-		self.lastName = cols[2]
+		self.first_name = cols[1]
+		self.last_name = cols[2]
 		self.height = cols[3]
 		self.weight = int(cols[4])
 		self.year = cols[5]
@@ -76,8 +78,8 @@ class Defender(Player):
 	#Serialize into defender object - expects 17 columns
 	def __init__(self, cols = []):
 		self.position = cols[0]
-		self.firstName = cols[1]
-		self.lastName = cols[2]
+		self.first_name = cols[1]
+		self.last_name = cols[2]
 		self.height = cols[3]
 		self.weight = int(cols[4])
 		self.year = cols[5]
