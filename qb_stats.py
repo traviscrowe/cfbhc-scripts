@@ -29,6 +29,4 @@ for t in players:
 	for p in t:
 		tmp.append(p.text)
 	i = models.Defender(tmp)
-	final.append(i.to_JSON())
-
-print final
+	print i.to_JSON()
