@@ -5,13 +5,13 @@ import json
 
 #currently only works with NFLHC in 2017 due to table changes from CFB -> NFLHC in that year
 LEAGUES = ["NFLHC"]
-YEARS = ["2017"]
+YEARS = ["2014", "2017"]
 TABLES = [1, 2, 3, 4, 5, 6]
 
 #use these to select the league, year, and stat table desired (1 = QB, 2 = RB, 3 = WR, 4 = DEF, 5 = K, 6 = KR)
 LEAGUE_SELECTED = LEAGUES[0]
-YEAR_SELECTED = "2014"
-TABLE_SELECTED = TABLES[5]
+YEAR_SELECTED = YEARS[0]
+TABLE_SELECTED = TABLES[3]
 
 #build query object
 data = query_data.Data(LEAGUE_SELECTED, YEAR_SELECTED, TABLE_SELECTED)
