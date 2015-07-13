@@ -10,8 +10,7 @@ class Player():
 		self.weight = int(cols[4])
 		self.year = cols[5]
 		self.skill = int(cols[6])
-		self.potential = int(cols[7])
-		self.team = cols[8]
+		self.team = cols[7]
 	def to_JSON(self):
 		return json.dumps(self.__dict__)
 
@@ -19,7 +18,7 @@ class Passer(Player):
 
 	#Serialize into a passer object - expects 20 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.games = int(cols[8])
 		self.completions = int(cols[9])
 		self.attempts = int(cols[10])
@@ -37,7 +36,7 @@ class Runner(Player):
 
 	#Serialize into runner object - expects 16 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.games = int(cols[8])
 		self.attempts = int(cols[9])
 		self.yards = int(cols[10])
@@ -51,7 +50,7 @@ class Reciever(Player):
 
 	#Serialize into reciever object - expects 15 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.games = int(cols[8])
 		self.catches = int(cols[9])
 		self.yards = int(cols[10])
@@ -64,7 +63,7 @@ class Defender(Player):
 
 	#Serialize into defender object - expects 17 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.games = int(cols[8])
 		self.tackles = int(cols[9])
 		self.ints = int(cols[10])
@@ -79,7 +78,7 @@ class Kicker(Player):
 
 	#Serialize into kicker object - expects 16 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.attempts = int(cols[8])
 		self.missed = int(cols[9])
 		self.percentage = float(cols[10])
@@ -93,6 +92,6 @@ class Returner(Player):
 
 	#Serialize into kick/punt returner object - expects 10 columns
 	def __init__(self, cols = []):
-		Player.__init__(self, cols[0:9])
+		Player.__init__(self, cols[0:8])
 		self.kickoff_tds = int(cols[8])
 		self.punt_tds = int(cols[9])
