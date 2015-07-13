@@ -2,6 +2,7 @@ from lxml import html
 from lxml import etree
 import requests
 import json
+import models
 
 POSITIONS = {1:20, 2:16, 3:15, 4:17}
 
@@ -25,6 +26,16 @@ def chunk_player_data(table_data = [], cols = int):
 
 def get_col_count(table = int):
 	return POSITIONS[table]
+
+def get_player_model_by_key(key = int, raw_data = []):
+	if(key == 1):
+		return models.Passer(raw_data)
+	elif(key == 2):
+		return models.Runner(raw_data)
+	elif(key == 3):
+		return models.Reciever(raw_data)
+	elif(key == 4):
+		return models.Defender(raw_data)
 
 def parse_table_data_by_row(query_data):
 	page = requests.get(query_data.page_link)

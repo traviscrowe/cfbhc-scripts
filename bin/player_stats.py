@@ -10,7 +10,7 @@ TABLES = [1, 2, 3, 4, 5, 6]
 
 LEAGUE_SELECTED = LEAGUES[0]
 YEAR_SELECTED = YEARS[0]
-TABLE_SELECTED = TABLES[3]
+TABLE_SELECTED = TABLES[0]
 
 #build query object
 data = query_data.Data(LEAGUE_SELECTED, YEAR_SELECTED, TABLE_SELECTED)
@@ -28,5 +28,5 @@ for t in players:
 	tmp = []
 	for p in t:
 		tmp.append(p.text)
-	i = models.Defender(tmp)
+	i = util.get_player_model_by_key(TABLE_SELECTED, tmp)
 	print i.to_JSON()
