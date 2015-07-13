@@ -29,8 +29,6 @@ class Passer(Player):
 		self.ypg = float(cols[17])
 		self.tdpct = float(cols[18])
 		self.intpct = float(cols[19])
-	def to_JSON(self):
-		return json.dumps(self.__dict__)
 
 class Runner(Player):
 

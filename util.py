@@ -25,3 +25,14 @@ def chunk_player_data(table_data = [], cols = int):
 
 def get_col_count(table = int):
 	return POSITIONS[table]
+
+def parse_table_data_by_row(query_data):
+	page = requests.get(query_data.page_link)
+	tree = etree.fromstring(page.text)
+	table_data = tree.xpath(query_data.table_path + '//tr/td')
+	row_count = len(table_data/query_data.cols)
+	players = []
+	for x in range(0, row_count):
+		row_data = tree.xpath(query_data.table_path + '//tr[' + x + ']')
+		for rd in row_data:
+			print rd.text
