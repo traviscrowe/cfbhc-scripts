@@ -8,6 +8,7 @@ LEAGUES = ["NFLHC"]
 YEARS = ["2017"]
 TABLES = [1, 2, 3, 4, 5, 6]
 
+#use these to select the league, year, and stat table desired (1 = QB, 2 = RB, 3 = WR, 4 = DEF)
 LEAGUE_SELECTED = LEAGUES[0]
 YEAR_SELECTED = YEARS[0]
 TABLE_SELECTED = TABLES[0]
@@ -20,8 +21,6 @@ player_data = util.parse_table_data(data)
 
 #chunk data into lists
 players = util.chunk_player_data(player_data, data.cols)
-
-final = []
 
 #serialize to json and print each list of stats for each player
 for t in players:
