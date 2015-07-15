@@ -4,7 +4,7 @@ import requests
 import json
 import models
 
-POSITIONS = {1:20, 2:16, 3:15, 4:17, 5:16, 6:10}
+POSITIONS = {1:19, 2:17, 3:15, 4:18, 5:16, 6:10}
 
 #TODO: refactor to chunk player data on tr index instead of using the inefficient monstrosity below
 def parse_table_data(query_data):
