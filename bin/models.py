@@ -1,5 +1,4 @@
-import json
-import collections
+import json, collections
 
 class Player():
 	def __init__(self, cols = []):	

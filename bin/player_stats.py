@@ -1,7 +1,4 @@
-import models
-import util
-import query_data
-import json
+import models, util, query_data, json
 
 #currently only works with NFLHC in 2017 due to table changes from CFB -> NFLHC in that year
 LEAGUES = ["NFLHC", "CFBHC"]

@@ -1,8 +1,5 @@
-from lxml import html
-from lxml import etree
-import requests
-import json
-import models
+from lxml import html, etree
+import requests, json, models
 
 POSITIONS = {1:19, 2:17, 3:15, 4:18, 5:16, 6:10}
 
