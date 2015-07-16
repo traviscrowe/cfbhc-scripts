@@ -11,8 +11,10 @@ class Player():
 		self.skill = cols[6]
 		self.potential = cols[7]
 		self.team = cols[8]
-	def to_JSON(self):
+	def dump_JSON(self):
 		return json.dumps(self.__dict__)
+	def load_JSON(self):
+		return json.loads(self.dump_JSON())
 
 class Passer(Player):
 

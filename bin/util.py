@@ -38,6 +38,7 @@ def get_player_model_by_key(key = int, raw_data = []):
 	elif(key == 6):
 		return models.Returner(raw_data)
 
+#Gross, not for consumption, probably doesn't run
 def parse_table_data_by_row(query_data):
 	page = requests.get(query_data.page_link)
 	tree = etree.fromstring(page.text)
