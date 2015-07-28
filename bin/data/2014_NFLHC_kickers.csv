@@ -1,0 +1,34 @@
+ Position , Forename , Surname , Height , Weight , Year , Skill , Team , Attempts , Missed , FG PCT , +0 , +20 , +30 , +40 ," +50
+"
+P,Freddie,Mughelli,6 - 0,183,R,74,DAL,3,0,100,0,0,1,2,"0
+"
+P,Forest,Garrett,6 - 0,193,R,79,CIN,6,2,66.67,0,0,3,1,"0
+"
+K,Ben,Morrison,6 - 1,205,R,75,MIA,15,1,93.33,0,0,4,8,"2
+"
+K,Stephen,Morris,5 - 9,211,R,63,JAX,15,3,80,0,0,4,8,"0
+"
+K,Gregory,Tomlinson,5 - 9,197,R,52,MIN,14,2,85.71,0,1,9,1,"1
+"
+K,Thomas,Thomas,5 - 8,187,R,53,ATL,17,5,70.59,0,1,8,3,"0
+"
+P,Benito,Brown,6 - 1,201,R,56,STL,11,3,72.73,0,0,6,2,"0
+"
+K,Ryan,Brown,6 - 4,171,R,53,CLE,9,2,77.78,0,1,2,4,"0
+"
+P,Tony,Taylor,5 - 10,206,R,75,NE,2,0,100,0,0,1,1,"0
+"
+K,James,Harris,6 - 3,191,R,61,NE,17,3,82.35,0,0,10,4,"0
+"
+K,Myron,Sweeney,6 - 4,177,R,57,CAR,7,1,85.71,0,0,3,3,"0
+"
+P,Willie,Hicks,5 - 8,185,R,65,GB,9,3,66.67,0,0,4,2,"0
+"
+K,Ken,Hodel,6 - 4,202,R,58,NYJ,11,1,90.91,0,0,8,2,"0
+"
+P,Bryan,Johnson,6 - 1,204,R,68,DET,14,7,50,0,0,4,3,"0
+"
+K,Cecil,Jones,6 - 1,213,R,60,NO,11,0,100,0,0,4,7,"0
+"
+K,Mike,Waters,5 - 9,204,R,62,OAK,15,2,86.67,0,0,10,3,"0
+"

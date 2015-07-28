@@ -1,0 +1,404 @@
+ Position , Forename , Surname , Height , Weight , Standing , Skill , Potential , Team , Games , Tackles , INTs , Sacks , FF , FR , Blocks , TDs ," Safeties
+"
+DE,Blair,Kopay,6 - 3,275,1,80, - ,Atlanta,5,20,0,6.5,0,0,0,0,"0
+"
+CB,Larry,Prentice,6 - 2,184,1,59, - ,St. Louis,1,1,1,0.0,0,0,0,0,"0
+"
+SS,Tony,Hennigan,5 - 10,184,1,65, - ,New York Jets,2,9,0,0.0,0,0,0,0,"0
+"
+ILB,Richard,Wilson,6 - 2,231,R,74, - ,Jacksonville,12,81,0,0.0,0,0,0,0,"0
+"
+OLB,R - Kal,McNeil,73,253,1,57, - ,Carolina,3,16,0,0.0,0,0,0,0,"0
+"
+DT,Oliver,Miller,6 - 8,301,1,65, - ,New England,3,6,0,2.0,0,0,0,0,"1
+"
+CB,Steven,Holland,6 - 1,175,1,58, - ,Indianapolis,1,4,0,0.0,0,0,0,0,"0
+"
+CB,Nate,Steed,5 - 11,176,R,66, - ,Baltimore,5,16,5,0.0,0,0,0,0,"0
+"
+OLB,Jeff,Mangum,6 - 2,256,1,82, - ,Minnesota,9,57,1,1.5,0,0,0,1,"0
+"
+OLB,Tyrone,Jones,5 - 11,233,R,84, - ,Baltimore,11,95,1,3.0,1,2,0,0,"2
+"
+CB,Joel,Prince,6 - 1,207,R,81, - ,Jacksonville,6,26,3,0.0,0,0,0,1,"0
+"
+FS,Rock,Darius,73,171,1,57, - ,Carolina,1,1,1,0.0,0,0,0,0,"0
+"
+CB,Jim,Milloy,6 - 1,173,R,76, - ,Oakland,3,10,2,0.5,0,0,0,1,"0
+"
+DT,Jared,Lee,6 - 5,313,R,74, - ,Minnesota,4,22,0,2.5,0,0,0,0,"0
+"
+FS,Charlie,McDonald,5 - 10,185,R,72, - ,New Orleans,2,5,1,0.0,0,0,0,0,"0
+"
+CB,Kenny,Allen,5 - 8,182,R,69, - ,Indianapolis,1,2,1,0.0,0,0,0,0,"0
+"
+CB,James,Neufeld,6 - 0,188,1,63, - ,Baltimore,1,3,1,0.0,0,0,0,1,"0
+"
+OLB,Billy,Anderson,75,241,R,70, - ,Carolina,6,33,0,0.0,0,1,0,0,"0
+"
+FS,Juan,Hutchinson,5 - 9,170,R,71, - ,New York Jets,2,7,1,0.0,0,0,0,1,"0
+"
+SS,Robert,Medina,5 - 11,210,R,69, - ,New York Giants,4,17,1,0.0,0,0,0,0,"0
+"
+DE,Andrew,Fazande,6 - 4,265,R,79, - ,St. Louis,7,24,0,7.5,0,0,1,0,"0
+"
+SS,Marcus,Mili,6 - 2,217,1,62, - ,Cincinnati,1,4,1,0.0,0,0,0,0,"0
+"
+ILB,Kevin,Harris,6 - 0,249,1,81, - ,Miami,13,92,3,3.5,2,1,0,1,"0
+"
+OLB,Ray,Truax,6 - 1,233,1,79, - ,Cincinnati,5,27,0,0.0,1,1,0,1,"0
+"
+DT,A.B.,Todd,6 - 6,308,R,64, - ,Miami,5,22,0,2.0,1,1,0,0,"0
+"
+OLB,Vince,Smith,6 - 1,234,R,75, - ,Indianapolis,7,39,1,0.0,0,0,0,1,"0
+"
+OLB,Kenny,Salata,5 - 11,236,R,75, - ,Houston,1,5,0,0.0,0,0,0,0,"0
+"
+DE,Joe,Washington,6 - 1,268,1,70, - ,Houston,2,3,0,2.0,0,0,0,0,"0
+"
+CB,Robert,Mayfield,6 - 0,182,1,60, - ,Detriot,2,7,1,0.0,0,0,0,1,"0
+"
+FS,Randall,Jones,6 - 2,190,R,75, - ,Oakland,4,22,1,0.0,0,0,0,0,"0
+"
+CB,B.J.,Dawkins,5 - 11,176,1,69, - ,Atlanta,2,7,2,0.0,0,0,0,0,"0
+"
+SS,Darrell,Brown,6 - 0,197,R,74, - ,Green Bay,1,3,1,0.0,0,0,0,0,"0
+"
+ILB,Mike,Bledsoe,6 - 1,231,R,74, - ,Atlanta,1,7,0,0.0,0,0,0,0,"0
+"
+DT,Marquise,Villarrial,6 - 4,303,R,62, - ,Oakland,1,5,0,0.0,0,0,0,0,"0
+"
+CB,Tony,Smith,6 - 1,191,R,74, - ,Indianapolis,1,3,1,0.0,0,0,0,1,"0
+"
+SS,Mike,Robinson,6 - 0,196,1,73, - ,New England,2,4,2,0.0,0,0,0,1,"0
+"
+FS,Stephen,Elliott,6 - 3,197,1,80, - ,New York Giants,5,25,2,0.0,0,0,0,0,"0
+"
+OLB,Derrick,Martin,6 - 0,241,R,81, - ,Tampa Bay,12,84,0,4.5,1,0,0,0,"2
+"
+FS,Jim,Sisemore,5 - 10,181,1,82, - ,Green Bay,3,8,3,0.0,0,0,0,0,"0
+"
+FS,Randy,Moulds,6 - 2,198,1,76, - ,Cleveland,1,6,0,0.0,0,0,0,0,"0
+"
+ILB,Andre,Brooks,06 - 01,256,1,86, - ,New England,13,113,3,3.0,0,1,0,0,"0
+"
+DT,Reggie,Howard,6 - 6,306,R,69, - ,St. Louis,1,1,0,1.0,0,0,0,0,"0
+"
+SS,Norman,Rodriguez,5 - 10,179,1,69, - ,Baltimore,1,6,0,0.5,0,0,0,0,"0
+"
+FS,Mo,Wilkins,6 - 2,179,R,69, - ,Jacksonville,2,7,1,0.0,0,0,0,0,"0
+"
+DE,Rodney,Matlock,6 - 5,262,R,63, - ,Cincinnati,1,4,0,1.0,0,0,0,0,"0
+"
+FS,Terry,Cole,6 - 2,202,1,67, - ,Minnesota,3,7,2,0.0,0,0,0,0,"0
+"
+CB,Charles,Francis,6 - 2,186,1,71, - ,New York Giants,1,1,1,0.0,0,0,0,0,"0
+"
+ILB,Ross,Parker,5 - 11,227,R,66, - ,Atlanta,1,0,0,0.0,0,0,1,1,"0
+"
+DE,Jeff,Holleyman,6 - 3,297,R,76, - ,Oakland,3,8,0,3.5,0,0,0,0,"0
+"
+DE,Alvis,Brumm,6 - 6,268,1,87, - ,New York Jets,9,30,0,13.0,0,1,0,0,"1
+"
+FS,Terry,Offerdahl,5 - 11,181,R,61, - ,St. Louis,3,6,2,0.0,0,0,0,0,"0
+"
+ILB,William,Wallace,6 - 1,224,R,67, - ,Houston,1,5,0,0.0,0,0,0,0,"0
+"
+FS,Alyn,Namath,6 - 1,172,1,73, - ,Baltimore,2,9,1,0.0,0,0,0,0,"0
+"
+DT,Bob,Ballard,6 - 1,292,R,77, - ,New York Jets,3,7,0,2.0,1,0,0,0,"0
+"
+SS,Dan,Maxwell,5 - 10,181,1,70, - ,Tampa Bay,7,29,2,0.0,1,0,0,0,"0
+"
+DE,Michael,Schuster,6 - 3,265,R,74, - ,Atlanta,2,6,0,3.0,0,0,0,0,"0
+"
+DT,Terry,Dewalt,6 - 2,312,1,73, - ,Atlanta,3,13,0,3.0,0,0,0,0,"0
+"
+FS,Sean,Burton,6 - 0,202,R,81, - ,Indianapolis,3,6,3,0.0,0,0,0,0,"0
+"
+SS,Keyshawn,Ayanbadejo,6 - 1,217,R,79, - ,Oakland,6,22,3,0.0,0,1,0,1,"0
+"
+CB,Gordon,Moreland,5 - 11,187,R,70, - ,Cleveland,1,5,0,1.0,0,0,0,0,"0
+"
+OLB,Casey,Brzezinski,5 - 11,227,R,68, - ,New York Giants,7,40,0,1.0,0,0,0,0,"0
+"
+CB,Clarence,Simmons,6 - 3,203,R,69, - ,St. Louis,5,14,4,0.0,0,0,0,0,"0
+"
+DE,Devone,Willis,6 - 8,273,1,63, - ,Miami,6,25,0,4.0,0,0,0,0,"0
+"
+DE,Tim,Carson,6 - 3,285,R,72, - ,Jacksonville,2,10,0,1.0,0,0,0,0,"0
+"
+OLB,Koren,Slaughter,6 - 2,221,1,59, - ,Baltimore,1,6,0,0.0,0,0,0,0,"0
+"
+CB,Henri,Muhammad,5 - 10,186,1,70, - ,Houston,1,2,1,0.0,0,0,0,1,"0
+"
+OLB,Deuce,Harris,5 - 11,223,1,61, - ,New Orleans,7,48,1,0.0,0,0,0,0,"0
+"
+ILB,Mark,Craig,6 - 1,230,R,78, - ,Detriot,10,82,1,0.0,0,0,0,0,"0
+"
+ILB,Dennis,Smith,6 - 0,251,R,75, - ,New York Giants,11,70,0,0.0,0,0,0,0,"0
+"
+SS,Willie,Wood,6 - 1,198,R,73, - ,New Orleans,3,7,2,0.0,0,0,0,0,"0
+"
+DT,Bill,Kelly,6 - 1,282,R,70, - ,Cincinnati,1,5,0,0.0,0,0,0,0,"0
+"
+OLB,Ray,Flores,6 - 1,234,1,76, - ,New Orleans,4,22,0,0.0,0,0,0,0,"0
+"
+ILB,Thomas,Cooke,6 - 2,232,R,69, - ,Cleveland,4,29,0,0.0,0,0,0,0,"0
+"
+DT,Jeffrey,Bryant,6 - 7,303,R,75, - ,St. Louis,3,6,1,3.0,0,0,0,0,"0
+"
+OLB,Germane,Dixon,6 - 2,253,1,77, - ,Detriot,5,33,0,0.0,0,0,0,0,"0
+"
+ILB,Justin,Bullard,6 - 1,230,R,64, - ,Tampa Bay,5,31,0,1.0,0,1,0,0,"0
+"
+CB,Rashaan,Viger,5 - 11,177,R,67, - ,Minnesota,5,12,5,0.0,0,0,0,0,"0
+"
+OLB,Ben,Lane,6 - 1,236,R,67, - ,New York Giants,2,11,0,0.0,0,0,0,0,"0
+"
+CB,Robert,Barnes,5 - 11,176,1,61, - ,Cincinnati,1,1,1,0.0,0,0,0,1,"0
+"
+OLB,Arlie,LeClair,6 - 2,245,1,81, - ,Dallas,8,54,0,0.0,0,0,0,0,"0
+"
+CB,Jacoby,Seaverns,6 - 2,190,R,81, - ,Cincinnati,9,43,3,0.0,0,0,0,1,"0
+"
+DE,Bobby,Johnson,6 - 6,276,1,69, - ,Indianapolis,2,5,0,2.0,0,0,0,0,"0
+"
+ILB,Mike,Smith,74,241,1,76, - ,Carolina,9,67,0,1.0,0,0,0,0,"0
+"
+DE,Justin,Glass,6 - 3,283,R,66, - ,St. Louis,5,13,1,5.5,0,0,0,1,"0
+"
+ILB,Cleo,Blair,6 - 1,251,R,78, - ,Dallas,7,50,0,0.0,0,0,0,0,"0
+"
+CB,Cris,Butler,5 - 11,171,R,57, - ,Miami,1,0,1,0.0,0,0,0,0,"0
+"
+FS,Albert,White,5 - 10,184,R,76, - ,Dallas,2,6,1,0.0,0,0,0,0,"0
+"
+CB,George,Brady,5 - 11,181,R,76, - ,New England,6,19,5,0.0,0,0,0,1,"0
+"
+DT,Je'Rod,Wimbush,6 - 4,277,R,77, - ,Cleveland,6,20,0,4.0,1,0,0,0,"0
+"
+FS,Keith,Farr,6 - 1,174,R,75, - ,Detriot,2,2,2,0.0,0,0,0,0,"0
+"
+OLB,Donnie,Bavaro,6 - 2,239,R,76, - ,Oakland,8,52,0,2.5,1,1,0,0,"0
+"
+DT,Shawn,Bowers,6 - 1,305,R,75, - ,Dallas,6,28,0,3.0,0,0,0,0,"0
+"
+DE,Darian,Mauti,77,297,1,62, - ,Carolina,2,5,0,1.0,1,0,0,0,"0
+"
+DT,Frank,Williams,6 - 8,293,R,81, - ,Tampa Bay,4,22,0,2.0,0,0,0,0,"0
+"
+OLB,Tommy,Leonard,6 - 1,229,1,72, - ,New York Jets,6,36,0,0.0,0,0,0,0,"0
+"
+DE,Joey,Davis,6 - 5,268,R,72, - ,Dallas,7,27,0,6.5,1,1,0,0,"0
+"
+ILB,Ed,Haws,6 - 1,241,R,73, - ,Green Bay,7,45,0,1.0,0,0,0,0,"0
+"
+ILB,Frank,Lee,6 - 1,227,1,71, - ,Baltimore,5,30,0,0.5,1,0,0,0,"0
+"
+SS,Dane,Wilson,6 - 1,178,R,82, - ,Miami,6,23,4,0.0,0,0,0,1,"0
+"
+CB,Lamar,Miller,5 - 11,182,1,58, - ,Green Bay,1,2,1,0.0,0,0,0,0,"0
+"
+OLB,Damione,Ellis,6 - 2,249,1,77, - ,Green Bay,10,60,1,0.0,1,0,0,1,"0
+"
+CB,Keyshawn,Thompson,6 - 2,181,R,83, - ,Detriot,9,27,5,0.0,0,0,0,2,"0
+"
+CB,John,Queen,5 - 11,196,1,74, - ,New York Jets,6,19,5,0.0,0,0,0,0,"0
+"
+CB,Donald,Edwards,6 - 1,197,R,70, - ,Miami,3,12,2,0.0,0,0,0,1,"0
+"
+OLB,Randy,Lehr,6 - 1,231,1,78, - ,Cincinnati,3,18,0,0.0,0,0,0,0,"0
+"
+ILB,Cleveland,Merrill,6 - 1,236,R,82, - ,Minnesota,12,97,2,0.0,1,0,0,1,"0
+"
+DE,Eric,Scott,6 - 4,300,R,70, - ,New England,2,1,0,3.0,0,0,0,0,"0
+"
+DE,Tommy,Wietecha,6 - 2,277,1,72, - ,Baltimore,10,27,0,9.5,1,2,0,0,"0
+"
+SS,Mark,Brown,6 - 2,180,R,75, - ,Cleveland,8,44,2,0.0,0,0,0,0,"0
+"
+SS,R.C.,Rone,6 - 1,204,1,81, - ,Atlanta,3,13,2,0.0,0,0,0,0,"0
+"
+CB,Dave,Stokley,6 - 2,199,R,76, - ,Green Bay,7,26,6,0.0,0,0,0,0,"0
+"
+CB,Kevin,Hasselbeck,5 - 9,182,1,58, - ,Miami,1,4,0,0.0,0,0,0,0,"0
+"
+CB,Joe,Taylor,5 - 10,190,R,59, - ,New Orleans,2,6,1,0.0,0,0,0,0,"0
+"
+ILB,Ron,Mobley,6 - 1,247,1,78, - ,Miami,3,20,1,0.0,0,1,0,0,"0
+"
+CB,Travis,Chatman,5 - 10,172,1,78, - ,Dallas,7,30,3,0.0,1,1,0,1,"0
+"
+FS,Gary,Bryant,5 - 11,207,1,67, - ,Houston,1,5,0,0.0,0,0,0,0,"0
+"
+CB,Joshua,Sloan,5 - 11,208,1,75, - ,New Orleans,2,5,2,0.0,0,0,0,0,"0
+"
+OLB,Charley,Rivers,06 - 02,254,1,77, - ,New England,7,43,0,0.0,0,0,0,0,"0
+"
+DE,Kaulana,Groth,6 - 7,304,R,76, - ,Houston,7,26,0,7.5,0,0,0,0,"0
+"
+DE,Steven,Jordan,6 - 7,279,R,68, - ,New York Giants,2,3,0,2.0,0,0,0,0,"0
+"
+OLB,James,Turner,6 - 2,237,R,78, - ,Atlanta,6,35,0,0.0,0,0,0,0,"0
+"
+ILB,Rodrick,Milligan,6 - 2,254,R,80, - ,Oakland,9,68,0,0.5,1,0,0,0,"0
+"
+SS,Larry,Reeves,5 - 11,204,R,84, - ,Jacksonville,6,29,1,0.0,0,0,0,0,"0
+"
+OLB,Chris,Ferguson,6 - 2,238,R,62, - ,Oakland,4,21,0,0.0,0,0,0,0,"0
+"
+CB,Tony,Ross,5 - 11,188,1,75, - ,Cleveland,5,21,3,0.0,0,0,0,0,"0
+"
+ILB,Jim,Bendross,6 - 1,244,1,77, - ,St. Louis,7,51,0,1.0,0,0,0,0,"0
+"
+CB,Antonio,Powers,5 - 11,158,R,66, - ,Minnesota,1,3,1,0.0,0,0,0,0,"0
+"
+DT,David,Lee,6 - 3,278,R,76, - ,New Orleans,4,15,0,4.0,0,0,0,0,"0
+"
+CB,Larry,Johnson,5 - 10,205,R,66, - ,Minnesota,2,6,2,0.0,0,0,0,0,"0
+"
+OLB,Darian,Mathis,6 - 0,253,1,75, - ,Cleveland,8,47,1,1.0,0,0,0,0,"0
+"
+SS,Gregory,Gilmore,6 - 3,201,R,66, - ,Minnesota,4,12,4,0.0,0,0,0,0,"0
+"
+DE,Rudi,Sinceno,6 - 7,283,R,75, - ,Tampa Bay,4,13,0,5.0,0,0,0,0,"0
+"
+OLB,Jeromy,Potter,6 - 2,232,R,62, - ,Miami,5,32,0,2.0,0,0,0,0,"0
+"
+DE,Gary,Redmon,6 - 1,289,R,70, - ,Green Bay,2,6,0,2.0,1,0,0,0,"0
+"
+DE,Sidney,Burris,6 - 3,274,R,69, - ,New York Jets,2,6,0,1.5,0,0,0,0,"0
+"
+DT,Joe,Micho,6 - 7,300,1,73, - ,New York Giants,3,7,0,3.0,0,0,0,0,"1
+"
+CB,Troy,Blankenship,5 - 10,193,R,60, - ,Baltimore,1,1,1,0.0,0,0,0,0,"0
+"
+OLB,Billy,Rackley,6 - 1,222,R,65, - ,Green Bay,1,5,0,0.0,0,0,0,0,"0
+"
+ILB,Jackie,Eaton,6 - 0,234,R,74, - ,Oakland,1,6,0,0.0,0,0,0,0,"0
+"
+DE,Laurence,Danielson,6 - 4,283,R,66, - ,New York Giants,3,9,0,1.0,0,0,0,0,"0
+"
+OLB,Tony,Cochran,5 - 11,237,R,70, - ,Houston,7,33,0,1.5,0,0,0,0,"0
+"
+DE,Mike,Taylor,6 - 4,295,R,72, - ,Green Bay,7,24,0,7.0,0,1,0,0,"0
+"
+CB,David,Simpson,6 - 2,191,R,70, - ,Dallas,2,4,2,0.0,0,0,0,0,"0
+"
+ILB,Tom,Ames,6 - 1,225,R,70, - ,Green Bay,1,8,0,0.0,0,0,0,0,"0
+"
+CB,Will,Baker,5 - 11,190,1,66, - ,New England,3,8,3,0.0,0,0,0,1,"0
+"
+CB,Bob,Brewer,6 - 1,179,1,77, - ,New Orleans,4,16,3,0.0,0,0,0,0,"0
+"
+DT,Rich,Moore,6 - 7,307,R,80, - ,Jacksonville,5,20,0,3.5,1,1,0,0,"1
+"
+FS,Reggie,Beasley,5 - 10,207,R,78, - ,Miami,3,11,2,0.0,0,0,0,0,"0
+"
+DE,Brant,Thomas,6 - 2,270,R,73, - ,Minnesota,8,29,0,6.5,0,2,0,2,"0
+"
+OLB,Rolando,Brown,6 - 1,223,R,67, - ,Houston,6,35,0,0.0,0,0,0,0,"0
+"
+DE,Rodney,Galbreath,6 - 8,301,1,78, - ,Indianapolis,8,31,0,9.5,0,2,0,1,"0
+"
+DE,Barron,Anthony,6 - 3,278,R,81, - ,Cincinnati,6,22,0,5.0,0,0,0,0,"0
+"
+DT,Todd,Woodson,6 - 4,284,1,62, - ,Baltimore,3,5,0,1.5,0,0,0,0,"0
+"
+CB,Bashir,Rodriguez,73,194,R,78, - ,Carolina,5,25,1,0.0,0,0,0,0,"0
+"
+OLB,Keyon,Greene,6 - 0,223,1,60, - ,Miami,2,7,0,0.5,0,0,0,0,"1
+"
+CB,Nate,Tensi,72,196,R,80, - ,Carolina,9,43,4,0.0,0,0,0,0,"0
+"
+CB,Cameron,Newhouse,5 - 11,177,R,69, - ,Tampa Bay,10,53,1,0.0,0,1,0,0,"0
+"
+CB,David,Wilburn,5 - 10,195,1,88, - ,Atlanta,10,39,9,0.0,0,0,0,3,"0
+"
+DT,Quentin,Smith,6 - 8,294,1,79, - ,Indianapolis,11,39,0,11.0,1,0,0,0,"0
+"
+ILB,De'Mond,Goode,6 - 1,232,1,64, - ,New England,2,7,1,0.0,0,0,0,1,"0
+"
+DE,Bruce,Dwyer,6 - 4,294,R,60, - ,Oakland,4,15,0,3.5,2,1,0,0,"0
+"
+ILB,Blair,Williams,6 - 2,247,R,79, - ,Houston,7,56,0,2.0,0,0,0,0,"0
+"
+OLB,Billy,Westbrook,6 - 0,228,R,73, - ,St. Louis,6,36,0,0.0,0,0,0,0,"0
+"
+DE,Chuck,Smith,6 - 6,268,1,74, - ,New Orleans,2,8,0,3.0,0,0,0,0,"0
+"
+FS,Paul,Burge,6 - 2,186,R,67, - ,New England,2,7,1,0.0,0,0,0,0,"0
+"
+CB,Lawrence,Matthews,5 - 10,181,R,53, - ,Oakland,1,0,1,0.0,0,0,0,0,"0
+"
+OLB,Keyuo,Clark,6 - 1,242,R,75, - ,Indianapolis,4,21,0,1.0,1,0,0,0,"0
+"
+CB,Joe,Gammon,6 - 0,184,R,73, - ,New York Jets,2,3,2,0.0,0,0,0,0,"0
+"
+DE,Gary,Rounds,74,285,1,61, - ,Carolina,4,11,0,3.0,0,1,0,0,"0
+"
+OLB,Kwazi,Robb,6 - 1,232,1,78, - ,New York Jets,7,45,0,0.5,0,0,0,0,"0
+"
+DT,Terrence,Adams,79,284,1,69, - ,Carolina,3,12,0,3.0,1,0,0,0,"0
+"
+DE,Terry,Patton,6 - 3,275,R,76, - ,New Orleans,5,22,0,4.0,0,0,0,0,"0
+"
+OLB,Todd,Hoover,6 - 0,232,R,60, - ,Jacksonville,2,13,0,0.0,0,0,0,0,"0
+"
+OLB,James,Royals,5 - 11,231,R,66, - ,Detriot,1,5,0,0.0,0,0,0,0,"0
+"
+DE,Dennis,Abdullah,6 - 5,281,1,70, - ,Baltimore,3,15,1,1.0,0,0,0,0,"0
+"
+SS,Louis,Richter,6 - 1,175,R,71, - ,Dallas,3,15,1,0.0,0,0,0,0,"0
+"
+SS,Jonathan,Parker,6 - 2,183,1,74, - ,St. Louis,4,17,2,0.0,0,0,0,1,"0
+"
+DT,Mark,Bassett,6 - 5,299,R,76, - ,Green Bay,4,17,0,1.5,1,2,0,0,"0
+"
+ILB,Rich,Barker,6 - 0,234,R,72, - ,New York Jets,3,20,0,0.0,0,0,0,0,"0
+"
+SS,Luis,Nelson,6 - 4,201,1,72, - ,Detriot,1,6,0,0.0,0,0,0,0,"0
+"
+DE,Cory,Fonoti,6 - 7,279,R,70, - ,Detriot,2,8,0,1.0,0,0,0,0,"0
+"
+DT,Fred,Romanowski,6 - 2,279,R,76, - ,Oakland,4,16,0,0.5,0,1,0,0,"1
+"
+CB,Brian,Kelley,5 - 11,185,1,64, - ,Green Bay,1,3,1,0.0,0,0,0,0,"0
+"
+OLB,Jeff,Williams,6 - 2,237,R,80, - ,Jacksonville,7,50,1,1.5,1,1,0,2,"0
+"
+CB,Todd,Janik,5 - 11,188,R,55, - ,Detriot,1,1,1,0.0,0,0,0,0,"0
+"
+OLB,Morris,Millen,6 - 0,246,R,73, - ,St. Louis,6,36,0,1.5,0,1,0,1,"0
+"
+DE,Mark,Logan,6 - 3,287,R,80, - ,New England,5,16,0,9.0,1,0,0,0,"0
+"
+DE,Mike,Hill,6 - 7,289,R,76, - ,Cleveland,3,10,0,3.0,0,1,0,0,"0
+"
+ILB,Rabih,Delaney,6 - 1,237,R,77, - ,New Orleans,7,50,0,0.0,0,0,0,0,"0
+"
+OLB,Thomas,Stewart,6 - 2,254,R,76, - ,Cleveland,5,31,0,0.0,0,0,0,0,"0
+"
+ILB,Doug,Odoms,6 - 1,235,R,77, - ,Indianapolis,4,20,0,0.0,0,0,0,0,"0
+"
+DT,Charlie,Autry,6 - 2,317,1,73, - ,Houston,3,13,0,1.5,0,0,0,0,"0
+"
+ILB,Kay,Anderson,6 - 1,231,R,75, - ,Atlanta,9,59,0,1.0,0,0,0,0,"0
+"
+ILB,Willard,Arnold,6 - 2,249,R,79, - ,Houston,4,19,1,0.0,0,0,0,0,"0
+"
+CB,Wayne,Hape,5 - 10,184,R,75, - ,Houston,1,5,0,0.0,0,0,0,0,"0
+"
+DT,Kendall,Hill,6 - 6,312,R,74, - ,Cincinnati,2,11,0,0.0,0,0,0,0,"0
+"
+DT,Earl,Jackson,6 - 3,293,R,79, - ,Detriot,9,29,0,8.0,1,1,0,0,"0
+"
+CB,Shawn,Tennell,6 - 1,179,1,73, - ,New York Giants,4,13,4,0.0,0,0,0,0,"0
+"
+ILB,Nick,Upshaw,6 - 2,241,1,82, - ,Cincinnati,10,76,0,0.0,0,0,0,0,"0
+"
+FS,Alex,Collins,6 - 0,214,1,77, - ,Cincinnati,3,11,1,0.0,0,0,0,0,"0
+"
+DE,Dhani,Panfil,6 - 2,284,R,67, - ,Cleveland,1,3,0,1.0,0,0,0,0,"0
+"
