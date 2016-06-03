@@ -1,0 +1,529 @@
+ Position , Forename , Surname , Height , Weight , Year , Attribute , Skill 
+FB,David,Campbell,73,228,2018,Power,4.0,4.0,Boston College,2,5,14,2,2.80
+"
+",FB,Evan,Edmonds,68,Nevada,So,Power,2.0,2.0,2018,1,2,4,1
+2.00,"
+",FB,Gabriel,Fields,4.0,226,Jr,Speed,3.0,UCF,2018,1,3,4
+1,1.33,"
+",FB,Timothy,4.0,72,211,(Jr),Speed,4.0,Wisconsin,2018,1,3
+5,1,1.67,"
+",FB,Power,Hagen,71,210,Sr,3.0,3.0,UNLV,2018,6
+174,718,4,4.13,"
+",Sr,Jared,Hancock,68,237,Power,3.5,3.5,Michigan,2018
+1,3,0,1,0.00,254,FB,John,Hernandez,74,(Jr),Power,3.5,4.5,Kentucky
+2018,9,118,326,4,69,"
+",FB,Ali,Hester,243,So,Speed,3.0,4.5
+Illinois,2018,1,3,12,Hoke,4.00,"
+",FB,Brad,72,248,Sr,Power,4.0
+4.0,California,2018,1,2,Anthony,1,1.50,"
+",FB,Langley,73,219,(Fr),Speed
+3.0,4.0,Georgia Tech,2018,1,FB,6,1,2.00,"
+",Ricky,Lewis,71,208,(Jr)
+Power,4.0,4.0,Temple,2018,"
+",271,1364,16,5.03,FB,Andrew,Lilly,70,202
+So,Speed,3.5,5.0,San Diego State,4.66,6,151,704,7,"
+",FB,Mark,Macleod,73
+221,Sr,Power,4.5,4.5,16,2018,12,268,1312,4.90,"
+",FB,Fredrick,Marshall
+74,174,(Jr),Speed,5.0,405,TCU,2018,5,103,5,3.93,"
+",FB,Harrison
+Mullin,69,254,Fr,Power,123,3.0,Kent State,2018,5,494,7,4.02,"
+",FB
+Richard,Reynolds,71,232,So,4,1.5,3.5,Southern Miss,2018,67,196,1,2.93,"
+"
+FB,Ryan,Roach,68,251,2018,Speed,4.0,4.5,TCU,1,18,33,0,1.83
+"
+",FB,Jose,Schmidt,74,California,(Jr),Speed,4.0,4.0,2018,12,305,1203,8
+3.94,"
+",FB,Dylan,Stewart,5.0,227,Sr,Power,5.0,Kansas State,2018,10,275,1215
+6,4.42,"
+",FB,Kamari,1.0,72,247,Fr,Power,5.0,San Jose State,2018,5,50
+169,1,3.38,"
+",FB,Power,Tuitama,73,240,(So),3.5,5.0,ECU,2018,12
+302,1416,13,4.69,"
+",Fr,Cooper,Abrams,74,206,Scrambling,3.0,3.0,Duke,2018
+11,58,284,2,4.90,184,QB,Alfredo,Adams,75,Sr,Scrambling,3.0,3.0,Nevada
+2018,10,53,266,2,76,"
+",QB,Michael,Allen,225,(Jr),Scrambling,3.0,3.0
+Nebraska,2018,1,1,5,Allen - Hollis,5.00,"
+",QB,Elias,73,204,(Fr),Scrambling,3.0
+4.0,LSU,2018,9,46,Lachlan,0,4.61,"
+",QB,Ash,76,200,(So),Scrambling
+2.5,3.0,North Carolina,2018,1,QB,31,1,5.17,"
+",D.K.,Bates,73,209,Jr
+Scrambling,3.0,4.0,Notre Dame,2018,"
+",59,227,2,3.85,QB,Jason,Baum,73,230
+Fr,Scrambling,3.0,4.0,Oregon,5.36,12,74,397,4,"
+",QB,Mamadou,Bellamy,72
+218,Fr,Scrambling,2.0,4.0,0,2018,6,36,153,4.25,"
+",QB,A.J.,Bowden
+73,205,(Sr),Pocket,4.5, - 20,Kentucky,2018,1,3,0, - 6.67,"
+",QB,Micah
+Browning,74,215,(Fr),Pocket,25,2.5,Charlotte,2018,4,90,0,3.60,"
+",QB
+Nathan,Burden,74,201,Jr,1,4.0,4.0,TCU,2018,2,4,1,2.00,"
+"
+QB,Darren,Carroll,71,212,2018,Scrambling,3.5,3.5,Boise State,9,54,371,4,6.87
+"
+",QB,Elias,Carter,75,Ball State,(Fr),Scrambling,1.5,3.5,2018,3,14,3,0
+0.21,"
+",QB,Liam,Carver,4.0,207,(Fr),Scrambling,2.0,ECU,2018,10,58,280
+1,4.83,"
+",QB,Christian,1.5,75,210,(Fr),Scrambling,4.0,Kentucky,2018,1,3
+25,1,8.33,"
+",QB,Pocket,Combs,76,196,Jr,2.5,3.5,FAU,2018,1
+2, - 5,0, - 2.50,"
+",(Fr),Milo,Condon,73,185,Scrambling,2.0,4.0,South Carolina,2018
+8,37,159,1,4.30,201,QB,Charles,Conley,73,Sr,Scrambling,3.0,3.0,Buffalo
+2018,10,61,219,2,72,"
+",QB,Eddie,Connelly,207,Fr,Scrambling,2.5,4.0
+Bowling Green,2018,11,64,276,Cooke,4.31,"
+",QB,Kevin,75,172,(Jr),Scrambling,2.5
+2.5,Marshall,2018,1,5,August,0,0.60,"
+",QB,Crain,72,206,Fr,Scrambling
+1.0,2.0,Kansas State,2018,1,QB,2,0,2.00,"
+",Henry,Crain,75,203,Jr
+Scrambling,3.0,4.5,Arizona,2018,"
+",61,279,3,4.57,QB,Eli,Damico - Slack,75,196
+(So),Scrambling,2.5,2.5,Northwestern,4.00,1,1,4,0,"
+",QB,Matthew,Davis,76
+172,(Jr),Scrambling,2.0,2.5,1,2018,1,3,40,13.33,"
+",QB,Matthew,Dobbs
+73,213,(Jr),Scrambling,4.5,132,Virginia Tech,2018,10,46,1,2.87,"
+",QB,Randy
+Douglas,74,215,Sr,Scrambling,3,3.0,USC,2018,1,9,0,3.00,"
+",QB
+Tucker,Dowden,75,211,(Fr),12,2.0,5.0,Missouri,2018,78,500,2,6.41,"
+"
+QB,Brett,Fisher,74,211,2018,Scrambling,5.0,5.0,Miami (FL),12,79,548,4,6.94
+"
+",QB,Mohammed,Foster,72,West Virginia,Fr,Scrambling,3.0,5.0,2018,12,78,541,5
+6.94,"
+",QB,Blake,Fry,3.5,225,So,Scrambling,2.0,NC State,2018,4,18,52
+1,2.89,"
+",QB,John,3.0,72,218,Fr,Scrambling,3.5,Kent State,2018,10,57
+344,5,6.04,"
+",QB,Scrambling,Goetz,76,208,(So),2.5,3.5,Duke,2018,1
+1,3,0,3.00,"
+",(Fr),Brayden,Gruber,76,193,Scrambling,2.5,3.5,Western Michigan,2018
+10,50,195,3,3.90,200,QB,Daniel,Gruber,73,(Sr),Pocket,2.5,2.5,NC State
+2018,2,7, - 17,0,75,"
+",QB,Avery,Hein,206,(Fr),Scrambling,2.0,3.5
+Wyoming,2018,3,14,15,Higgins,1.07,"
+",QB,Aiden,73,231,So,Scrambling,2.0
+3.5,Kansas State,2018,6,36,Hector,3,3.00,"
+",QB,Hsu,73,210,(Sr),Pocket
+3.5,3.5,Toledo,2018,1,QB, - 14,0, - 4.67,"
+",Ahmed,Jarvis,71,223,(Fr)
+Pocket,2.0,4.5,Wisconsin,2018,"
+",13,41,1,3.15,QB,Brian,Jennings,73,208
+(So),Scrambling,3.5,3.5,Memphis,4.30,12,61,262,1,"
+",QB,David,Kaplan,73
+189,(Sr),Pocket,4.5,4.5,0,2018,1,5, - 29, - 5.80,"
+",QB,Nico,Kaufman
+73,236,(So),Scrambling,3.5,391,Air Force,2018,11,73,2,5.36,"
+",QB,Richard
+Kerr,73,193,Sr,Scrambling,47,1.5,FIU,2018,11,151,0,3.21,"
+",QB
+Jacory,Kessler,75,224,Jr,11,5.0,5.0,Auburn,2018,73,448,3,6.14,"
+"
+QB,Joel,King,73,220,2018,Pocket,5.0,5.0,Houston,1,2,4,1,2.00
+"
+",QB,Marquise,Laws,76,Ole Miss,So,Scrambling,3.5,4.5,2018,12,65,342,2
+5.26,"
+",QB,Caleb,Leggett,4.0,219,(Fr),Scrambling,3.5,Army,2018,10,59,306
+5,5.19,"
+",QB,Alex,5.0,73,205,(Sr),Pocket,5.0,Boston College,2018,1,4
+2,1,0.50,"
+",QB,Scrambling,Love,74,195,So,2.0,3.0,Utah State,2018,7
+28,121,2,4.32,"
+",So,Bobby,McClellan,74,188,Scrambling,2.0,3.0,Ball State,2018
+2,10,36,0,3.60,232,QB,Julius,McIntosh,72,Jr,Scrambling,4.5,5.0,Washington
+2018,12,75,416,4,72,"
+",QB,Ahmed,Miles,217,Jr,Scrambling,3.0,4.0
+Navy,2018,10,59,275,Milner,4.66,"
+",QB,Elias,74,238,Jr,Scrambling,3.0
+3.0,Wake Forest,2018,12,55,James,1,2.22,"
+",QB,Mitchell,72,214,(Sr),Scrambling
+3.5,3.5,UCF,2018,10,QB,316,1,5.75,"
+",Demetrius,Morris,74,198,(Sr)
+Pocket,3.0,4.0,Marshall,2018,"
+",7, - 28,0, - 4.00,QB,Joe,Nelson,74,197
+(Jr),Scrambling,3.0,3.0,Illinois,6.85,4,27,185,2,"
+",QB,Sean,Nesbitt,73
+185,Sr,Scrambling,3.5,3.5,3,2018,7,38,101,2.66,"
+",QB,Sean,O'Reilly
+73,217,(Sr),Pocket,4.0,4,Minnesota,2018,1,2,1,2.00,"
+",QB,Jesus
+Parker,73,212,Sr,Scrambling,4,2.0,Southern Miss,2018,1,9,0,2.25,"
+",QB
+Stephen,Peters,76,234,(Fr),9,2.0,3.5,Ohio,2018,48,233,1,4.85,"
+"
+QB,Lawrence,Pritchett,72,187,2018,Scrambling,5.0,5.0,Tulane,11,63,327,1,5.19
+"
+",QB,Scott,Randolph,75,Eastern Michigan,(Jr),Scrambling,2.0,2.5,2018,10,50,192,2
+3.84,"
+",QB,Samuel,Raymond,3.0,225,(Fr),Scrambling,2.5,Oklahoma State,2018,3,15,26
+0,1.73,"
+",QB,John,2.0,74,184,(Sr),Scrambling,2.0,Bowling Green,2018,1,1
+ - 5,0, - 5.00,"
+",QB,Scrambling,Rupp,74,238,(Fr),2.0,4.5,Indiana,2018,12
+83,456,5,5.49,"
+",(Fr),Ryder,Shipman,75,199,Pocket,2.0,4.0,Mississippi State,2018
+1,4,16,0,4.00,175,QB,Mark,Simmons,73,Jr,Scrambling,2.0,3.0,UAB
+2018,11,65,276,2,76,"
+",QB,Marquise,Simpkins,225,(Fr),Scrambling,2.0,4.5
+Maryland,2018,12,79,538,Sorenson,6.81,"
+",QB,Owen,76,223,(So),Scrambling,2.5
+4.0,Notre Dame,2018,1,4,Ayden,0, - 4.50,"
+",QB,Steele,75,194,(So),Scrambling
+2.5,3.5,Louisville,2018,2,QB,95,1,7.31,"
+",Makai,Stewart,70,190,(Fr)
+Pocket,2.0,4.5,Connecticut,2018,"
+",30,258,2,8.60,QB,Robert,Stewart,74,179
+(Jr),Scrambling,2.0,2.0,Middle Tennessee,1.72,9,29,50,2,"
+",QB,Brian,Sumner,74
+227,So,Pocket,1.0,2.0,0,2018,2,8, - 16, - 2.00,"
+",QB,Walt,Sutherland
+75,211,Jr,Scrambling,3.5,378,Central Michigan,2018,11,62,4,6.10,"
+",QB,Marcus
+Swartz,74,237,(So),Scrambling,65,4.0,Baylor,2018,11,422,4,6.49,"
+",QB
+Salvatore,Tanner,75,228,(So),11,2.5,4.0,Georgia,2018,58,319,3,5.50,"
+"
+QB,Kamari,Terry,73,222,2018,Scrambling,2.0,4.5,North Texas,11,55,133,3,2.42
+"
+",QB,Julius,Thomas,75,Tennessee,(Jr),Scrambling,4.5,4.5,2018,10,57,249,3
+4.37,"
+",QB,Hemana,Toma,3.0,237,So,Scrambling,1.5,Wake Forest,2018,2,4, - 22
+0, - 5.50,"
+",QB,Luke,4.0,73,238,(Fr),Scrambling,4.5,USC,2018,10,62
+514,8,8.29,"
+",QB,Scrambling,Trimble,76,207,(Fr),1.0,2.0,Old Dominion,2018,1
+5, - 15,0, - 3.00,"
+",Sr,Scott,Watt,78,199,Scrambling,1.5,1.5,Old Dominion,2018
+2,7, - 1,0, - 0.14,208,QB,Clifford,Wilcox,73,(Jr),Scrambling,4.0,4.0,Iowa State
+2018,11,67,367,1,75,"
+",QB,Richard,Woods,226,Sr,Scrambling,3.0,3.0
+California,2018,9,41,156,Zamora,3.80,"
+",QB,T.J.,75,222,So,Scrambling,3.0
+4.0,Akron,2018,12,74,Patrick,4,5.39,"
+",RB,Allen,73,169,Fr,Speed
+1.0,1.5,Middle Tennessee,2018,3,RB,48,0,2.67,"
+",Orlando,Baker,69,195,Jr
+Power,3.5,3.5,Marshall,2018,"
+",9,50,2,5.56,RB,Hunter,Banks,70,191
+Jr,Power,3.5,3.5,Notre Dame,1.25,1,4,5,0,"
+",RB,William,Banks,69
+178,(Jr),Speed,3.0,3.0,11,2018,12,245,1069,4.36,"
+",RB,DeAndre,Barbour
+72,206,Jr,Power,3.0,408,Arkansas,2018,12,106,3,3.85,"
+",RB,Justin
+Barksdale,71,188,So,Speed,265,4.0,UTEP,2018,10,1006,5,3.80,"
+",RB
+Patrick,Baxter,70,198,(Jr),2,3.5,3.5,Wisconsin,2018,11,89,1,8.09,"
+"
+RB,Andrew,Beckham,68,192,2018,Speed,1.0,1.5,FIU,12,297,999,9,3.36
+"
+",RB,Alex,Bell,71,Miami (OH),So,Power,2.0,3.0,2018,1,3, - 1,0
+ - 0.33,"
+",RB,Chris,Bell,5.0,198,(Sr),Speed,5.0,Navy,2018,12,276,1630
+18,5.91,"
+",RB,Sean,4.5,73,209,Jr,Speed,5.0,Baylor,2018,12,284
+1611,19,5.67,"
+",RB,Speed,Black,73,229,Sr,3.0,3.0,UTEP,2018,3
+65,244,3,3.75,"
+",So,Kameron,Blackman,71,214,Speed,2.0,2.5,Oregon State,2018
+12,157,475,2,3.03,196,RB,Cayden,Blue,71,(Fr),Speed,3.0,3.0,Toledo
+2018,6,121,504,8,68,"
+",RB,Daniel,Bonds,213,(So),Speed,3.0,3.0
+Iowa,2018,1,5,20,Booker,4.00,"
+",RB,Troy,76,222,(Sr),Power,4.5
+4.5,Texas,2018,11,150,Rodney,9,4.09,"
+",RB,Bradley,70,183,(So),Power
+2.0,2.5,Old Dominion,2018,1,RB,9,0,1.80,"
+",Matthew,Brooks,68,194,Sr
+Speed,3.5,3.5,North Texas,2018,"
+",26,102,1,3.92,RB,Justin,Brunson,70,189
+(Jr),Speed,3.0,3.0,Central Michigan,5.10,3,50,255,4,"
+",RB,Shamar,Burroughs,73
+198,(Fr),Power,2.0,4.0,9,2018,6,103,401,3.89,"
+",RB,Elias,Butler
+67,220,Jr,Power,3.5,760,Texas A&M,2018,12,179,9,4.25,"
+",RB,Andrew
+Butts,70,211,(So),Speed,236,4.0,Washington State,2018,12,1072,12,4.54,"
+",RB
+Emery,Campbell,71,197,Sr,12,2.5,2.5,Old Dominion,2018,342,1354,18,3.96,"
+"
+RB,Timothy,Cano,69,230,2018,Power,4.0,4.5,Indiana,12,298,1394,14,4.68
+"
+",RB,William,Carlson,71,Illinois,(Jr),Speed,4.0,4.0,2018,12,287,1283,8
+4.47,"
+",RB,Stanley,Carrillo,3.0,204,(Sr),Power,3.0,Central Michigan,2018,9,174,737
+5,4.24,"
+",RB,Earl,2.5,73,199,Sr,Speed,2.5,Rice,2018,1,4
+0,0,0.00,"
+",RB,Power,Church,73,226,So,2.5,3.5,South Carolina,2018,12
+226,811,5,3.59,"
+",(So),Jalen,Clayton,68,208,Power,4.0,4.0,Kansas,2018
+12,212,883,8,4.17,187,RB,Paul,Cleveland,70,(Sr),Power,3.5,3.5,North Texas
+2018,10,213,908,12,69,"
+",RB,Levi,Cline,212,(So),Speed,3.0,4.0
+Hawaii,2018,1,3,28,Coley,9.33,"
+",RB,Giovanni,70,227,So,Power,3.0
+3.5,Syracuse,2018,7,115,Justin,3,3.84,"
+",RB,Couture,70,178,(Sr),Speed
+4.0,4.0,Ohio,2018,12,RB,1422,13,4.77,"
+",Nikita,Crowe,71,226,(So)
+Power,3.0,4.5,Tennessee,2018,"
+",258,1120,13,4.34,RB,Ben,Curry,71,193
+(Sr),Speed,4.0,4.0,Boston College,4.53,12,250,1133,12,"
+",RB,Jaeden,Daniel,68
+195,(So),Speed,2.5,3.5,6,2018,10,112,401,3.58,"
+",RB,Khalil,Daniels
+66,179,Jr,Speed,3.5,80,Georgia State,2018,1,16,1,5.00,"
+",RB,Dean
+DeLong,75,211,(Sr),Speed,262,4.0,USC,2018,12,1138,8,4.34,"
+",RB
+Chase,Dillard,69,175,(Jr),2,4.0,4.0,Alabama,2018,12,111,2,9.25,"
+"
+RB,Jaz,Durant,73,195,2018,Speed,4.5,4.5,Auburn,12,294,1949,21,6.63
+"
+",RB,Bas Van,Dyke,75,Hawaii,(Sr),Speed,4.5,4.5,2018,11,174,931,10
+5.35,"
+",RB,Sean,Egloff,4.5,207,(Sr),Speed,4.5,Oklahoma,2018,12,298,1465
+14,4.92,"
+",RB,Emmanuel,4.5,67,213,Sr,Power,4.5,Western Michigan,2018,11,276
+1619,24,5.87,"
+",RB,Speed,Fitzgerald,71,174,(Fr),1.0,3.5,Southern Miss,2018,6
+136,488,4,3.59,"
+",(Sr),Edwin,Forster,75,221,Power,4.5,4.5,Michigan,2018
+12,252,1286,12,5.10,190,RB,Will,Fuller,70,Sr,Speed,5.0,5.0,Mississippi State
+2018,12,290,1475,14,73,"
+",RB,Moussa,Goode,198,Jr,Speed,4.5,5.0
+Ohio State,2018,12,270,1379,Gordon,5.11,"
+",RB,Sincere,72,212,(So),Power,2.5
+3.5,Rutgers,2018,12,166,Evan,8,4.54,"
+",RB,Grant,72,194,Fr,Power
+2.0,5.0,Georgia State,2018,11,RB,1697,20,6.29,"
+",Josh,Gray,68,186,(Sr)
+Speed,4.0,4.0,Duke,2018,"
+",290,1440,14,4.97,RB,William,Gray,71,185
+Sr,Power,2.0,2.0,Kent State,3.13,7,98,307,2,"
+",RB,Will,Hammond,68
+201,Sr,Power,4.5,4.5,18,2018,12,262,1339,5.11,"
+",RB,Elijah,Harden
+68,187,Jr,Speed,4.0,1527,Florida State,2018,12,267,17,5.72,"
+",RB,Samir
+Hatcher,70,217,(Fr),Power,3,4.0,Maryland,2018,1,12,1,4.00,"
+",RB
+William,Head,69,193,So,2,1.5,3.0,Southern Miss,2018,50,190,3,3.80,"
+"
+RB,Mamadou,Heard,69,211,2018,Power,4.5,4.5,Maryland,12,262,1307,13,4.99
+"
+",RB,Julian,Holcomb,69,Northern Illinois,(Fr),Speed,2.5,3.5,2018,12,212,803,6
+3.79,"
+",RB,Christian,Holliday,3.0,231,(So),Power,3.0,Northwestern,2018,1,23,101
+1,4.39,"
+",RB,Norris,4.5,69,173,Sr,Speed,4.5,Ball State,2018,8,203
+1083,8,5.33,"
+",RB,Speed,Huff,67,213,(So),3.0,4.5,LSU,2018,12
+246,1048,8,4.26,"
+",(So),Elijah,Humphrey,70,207,Speed,2.5,3.5,Kansas State,2018
+1,6,20,0,3.33,235,RB,DeNorris,Jackson,72,(So),Power,5.0,5.0,UCF
+2018,12,306,1707,23,71,"
+",RB,Jason,Jarvis,184,(Jr),Speed,2.0,2.5
+Utah State,2018,3,52,164,Jones,3.15,"
+",RB,Alfonso,69,177,Jr,Speed,2.5
+3.5,Louisiana Tech,2018,12,192,Calvin,3,3.06,"
+",RB,Jones,76,208,(Sr),Speed
+4.0,4.0,Georgia Tech,2018,12,RB,1495,14,5.19,"
+",Trainer,Joyce,75,221,(Sr)
+Speed,4.0,4.0,Houston,2018,"
+",228,1070,14,4.69,RB,Jeffrey,Keenan,70,203
+(Jr),Power,3.0,3.5,Colorado State,3.69,11,131,483,6,"
+",RB,Kalei,Keil,73
+201,(Fr),Power,2.0,4.5,10,2018,12,295,1346,4.56,"
+",RB,Marty,Keisel
+71,222,(Sr),Power,4.5,1592,UAB,2018,12,299,19,5.32,"
+",RB,Caleb
+Kilmer,74,220,(Sr),Speed,123,3.0,San Diego State,2018,6,495,4,4.02,"
+",RB
+Earl,King,73,197,Jr,11,1.5,2.0,Middle Tennessee,2018,95,295,3,3.11,"
+"
+RB,Eddie,Kirkland,68,202,2018,Power,2.0,3.5,Miami (FL),11,185,663,9,3.58
+"
+",RB,Austin,Laws,71,Ball State,(Fr),Speed,2.0,4.0,2018,4,101,391,5
+3.87,"
+",RB,Edgar,Lewis,3.0,200,(So),Speed,2.0,UTSA,2018,12,273,1037
+10,3.80,"
+",RB,Willie,3.5,71,199,(Jr),Speed,4.0,Virginia Tech,2018,10,154
+540,3,3.51,"
+",RB,Power,Mallory,73,195,(So),3.5,3.5,Texas Tech,2018,12
+237,1018,8,4.30,"
+",(So),Timmy,Mark,70,191,Power,3.0,4.0,Clemson,2018
+12,264,1135,14,4.30,200,RB,Randy,Martin,68,(Jr),Speed,4.0,4.0,Michigan State
+2018,12,270,1172,9,68,"
+",RB,David,Martinez,197,(So),Speed,1.0,1.5
+FIU,2018,1,5,6,Martinez,1.20,"
+",RB,Philip,68,206,Sr,Power,3.0
+3.0,Kentucky,2018,2,18,Marshawn,0,3.06,"
+",RB,Matthison,72,234,(Sr),Speed
+5.0,5.0,NC State,2018,12,RB,1436,8,4.45,"
+",Damien,Mays,66,195,Jr
+Power,3.5,4.0,Miami (OH),2018,"
+",205,847,10,4.13,RB,Joe,McNeil,69,202
+(Jr),Power,3.0,3.0,Duke,0.80,1,5,4,0,"
+",RB,Harry,Mcconnell,70
+205,Sr,Speed,1.5,1.5,0,2018,3,7,16,2.29,"
+",RB,Elmer,Mcdonald
+68,193,Sr,Speed,2.5,19,Washington State,2018,1,6,1,3.17,"
+",RB,Orlando
+Mckay,70,172,(Jr),Power,78,3.5,San Jose State,2018,7,319,3,4.09,"
+",RB
+Cesar,Miller,69,197,(Jr),5,3.0,3.0,Syracuse,2018,76,303,3,3.99,"
+"
+RB,Elmer,Miller,73,192,2018,Speed,3.5,3.5,Boston College,2,18,90,2,5.00
+"
+",RB,Marshawn,Miller,73,Connecticut,(Fr),Speed,4.0,5.0,2018,1,2,6,1
+3.00,"
+",RB,Dwayne,Minor,3.0,170,Jr,Speed,2.5,Florida State,2018,1,4,22
+0,5.50,"
+",RB,Grady,4.5,73,231,(Sr),Power,4.5,Boise State,2018,12,307
+1758,21,5.73,"
+",RB,Speed,Mobley,67,188,Fr,3.0,3.5,Arizona,2018,12
+264,1113,13,4.22,"
+",Jr,Carlos,Moore,69,190,Power,2.0,3.0,Western Kentucky,2018
+12,138,563,4,4.08,193,RB,Kevin,Muse,68,Jr,Power,4.5,5.0,SMU
+2018,12,305,1585,14,68,"
+",RB,Mohamed,Mustafa,198,Fr,Power,1.0,4.0
+West Virginia,2018,11,227,895,Nance,3.94,"
+",RB,Daniel,66,189,Jr,Speed,4.5
+5.0,Marshall,2018,12,234,Jeffrey,20,5.87,"
+",RB,Nash,73,211,So,Speed
+3.0,3.0,Toledo,2018,6,RB,559,5,4.08,"
+",Afasa,Neru,66,210,Jr
+Power,3.5,3.5,Oklahoma State,2018,"
+",222,973,10,4.38,RB,Ethan,Newby,69,205
+(Fr),Speed,2.5,4.0,Florida,3.72,12,205,762,6,"
+",RB,Jeremiah,Newton,72
+174,Jr,Speed,4.0,4.5,14,2018,12,249,1320,5.30,"
+",RB,Kieran,O'Connell
+73,215,So,Power,3.0,1458,Cincinnati,2018,12,354,10,4.12,"
+",RB,Jim
+O'Neal,71,173,(Sr),Power,268,4.0,Georgia,2018,12,1236,8,4.61,"
+",RB
+Frank,Osborn,67,184,(Jr),12,4.0,4.0,Stanford,2018,203,890,10,4.38,"
+"
+RB,Arturo,Pacheco,70,194,2018,Speed,4.5,5.0,Iowa State,12,300,1892,21,6.31
+"
+",RB,Kyle,Palmer,71,Wake Forest,So,Speed,3.0,4.0,2018,12,240,1076,9
+4.48,"
+",RB,Charles,Parker,4.0,185,(Jr),Speed,4.0,Arizona State,2018,12,297,1351
+14,4.55,"
+",RB,Isaiah,3.0,72,192,(So),Speed,4.0,North Carolina,2018,1,7
+68,2,9.71,"
+",RB,Speed,Pennington,73,185,Sr,3.5,3.5,New Mexico,2018,12
+264,1275,13,4.83,"
+",(Jr),Charles,Perkins,67,201,Power,4.0,4.0,Washington,2018
+12,260,1083,5,4.17,206,RB,Keyshawn,Polsfoot,73,(Sr),Speed,4.0,4.0,Army
+2018,12,272,1318,14,67,"
+",RB,Donte,Pringle,219,Fr,Power,2.5,2.5
+Ole Miss,2018,12,270,924,Proctor,3.42,"
+",RB,William,72,203,Sr,Power,3.0
+3.0,Kansas State,2018,1,33,Logan,1,4.30,"
+",RB,Pruitt,67,232,Jr,Power
+4.5,4.5,North Carolina,2018,12,RB,1612,16,5.39,"
+",Marc,Purdy,72,191,(Fr)
+Speed,2.0,4.0,Kentucky,2018,"
+",36,105,1,2.92,RB,Kareem,Quarless,67,232
+Fr,Power,1.5,2.5,Eastern Michigan,3.00,1,2,6,0,"
+",RB,Don,Rambo,76
+198,(Sr),Power,3.0,3.0,7,2018,12,173,644,3.72,"
+",RB,Aurelio,Rasmussen
+71,203,(So),Speed,1.0,201,FAU,2018,12,78,1,2.58,"
+",RB,Ricardo
+Reed,69,201,Sr,Power,301,5.0,Connecticut,2018,12,1912,20,6.35,"
+",RB
+K.J.,Richards,71,229,(Sr),12,4.0,4.0,Minnesota,2018,235,1134,10,4.83,"
+"
+RB,Charles,Rocha,70,185,2018,Power,4.0,4.0,Nevada,12,299,1347,12,4.51
+"
+",RB,Rodrigo,Rogers,71,Pittsburgh,(Jr),Speed,4.0,4.0,2018,2,29,114,0
+3.93,"
+",RB,Nathaniel,Ruff,4.5,176,(Fr),Speed,2.0,Akron,2018,12,273,1220
+9,4.47,"
+",RB,Pedro,2.5,67,174,Fr,Speed,2.5,Nebraska,2018,1,3
+9,0,3.00,"
+",RB,Power,Samuels,76,187,(Sr),4.0,4.0,Fresno State,2018,12
+153,692,5,4.52,"
+",So,Oscar,Sanderson,70,232,Power,3.0,3.0,Wake Forest,2018
+2,6,5,0,0.83,218,RB,Reginald,Saunders,70,(Fr),Power,2.0,4.0,Virginia
+2018,2,32,99,0,70,"
+",RB,Terry,Saunders,194,(Jr),Speed,1.5,2.0
+UNLV,2018,6,129,424,Schlichter,3.29,"
+",RB,Brian,71,206,(Sr),Power,4.5
+4.5,Colorado,2018,12,270,William,12,4.73,"
+",RB,Serrano,69,187,(So),Speed
+1.0,2.0,Charlotte,2018,12,RB,871,5,3.53,"
+",Jerome,Shafer,68,225,Sr
+Power,3.5,3.5,Virginia,2018,"
+",111,488,6,4.40,RB,C.J.,Sheffield,71,192
+Jr,Power,5.0,5.0,Purdue,5.27,12,282,1486,18,"
+",RB,Caleb,Sherwin,72
+192,(Sr),Speed,4.0,4.0,6,2018,12,258,1220,4.73,"
+",RB,Josh,Shiancoe
+74,221,(Sr),Power,5.0,1711,UCLA,2018,12,313,18,5.47,"
+",RB,Jared
+Smallwood,68,191,(Sr),Speed,289,4.5,BYU,2018,12,1465,11,5.07,"
+",RB
+Asante,Sowell,75,194,(Sr),12,5.0,5.0,Wisconsin,2018,313,2064,21,6.59,"
+"
+RB,Jamal,Suggs,66,196,2018,Power,1.5,3.5,Utah State,9,194,681,5,3.51
+"
+",RB,Larry,Sullivan,72,Northwestern,(Jr),Power,3.5,3.5,2018,11,182,732,7
+4.02,"
+",RB,Troy,Tanner,4.0,191,(So),Speed,3.5,Wyoming,2018,12,274,1147
+8,4.19,"
+",RB,Johnny,3.5,69,188,(Fr),Speed,4.5,USF,2018,1,4
+39,0,9.75,"
+",RB,Power,Taylor,70,178,Sr,4.5,4.5,USF,2018,12
+254,1366,14,5.38,"
+",So,Preston,Tolliver,73,216,Power,4.0,4.0,Tulane,2018
+12,286,1394,14,4.87,200,RB,Omar,Triplett,72,Fr,Speed,2.5,3.5,Oregon
+2018,12,257,1008,8,68,"
+",RB,Xavier,Valentine,174,Fr,Speed,3.0,4.5
+Air Force,2018,12,281,1264,Vega,4.50,"
+",RB,Ricky,70,214,Fr,Speed,1.0
+5.0,Penn State,2018,12,225,Stephen,13,4.38,"
+",RB,Waters,67,198,(Jr),Power
+4.0,4.0,Vanderbilt,2018,12,RB,1365,11,4.71,"
+",Maurice,White,71,172,(So)
+Speed,2.5,3.5,Louisville,2018,"
+",285,1096,7,3.85,RB,Jaden,Whitley,69,211
+(Fr),Power,2.0,4.0,Michigan,6.18,3,17,105,2,"
+",RB,Marcus,Williams,70
+219,(Jr),Speed,5.0,5.0,18,2018,12,278,1608,5.78,"
+",RB,Brandon,Wilson
+70,195,Jr,Speed,2.5,935,Memphis,2018,12,259,10,3.61,"
+",RB,Isaac
+Wilson,72,210,(So),Power,9,4.5,Georgia,2018,1,68,0,7.56,"
+",RB
+Nathan,Wilson,68,224,(Jr),12,4.5,5.0,Alabama,2018,279,1376,14,4.93,"
+"
+RB,Buddy,Woodward,73,180,2018,Power,2.5,2.5,Wyoming,1,4,4,0,1.00
+"
+",RB,Nate,Wooten,67,Rice,Fr,Power,3.0,3.5,2018,12,221,933,10
+4.22,"
+",RB,Mamadou,Wynn,4.0,215,So,Power,4.0,Buffalo,2018,12,288,1414
+14,4.91,"
+",WR,Charles,2.5,78,194,Jr,Speed,2.5,Old Dominion,2018,2,5
+7,0,1.40,"
+",WR,Speed,Cunningham,71,193,(Jr),3.5,3.5,Wyoming,2018,1
+3,24,1,8.00,"
+",(Sr),Cameron,Lindsey,75,207,Speed,4.0,4.0,Missouri,2018
+2,3,16,0,5.33,173,WR,Steven,Noel,70,(So),Speed,2.5,3.5,Illinois
+2018,1,3,27,0,75,"
+",WR,Raheem,Robinson,192,Jr,Speed,5.0,5.0
+Oklahoma State,2018,6,24,365,3,15.21,"
+"

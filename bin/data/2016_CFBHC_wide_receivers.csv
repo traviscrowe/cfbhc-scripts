@@ -1,0 +1,564 @@
+ Position , Forename , Surname , Height , Weight , Standing , Skill , Potential , Team , Games , Attempts , Yards , TDs , Fumbles , 100yd Games , YPC ," YPG
+"
+RB,Brian,Schlichter,5 - 11,206,(So),3.5,4.5,Colorado,12,234,1100,9,2,3,4.70,"91.67
+"
+QB,Ahmed,Miles,6 - 0,217,Fr,2.0,4.0,Michigan State,1,2, - 11,0,0,0, - 5.50," - 11.00
+"
+RB,Calvin,Jones,6 - 4,208,(So),4.0,4.0,Georgia Tech,13,178,947,11,0,3,5.32,"72.85
+"
+QB,Michael,Larson,6 - 1,226,Sr,2.0,2.0,Kent State,3,15,71,0,0,0,4.73,"23.67
+"
+RB,Gil,Novacek,5 - 11,188,Jr,4.0,4.5,Arizona,13,231,1176,16,0,4,5.09,"90.46
+"
+QB,Byron,Harper,6 - 3,225,Jr,4.5,4.5,Utah,14,97,612,9,0,1,6.31,"43.71
+"
+QB,Jacory,Kessler,6 - 3,224,Fr,3.0,5.0,Auburn,13,87,478,9,1,0,5.49,"36.77
+"
+FB,Jeb,Hoying,6 - 0,229,(Jr),3.5,3.5,USC,1,4,43,1,0,0,10.75,"43.00
+"
+FB,Kevin,Naquin,5 - 11,180,So,3.0,3.0,UCLA,1,3,4,1,0,0,1.33,"4.00
+"
+RB,Adrian,Robinson,5 - 11,203,Jr,4.5,4.5,Houston,14,254,1433,16,1,8,5.64,"102.36
+"
+QB,Alex,Leshoure,6 - 1,205,(So),4.5,5.0,Boston College,1,2, - 5,0,1,0, - 2.50," - 5.00
+"
+RB,Doug,Chadwick,5 - 9,219,Jr,2.5,3.5,Tennessee,6,37,110,3,0,0,2.97,"18.33
+"
+RB,Jimmy,Carrier,6 - 1,184,Jr,2.5,3.0,New Mexico,6,118,553,4,1,2,4.69,"92.17
+"
+RB,Lewis,Hodge,5 - 11,189,(Sr),2.5,2.5,Illinois,2,7,7,0,0,0,1.00,"3.50
+"
+RB,Frank,Osborn,67,184,(Fr),2.5,4.0,Stanford,1,5,23,1,0,0,4.60,"23.00
+"
+QB,James,Jordan,6 - 3,209,(Fr),3.0,4.0,Georgia State,1,2,4,0,1,0,2.00,"4.00
+"
+RB,Darius,Jenkins,5 - 11,206,Jr,3.5,3.5,Arizona,1,6,15,1,0,0,2.50,"15.00
+"
+RB,Bradley,Cooley,5 - 11,198,(Jr),4.5,4.5,TCU,13,268,1455,14,3,8,5.43,"111.92
+"
+FB,Fredrick,Marshall,6 - 2,174,(Fr),2.5,5.0,TCU,4,15,59,2,0,0,3.93,"14.75
+"
+FB,Thomas,Rodriguez,6 - 1,208,Sr,1.5,1.5,Eastern Michigan,1,3,1,1,0,0,0.33,"1.00
+"
+QB,Karl,Chapman,6 - 1,231,Sr,2.5,2.5,Bowling Green,7,38,169,3,0,0,4.45,"24.14
+"
+RB,Chester,Dorenbos,6 - 0,222,(Sr),5.0,5.0,Syracuse,10,154,973,11,1,5,6.32,"97.30
+"
+FB,Doug,Reger,5 - 11,210,Sr,4.0,4.0,Iowa,2,11,18,2,0,0,1.64,"9.00
+"
+RB,John,Harris,5 - 11,181,(Sr),5.0,5.0,Arizona State,12,276,1510,13,1,10,5.47,"125.83
+"
+RB,Kern,Trapp,5 - 8,177,(Sr),4.0,4.0,Washington,16,313,1669,21,2,10,5.33,"104.31
+"
+QB,Nathan,Burden,6 - 2,201,Fr,3.0,4.0,TCU,1,3, - 3,0,1,0, - 1.00," - 3.00
+"
+??,Justin,Gugliemi,? - ??,???,(??),??,??,Georgia State,12,245,1522,19,0,8,6.21,"126.83
+"
+RB,P.J.,Junker,5 - 9,184,Sr,4.0,4.0,Wake Forest,2,23,109,2,0,0,4.74,"54.50
+"
+QB,Damian,Richmond,6 - 6,203,(Fr),1.5,2.5,Utah State,2,5,6,0,0,0,1.20,"3.00
+"
+FB,Chad,Browning,6 - 1,207,So,1.5,3.5,Marshall,1,4,6,1,0,0,1.50,"6.00
+"
+RB,Tamau,Zereoue,6 - 1,205,(So),3.0,3.0,Air Force,1,6,58,1,0,0,9.67,"58.00
+"
+QB,Darren,Carroll,5 - 11,212,(So),3.0,3.5,Boise State,10,59,297,8,0,0,5.03,"29.70
+"
+RB,Jason,McKenna,5 - 10,195,Jr,2.0,2.0,Cincinnati,4,25,96,2,0,0,3.84,"24.00
+"
+RB,Will,Craven,6 - 1,177,Sr,4.0,4.0,Vanderbilt,12,232,1305,13,2,5,5.62,"108.75
+"
+FB,Guy,Singleton,6 - 2,214,(So),1.5,2.5,Temple,1,4,8,1,0,0,2.00,"8.00
+"
+RB,Walter,Harris,5 - 11,168,(Jr),4.0,4.0,Oregon State,12,228,1113,12,0,3,4.88,"92.75
+"
+FB,Eric,Holder,5 - 10,214,Fr,2.5,3.5,Auburn,1,3,11,1,0,0,3.67,"11.00
+"
+RB,Ethan,Blake,6 - 0,193,(Jr),3.5,3.5,Texas A&M,12,151,501,4,0,0,3.32,"41.75
+"
+RB,Kwendi,Nkwenti,6 - 0,219,Jr,3.5,4.0,Rice,12,257,1320,15,4,5,5.14,"110.00
+"
+RB,Jake,Bell,6 - 0,172,(Jr),3.5,3.5,Boston College,11,153,742,7,1,0,4.85,"67.45
+"
+RB,Fred,Murray,5 - 9,192,(Jr),3.5,3.5,BYU,12,140,648,5,0,1,4.63,"54.00
+"
+RB,Charles,Givens,6 - 0,235,Sr,4.0,4.0,Baylor,9,179,805,5,2,4,4.50,"89.44
+"
+RB,Steve,Guerrero,5 - 9,182,(Jr),1.0,2.0,Marshall,5,25,100,2,0,0,4.00,"20.00
+"
+WR,Travis,Warren,5 - 11,153,So,3.0,4.0,BYU,1,1,78,1,0,0,78.00,"78.00
+"
+FB,Andrew,Courtney,6 - 1,253,Fr,1.5,4.5,Kansas,1,4,4,2,0,0,1.00,"4.00
+"
+QB,Tommy,Jones,6 - 3,198,(Jr),5.0,5.0,Michigan,1,2, - 3,0,1,0, - 1.50," - 3.00
+"
+QB,R.J.,Stanford,5 - 11,203,Jr,5.0,5.0,Arkansas,1,3, - 14,0,1,0, - 4.67," - 14.00
+"
+RB,Rich,Dilger,6 - 0,181,(Jr),3.0,3.0,Arkansas,11,78,280,3,1,0,3.59,"25.45
+"
+RB,James,Waite,6 - 1,179,Sr,2.5,2.5,Central Michigan,10,183,863,7,1,5,4.72,"86.30
+"
+FB,Harlon,Collins,6 - 1,226,(Sr),5.0,5.0,LSU,2,10,20,2,0,0,2.00,"10.00
+"
+WR,Thomas,Barajas,5 - 11,182,(Jr),2.5,2.5,Central Michigan,2,5,98,1,0,0,19.60,"49.00
+"
+FB,John,Bills,5 - 11,210,Jr,4.5,4.5,Boise State,1,5,19,1,0,0,3.80,"19.00
+"
+RB,Joseph,Bowen,5 - 9,185,(Sr),5.0,5.0,Purdue,13,240,1216,16,0,4,5.07,"93.54
+"
+QB,Rob,Corp,6 - 3,203,(Sr),4.0,4.0,Miami FL,2,8,65,1,0,0,8.12,"32.50
+"
+QB,Art,Duhon,6 - 2,207,(Jr),4.0,4.0,Arizona State,10,61,322,6,0,0,5.28,"32.20
+"
+RB,LeRoy,Lassic,6 - 0,167,(Jr),3.5,4.0,UCF,2,6,19,0,0,0,3.17,"9.50
+"
+RB,Sean,Egloff,6 - 0,207,(So),4.5,4.5,Oklahoma,14,232,1343,19,1,7,5.79,"95.93
+"
+RB,Pete,Choboian,6 - 0,166,(Jr),4.5,4.5,Penn State,16,280,1856,20,0,8,6.63,"116.00
+"
+RB,Caleb,Kilmer,6 - 2,220,(So),2.5,3.0,San Diego State,14,252,1237,14,2,5,4.91,"88.36
+"
+WR,Dennis,Reyna,5 - 11,168,(Fr),1.5,3.5,Iowa State,2,4,120,1,0,0,30.00,"60.00
+"
+QB,Allan,O'Hennesy,6 - 0,222,(So),3.5,4.5,Syracuse,1,3, - 9,0,1,0, - 3.00," - 9.00
+"
+FB,Adam,Douglas,6 - 1,217,Jr,1.0,1.5,North Texas,1,3,6,1,0,0,2.00,"6.00
+"
+RB,Donald,Dingle,6 - 0,207,(Jr),3.5,4.5,Clemson,13,209,688,6,1,2,3.29,"52.92
+"
+RB,Michael,Shoemaker,6 - 0,187,Sr,5.0,5.0,Northwestern,12,249,1394,15,1,10,5.60,"116.17
+"
+QB,Keith,Price,6 - 2,171,(Sr),4.0,4.0,Minnesota,2,7,9,0,0,0,1.29,"4.50
+"
+RB,Benjamin,Myers,6 - 1,178,Jr,2.0,3.0,San Jose State,6,47,165,0,1,0,3.51,"27.50
+"
+FB,Rod,Bull,6 - 1,212,Sr,3.5,3.5,Miami FL,2,6,11,2,0,0,1.83,"5.50
+"
+RB,Troy,McCray,6 - 0,205,Jr,4.0,5.0,Wake Forest,11,229,1112,11,0,7,4.86,"101.09
+"
+QB,Sean,Hamilton,6 - 2,207,Fr,3.0,5.0,Nebraska,2,5, - 7,1,1,0, - 1.40," - 3.50
+"
+FB,Carlos,Reynolds,6 - 1,204,Sr,2.0,2.0,Ball State,1,4,9,1,0,0,2.25,"9.00
+"
+RB,Clayton,Gorman,5 - 9,192,Sr,4.5,4.5,Cincinnati,13,198,1115,12,0,3,5.63,"85.77
+"
+RB,Ron,Gillette,5 - 10,170,(Jr),3.0,3.0,UCLA,2,9,46,1,0,0,5.11,"23.00
+"
+RB,Josh,Shiancoe,6 - 2,221,(So),4.0,5.0,UCLA,13,173,932,16,0,2,5.39,"71.69
+"
+RB,Bas Van,Dyke,6 - 3,222,(So),4.0,4.5,Hawaii,12,127,586,6,1,0,4.61,"48.83
+"
+QB,Robert,Lester,6 - 4,213,Sr,2.0,2.0,Western Michigan,4,27,140,4,0,0,5.19,"35.00
+"
+WR,Tommy,Pottios,6 - 6,183,(Jr),5.0,5.0,Georgia Tech,2,6,87,2,1,0,14.50,"43.50
+"
+QB,Dick,Cook,6 - 2,205,(Sr),5.0,5.0,Florida State,13,91,623,10,0,1,6.85,"47.92
+"
+FB,Michael,Behrens,6 - 1,233,(Sr),4.0,4.0,Arizona,4,15,29,5,0,0,1.93,"7.25
+"
+FB,Donnie,Hubbert,5 - 11,229,Sr,5.0,5.0,Nebraska,1,5,18,1,0,0,3.60,"18.00
+"
+RB,William,Carlson,5 - 11,192,(Fr),2.0,4.0,Purdue,3,11,39,2,0,0,3.55,"13.00
+"
+RB,Joseph,Arthur,5 - 10,217,Sr,2.5,2.5,Akron,10,202,866,6,2,3,4.29,"86.60
+"
+QB,DeAndre,Jackson,6 - 1,199,(Sr),4.5,4.5,Kansas,10,61,353,8,0,0,5.79,"35.30
+"
+RB,Tom,Simonton,6 - 0,209,Sr,4.0,4.0,Nebraska,12,207,1176,13,0,5,5.68,"98.00
+"
+RB,Pedro,Graham,5 - 9,197,So,1.5,2.5,Tulane,1,4,3,0,0,0,0.75,"3.00
+"
+RB,Mauricio,McRae,5 - 11,226,Sr,3.0,3.0,Toledo,12,212,1034,14,0,4,4.88,"86.17
+"
+WR,Jeffrey,McNeill,5 - 9,195,Sr,2.5,2.5,Illinois,1,2,36,1,0,0,18.00,"36.00
+"
+RB,Eddie,Anderson,5 - 10,173,Sr,5.0,5.0,Missouri,14,248,1441,21,2,8,5.81,"102.93
+"
+RB,Chad,Welch,5 - 9,199,Jr,2.0,2.5,Buffalo,10,213,1022,13,1,6,4.80,"102.20
+"
+FB,Milo,Barrett,5 - 10,211,Fr,1.0,3.5,Purdue,2,8,19,3,0,0,2.38,"9.50
+"
+WR,William,Fowler,5 - 9,171,Fr,2.0,3.5,San Jose State,1,1,18,0,0,0,18.00,"18.00
+"
+RB,Dave,Graham,5 - 11,197,Jr,2.0,2.5,Western Michigan,10,205,934,14,4,5,4.56,"93.40
+"
+RB,Marshawn,Hunter,5 - 11,196,Jr,3.5,3.5,Stanford,13,178,890,9,1,2,5.00,"68.46
+"
+RB,Moussa,Goode,6 - 1,198,Fr,2.0,5.0,Ohio State,13,210,784,9,2,0,3.73,"60.31
+"
+RB,Ebenezer,Clark,5 - 10,191,Sr,3.5,3.5,Oklahoma,1,5,26,1,0,0,5.20,"26.00
+"
+FB,Dennis,Hampton,5 - 11,192,So,2.5,3.5,Iowa State,1,3,10,1,0,0,3.33,"10.00
+"
+QB,Daniel,Diaz,6 - 1,234,Sr,2.5,2.5,Akron,10,53,255,4,1,0,4.81,"25.50
+"
+RB,Everett,Everett,6 - 1,191,Jr,2.5,3.0,Miami OH,12,128,615,12,0,0,4.80,"51.25
+"
+RB,Robert,Hall,6 - 0,165,(Jr),4.0,4.0,Alabama,15,206,1056,19,0,2,5.13,"70.40
+"
+QB,Cleveland,Jones,6 - 3,192,(Sr),4.0,4.0,Tennessee,1,1,2,1,0,0,2.00,"2.00
+"
+QB,Les,Henderson,6 - 4,193,(Jr),4.5,4.5,Georgia,10,58,266,5,1,0,4.59,"26.60
+"
+RB,Josh,Alford,6 - 0,174,(So),2.5,2.5,Ole Miss,1,4,8,0,0,0,2.00,"8.00
+"
+FB,James,Brown,6 - 4,206,Jr,3.0,4.0,Michigan,3,9,27,3,0,0,3.00,"9.00
+"
+RB,John,Adams,5 - 11,171,(Jr),4.5,4.5,Syracuse,2,52,169,0,0,1,3.25,"84.50
+"
+FB,Ervin,Lusk,6 - 1,225,Jr,1.5,2.5,Kent State,1,3,9,1,0,0,3.00,"9.00
+"
+FB,Sean,Burnett,5 - 11,226,Fr,3.0,3.5,Tennessee,1,3,6,1,0,0,2.00,"6.00
+"
+RB,Troy,Booker,6 - 4,222,(So),3.5,4.5,Texas,14,212,1162,16,1,3,5.48,"83.00
+"
+FB,Thomas,Curry,5 - 11,209,(Sr),3.0,3.0,Cincinnati,2,6,11,2,0,0,1.83,"5.50
+"
+RB,Gary,Carr,6 - 1,197,(Sr),4.0,4.0,Utah,13,245,1137,11,2,4,4.64,"87.46
+"
+RB,Luke,Spurlock,5 - 10,202,Sr,3.0,3.0,Bowling Green,10,207,1040,9,2,7,5.02,"104.00
+"
+QB,Jamie,Avery,6 - 1,219,(So),3.5,3.5,Georgia Tech,2,6, - 23,0,2,0, - 3.83," - 11.50
+"
+QB,Jeremy,Driver,6 - 4,199,Jr,2.0,2.0,Oklahoma,2,5,0,0,0,0,0.00,"0.00
+"
+RB,Michael,Frey,6 - 1,196,Jr,1.5,2.5,Utah State,2,8,9,0,0,0,1.12,"4.50
+"
+FB,Thomas,Davis,6 - 0,216,Sr,2.5,2.5,Northwestern,1,5,3,1,0,0,0.60,"3.00
+"
+FB,Michael,Lamb,6 - 2,210,Jr,3.5,4.5,Texas,2,6,12,2,0,0,2.00,"6.00
+"
+QB,Mark,Starnes,6 - 4,219,(Jr),4.0,4.0,BYU,1,2, - 12,0,1,0, - 6.00," - 12.00
+"
+RB,Afasa,Neru,5 - 6,210,Fr,3.0,3.5,Oklahoma State,13,213,1052,14,0,4,4.94,"80.92
+"
+RB,Charles,Perkins,5 - 7,201,(Fr),2.0,4.0,Washington,2,11,44,1,0,0,4.00,"22.00
+"
+RB,Jeffrey,Keenan,5 - 10,203,(Fr),2.0,3.5,Colorado State,1,1,5,0,0,0,5.00,"5.00
+"
+RB,Logan,Pruitt,5 - 7,232,Fr,2.5,4.5,North Carolina,13,146,844,15,0,2,5.78,"64.92
+"
+QB,Alfredo,Adams,6 - 3,184,So,2.0,3.0,Nevada,2,16,88,1,0,0,5.50,"44.00
+"
+RB,Paul,Gibbs,5 - 9,189,Sr,5.0,5.0,Kansas,12,218,1081,10,3,3,4.96,"90.08
+"
+QB,Rob,Zeko,6 - 3,183,Jr,3.5,4.5,Marshall,12,98,851,14,0,4,8.68,"70.92
+"
+FB,Randy,Hudson,6 - 4,213,Jr,4.5,4.5,Virginia Tech,3,11,10,3,0,0,0.91,"3.33
+"
+FB,Eli,Tuitama,6 - 1,240,Fr,1.0,5.0,ECU,1,4,15,1,0,0,3.75,"15.00
+"
+FB,Larry,Dyer,5 - 11,201,Sr,2.5,2.5,Vanderbilt,1,5,9,1,0,0,1.80,"9.00
+"
+QB,Clifford,Wilcox,6 - 1,208,(Fr),2.0,4.0,Iowa State,10,55,253,4,1,0,4.60,"25.30
+"
+QB,Charles,Duffy,6 - 4,222,So,2.0,3.5,SMU,2,7,14,0,0,0,2.00,"7.00
+"
+FB,Steven,Phillips,5 - 11,212,(So),2.0,3.5,Indiana,1,5,25,1,0,0,5.00,"25.00
+"
+FB,Gilbert,Hayes,6 - 2,223,(So),2.0,3.0,Bowling Green,1,2,3,1,0,0,1.50,"3.00
+"
+FB,Joseph,Chapman,6 - 1,230,So,3.5,4.5,Florida State,3,9,19,3,0,0,2.11,"6.33
+"
+QB,Greg,Holt,6 - 1,178,Sr,3.0,3.0,Oregon State,8,41,110,0,0,0,2.68,"13.75
+"
+RB,Marcus,Boston,5 - 11,224,Fr,1.0,3.0,Army,1,3,9,0,0,0,3.00,"9.00
+"
+RB,Devin,Drake,6 - 1,206,(So),3.0,3.0,Virginia,12,111,431,2,0,0,3.88,"35.92
+"
+QB,John,Webster,6 - 2,168,Sr,3.0,3.0,Wake Forest,1,2,8,0,0,0,4.00,"8.00
+"
+QB,Joe,Nelson,6 - 2,197,(Fr),2.0,3.0,Illinois,6,28,109,3,0,0,3.89,"18.17
+"
+FB,Frances,Whitney,5 - 10,205,(Fr),1.5,2.5,Miami OH,2,8,18,2,0,0,2.25,"9.00
+"
+RB,Lavontae,Jackson,5 - 10,234,Jr,3.5,4.5,SMU,12,268,1440,15,1,6,5.37,"120.00
+"
+QB,Raoul,Gomez,6 - 0,220,(So),4.0,4.0,Washington State,1,2, - 11,0,1,0, - 5.50," - 11.00
+"
+QB,David,Brezina,6 - 2,189,(Jr),4.0,5.0,Iowa,3,6,41,0,0,0,6.83,"13.67
+"
+RB,Kitrick,McAfee,5 - 8,188,Sr,3.0,3.0,LSU,1,4,4,0,0,0,1.00,"4.00
+"
+FB,Kori,McClanahan,5 - 11,197,Sr,2.5,2.5,Georgia Tech,1,3,8,1,0,0,2.67,"8.00
+"
+RB,Robert,Lewis,5 - 10,172,Sr,3.0,3.0,Pittsburgh,12,142,619,8,0,0,4.36,"51.58
+"
+QB,Gregory,Garcia,6 - 3,229,(Jr),2.0,2.5,New Mexico,9,55,305,2,0,0,5.55,"33.89
+"
+RB,Edwin,Forster,6 - 3,221,(So),4.5,4.5,Michigan,13,241,1231,13,1,3,5.11,"94.69
+"
+RB,Jose,Melendez,5 - 11,186,(Sr),3.0,3.0,Fresno State,13,158,677,7,1,0,4.28,"52.08
+"
+RB,Kerry,Washington,5 - 9,217,So,2.0,3.0,SMU,2,22,215,3,0,1,9.77,"107.50
+"
+RB,Haywood,Coleman,5 - 9,193,(Jr),3.5,3.5,Miami FL,14,267,1157,10,2,3,4.33,"82.64
+"
+RB,Frederick,Chacon,6 - 0,172,(Jr),3.5,4.5,Air Force,14,356,1817,11,1,10,5.10,"129.79
+"
+RB,Cameron,Connor,5 - 9,190,Jr,1.5,1.5,Miami FL,12,70,304,2,0,0,4.34,"25.33
+"
+RB,Tran,Hope,5 - 11,196,(So),3.0,3.5,Maryland,12,186,776,10,0,1,4.17,"64.67
+"
+RB,Emmett,Spears,5 - 10,195,Jr,3.0,5.0,Kent State,10,218,1324,18,1,9,6.07,"132.40
+"
+RB,Alpha,Berry,5 - 9,199,Fr,1.0,3.5,Ohio State,5,21,20,0,0,0,0.95,"4.00
+"
+RB,Shawn,Anderson,5 - 8,184,Sr,5.0,5.0,Oregon,13,254,1424,18,3,11,5.61,"109.54
+"
+RB,Ben,Talley,5 - 11,185,(Jr),3.5,3.5,Arizona State,4,37,285,0,0,1,7.70,"71.25
+"
+RB,Orlando,McKay,5 - 10,172,(Fr),1.0,3.5,San Jose State,6,64,282,3,0,0,4.41,"47.00
+"
+RB,Ricardo,Reed,5 - 9,201,So,3.0,5.0,Connecticut,13,223,1478,16,0,6,6.63,"113.69
+"
+RB,Ken,Johnson,5 - 8,184,(Jr),3.0,3.5,Notre Dame,3,9,19,1,0,0,2.11,"6.33
+"
+RB,Nick,Engelberger,5 - 8,186,(Sr),4.0,4.0,Notre Dame,15,311,1817,23,1,12,5.84,"121.13
+"
+QB,William,Paige,6 - 4,209,So,1.5,3.5,LSU,1,3, - 16,0,0,0, - 5.33," - 16.00
+"
+RB,Chris,Bell,6 - 3,198,(So),3.5,5.0,Navy,12,214,1025,13,1,4,4.79,"85.42
+"
+FB,Charles,Strayhorn,6 - 2,209,Sr,4.0,4.0,Georgia,2,7,13,3,0,0,1.86,"6.50
+"
+RB,Moshae,Jackson,5 - 9,175,Sr,4.5,4.5,Boise State,13,307,1716,19,1,10,5.59,"132.00
+"
+QB,Joel,Sumner,6 - 1,190,Jr,2.5,3.0,Ball State,7,41,261,3,0,0,6.37,"37.29
+"
+RB,Alvin,Robbins,5 - 8,198,So,1.0,1.5,Eastern Michigan,11,95,342,2,1,0,3.60,"31.09
+"
+RB,Josh,Gray,5 - 8,186,(So),3.0,4.0,Duke,12,76,262,5,0,0,3.45,"21.83
+"
+RB,Greg,Allen,5 - 10,206,(Jr),3.0,4.0,Marshall,13,258,1774,16,0,9,6.88,"136.46
+"
+RB,Martavius,Benson,6 - 1,232,(So),2.5,2.5,Minnesota,2,13,54,0,1,0,4.15,"27.00
+"
+WR,Marvin,Randle,6 - 4,187,Jr,1.0,1.5,Temple,1,1,38,0,0,0,38.00,"38.00
+"
+RB,Kieran,Walter,6 - 0,207,Fr,3.0,3.0,Fresno State,2,10,50,0,0,0,5.00,"25.00
+"
+RB,John,Parsons,5 - 8,185,(Jr),2.5,3.0,Michigan State,1,4,0,0,0,0,0.00,"0.00
+"
+FB,Noe,Rogers,6 - 3,232,Jr,2.5,3.0,Boston College,1,3,6,1,0,0,2.00,"6.00
+"
+RB,Charlie,Pennington,6 - 1,185,So,2.5,3.5,New Mexico,6,138,609,7,1,5,4.41,"101.50
+"
+FB,Bruce,Wilson,6 - 1,221,Jr,4.0,4.0,Stanford,1,4,6,1,0,0,1.50,"6.00
+"
+RB,Will,Fuller,5 - 10,190,So,2.5,5.0,Mississippi State,13,225,1103,9,0,4,4.90,"84.85
+"
+QB,Stephan,Bennett,6 - 2,203,(Sr),3.5,3.5,Nevada,10,67,449,7,0,1,6.70,"44.90
+"
+FB,Mike,Carr,6 - 0,198,Sr,4.0,4.0,SMU,1,2,6,1,0,0,3.00,"6.00
+"
+RB,Charles,Pruitt,5 - 11,202,Sr,1.5,1.5,Buffalo,2,5,21,1,0,0,4.20,"10.50
+"
+QB,Willy,Cowan,5 - 10,224,Fr,2.5,3.5,ECU,2,4, - 19,0,2,0, - 4.75," - 9.50
+"
+QB,John,Thompson,6 - 0,190,(Sr),3.0,3.0,West Virginia,1,1,3,0,0,0,3.00,"3.00
+"
+FB,Donald,Johns,5 - 11,239,Jr,3.5,4.5,Houston,1,4,6,2,0,0,1.50,"6.00
+"
+FB,Justin,Marrero,6 - 1,218,Jr,2.0,3.0,Ohio,1,4,7,1,0,0,1.75,"7.00
+"
+RB,Micah,Hall,5 - 8,180,Jr,3.0,3.5,Auburn,12,84,348,5,2,0,4.14,"29.00
+"
+FB,Raymond,Holland,6 - 1,226,Sr,3.0,3.0,Connecticut,1,5,8,1,0,0,1.60,"8.00
+"
+RB,Cameron,Boykin,5 - 7,226,Fr,2.5,2.5,Kansas State,5,112,467,8,0,1,4.17,"93.40
+"
+RB,Larry,Holleyman,5 - 11,187,(Jr),5.0,5.0,Tennessee,12,235,1182,13,0,6,5.03,"98.50
+"
+QB,Don,Lewis,6 - 2,175,(Jr),2.5,2.5,Baylor,3,6, - 15,0,0,0, - 2.50," - 5.00
+"
+QB,Joseph,Gonzalez,6 - 1,205,Sr,2.5,2.5,Buffalo,10,59,210,5,0,0,3.56,"21.00
+"
+FB,Lee,Lewis,6 - 2,210,Sr,3.5,3.5,Utah,2,6,9,2,0,0,1.50,"4.50
+"
+RB,Kenneth,Farr,5 - 8,183,(Sr),5.0,5.0,Kentucky,13,174,865,13,1,2,4.97,"66.54
+"
+FB,Gerald,Molina,6 - 1,201,(Jr),3.0,3.0,Illinois,1,2,5,1,0,0,2.50,"5.00
+"
+RB,Charles,Watkins,5 - 10,184,(Sr),4.5,4.5,Rutgers,12,215,985,9,2,4,4.58,"82.08
+"
+RB,Lionel,Alford,5 - 11,170,Sr,3.5,3.5,Florida,13,140,608,13,2,1,4.34,"46.77
+"
+FB,Damion,Stewart,6 - 0,227,(Jr),4.5,4.5,Notre Dame,4,16,28,4,0,0,1.75,"7.00
+"
+RB,Mike,Latta,6 - 0,209,(Jr),5.0,5.0,Florida State,14,364,1934,17,3,12,5.31,"138.14
+"
+RB,Ron,Thomas,6 - 0,194,Jr,4.5,5.0,Iowa,14,273,1694,20,0,10,6.21,"121.00
+"
+FB,Marc,Ladner,6 - 0,210,(Sr),4.0,4.0,Iowa State,12,275,1444,10,0,7,5.25,"120.33
+"
+FB,Kenny,Banta,6 - 2,210,(Sr),3.0,3.0,Missouri,1,3,10,1,0,0,3.33,"10.00
+"
+QB,Drew,Lewis,6 - 1,213,(Jr),4.0,4.0,Michigan State,11,66,400,5,0,1,6.06,"36.36
+"
+RB,Mike,Smith,5 - 9,202,(So),2.5,2.5,Colorado State,13,106,491,6,0,1,4.63,"37.77
+"
+QB,Tyron,Maddox,6 - 0,196,Jr,2.5,2.5,Nebraska,1,1,4,0,0,0,4.00,"4.00
+"
+RB,Ezekiel,Adams,6 - 4,185,Jr,3.5,3.5,Illinois,12,291,1475,14,4,8,5.07,"122.92
+"
+RB,Jesse,Kahn,6 - 1,198,Jr,1.5,2.5,Toledo,2,9,20,0,0,0,2.22,"10.00
+"
+FB,Marq,Walsh,6 - 1,229,(Sr),5.0,5.0,Washington,1,3,6,1,0,0,2.00,"6.00
+"
+RB,Larry,Schmitt,6 - 1,199,Sr,2.5,2.5,Miami OH,3,7,9,0,0,0,1.29,"3.00
+"
+RB,Brian,Gordon,5 - 9,206,(Jr),3.5,3.5,USC,9,93,372,3,2,0,4.00,"41.33
+"
+QB,Vonte,Detroux,6 - 1,218,(So),3.0,3.5,UCF,3,8,26,0,0,0,3.25,"8.67
+"
+RB,Paul,Cleveland,5 - 10,187,(So),3.0,3.5,North Texas,12,109,457,4,1,0,4.19,"38.08
+"
+FB,Joe,Taylor,6 - 2,220,Sr,3.5,3.5,UCF,1,4,7,2,0,0,1.75,"7.00
+"
+RB,Nick,Sandoval,5 - 10,170,(Sr),4.0,4.0,West Virginia,12,207,1039,12,0,2,5.02,"86.58
+"
+RB,Michael,Acevedo,5 - 8,190,Sr,4.0,4.0,Indiana,12,273,1335,13,2,6,4.89,"111.25
+"
+RB,Brandon,Yates,6 - 0,175,(Jr),3.5,3.5,Ole Miss,12,210,925,6,2,1,4.40,"77.08
+"
+QB,Glen,Spencer,6 - 1,170,(Sr),5.0,5.0,Ohio State,8,44,292,6,1,1,6.64,"36.50
+"
+RB,Tim,Davis,5 - 9,184,Sr,2.5,2.5,Hawaii,2,5,6,0,0,0,1.20,"3.00
+"
+RB,James,Haines,5 - 11,187,Sr,3.5,3.5,ECU,12,231,1101,11,3,5,4.77,"91.75
+"
+FB,Paul,Fenix,6 - 2,203,Jr,2.0,2.0,NC State,2,8,25,2,0,0,3.12,"12.50
+"
+RB,Cyrus,Jordan,5 - 9,203,Jr,3.0,3.0,Oklahoma State,2,8,57,0,0,0,7.12,"28.50
+"
+QB,Alejandro,Silva,6 - 1,212,Jr,3.5,3.5,Air Force,13,105,733,14,0,2,6.98,"56.38
+"
+FB,Ricky,Lewis,5 - 11,208,(Fr),2.0,4.0,Temple,12,276,1286,11,3,7,4.66,"107.17
+"
+RB,Ronald,Murray,5 - 10,173,Jr,2.0,2.5,Tulane,12,107,380,4,0,0,3.55,"31.67
+"
+RB,Will,Moses,5 - 8,177,(Jr),2.5,2.5,Duke,3,5, - 5,0,0,0, - 1.00," - 1.67
+"
+FB,Angel,Lewis,6 - 2,228,(Sr),3.0,3.0,Nevada,2,7,27,2,0,0,3.86,"13.50
+"
+RB,K.J.,Richards,5 - 11,229,(So),4.0,4.0,Minnesota,12,208,1114,8,0,3,5.36,"92.83
+"
+RB,Ben,Offerdahl,5 - 11,189,(Jr),5.0,5.0,Auburn,13,257,1326,10,3,7,5.16,"102.00
+"
+RB,Bobby,Huffman,5 - 11,224,Jr,2.5,3.5,Northern Illinois,13,236,1020,10,0,4,4.32,"78.46
+"
+RB,Khalil,Daniels,5 - 6,179,Fr,2.5,3.5,Georgia State,1,8,55,1,0,0,6.88,"55.00
+"
+FB,Johnnie,Costa,6 - 0,231,(Sr),3.0,3.0,Air Force,3,12,46,3,0,0,3.83,"15.33
+"
+FB,Scott,Jenkins,5 - 11,216,Jr,1.5,2.5,Northern Illinois,2,8,11,2,0,0,1.38,"5.50
+"
+RB,Mario,Davis,6 - 0,226,(Jr),3.5,3.5,West Virginia,1,2,19,0,0,0,9.50,"19.00
+"
+FB,Kenneth,Pacheco,6 - 2,218,Jr,3.5,3.5,Oklahoma State,1,2,7,1,0,0,3.50,"7.00
+"
+RB,Michael,Hartley,5 - 11,210,So,1.5,3.0,TCU,2,11,27,0,0,0,2.45,"13.50
+"
+RB,Dave,Pagac,6 - 0,170,(Jr),4.0,4.0,Texas Tech,13,207,923,7,0,4,4.46,"71.00
+"
+RB,Jim,O'Neal,5 - 11,173,(So),3.5,4.0,Georgia,13,252,1241,11,2,7,4.92,"95.46
+"
+RB,Dean,DeLong,6 - 3,211,(So),3.0,4.0,USC,3,30,111,2,0,0,3.70,"37.00
+"
+RB,Jim,Franci,5 - 8,173,(Jr),3.5,3.5,Washington State,12,102,391,2,1,0,3.83,"32.58
+"
+QB,Matty,Swift,5 - 11,198,(So),4.0,5.0,Texas A&M,1,2, - 9,0,1,0, - 4.50," - 9.00
+"
+RB,Timmy,Woolford,5 - 9,200,(Sr),3.5,3.5,North Carolina,1,6,20,0,0,0,3.33,"20.00
+"
+QB,Orly,Vaccaro,6 - 2,215,Jr,4.0,4.0,San Diego State,14,99,663,8,0,0,6.70,"47.36
+"
+FB,Johnny,Mangum,6 - 0,225,Sr,3.5,3.5,Wake Forest,1,3,8,1,0,0,2.67,"8.00
+"
+RB,Asante,Sowell,6 - 3,194,(So),3.5,5.0,Wisconsin,14,256,1277,18,1,4,4.99,"91.21
+"
+FB,Cory,Hendricks,6 - 1,239,(Jr),4.5,4.5,Oklahoma,2,6,11,2,0,0,1.83,"5.50
+"
+QB,Joaquin,Younger,6 - 5,215,(Jr),5.0,5.0,Oregon,12,74,455,8,1,0,6.15,"37.92
+"
+RB,Reggie,Tittle,6 - 0,204,Sr,4.0,4.0,Virginia Tech,2,6,45,0,0,0,7.50,"22.50
+"
+RB,Christopher,Spann,5 - 8,173,(Sr),2.5,2.5,Kansas State,8,149,584,7,0,1,3.92,"73.00
+"
+QB,Paul,Davenport,6 - 0,198,(Jr),5.0,5.0,Miami FL,14,117,1028,14,0,4,8.79,"73.43
+"
+RB,Craig,Grimsley,6 - 1,216,Sr,4.0,4.0,Louisville,12,152,654,9,1,1,4.30,"54.50
+"
+FB,Lamar,Kelly,6 - 1,217,Sr,3.0,3.0,Wisconsin,3,13,23,4,0,0,1.77,"7.67
+"
+RB,Randy,Martin,5 - 8,200,(Fr),2.5,4.0,Michigan State,12,243,1019,7,4,2,4.19,"84.92
+"
+RB,Keyshawn,Polsfoot,6 - 1,206,(So),4.0,4.0,Army,13,212,1046,15,0,4,4.93,"80.46
+"
+WR,Damian,Chambers,6 - 2,183,(So),3.5,3.5,Florida State,1,2,54,1,0,0,27.00,"54.00
+"
+RB,Ike,Nimmo,5 - 9,219,(Sr),5.0,5.0,Virginia Tech,12,211,1215,11,0,6,5.76,"101.25
+"
+QB,Charles,Conley,6 - 1,201,So,2.0,3.0,Buffalo,2,3,10,0,0,0,3.33,"5.00
+"
+FB,David,Snyder,6 - 0,224,(So),2.5,2.5,Minnesota,2,7,6,2,0,0,0.86,"3.00
+"
+RB,Raul,Mitchell,5 - 10,198,(Fr),2.0,3.0,Oregon,1,7,35,1,0,0,5.00,"35.00
+"
+RB,Jason,Fullwood,5 - 9,191,Sr,4.0,4.0,Wisconsin,2,7,41,0,0,0,5.86,"20.50
+"
+FB,Marlon,McKenzie,6 - 0,216,(So),4.5,4.5,Pittsburgh,2,13,27,1,0,0,2.08,"13.50
+"
+FB,Dick,Bates,6 - 0,207,(Jr),3.0,3.0,West Virginia,2,5,10,2,0,0,2.00,"5.00
+"
+QB,DeSean,Jenkins,6 - 4,195,Jr,4.0,4.5,Wake Forest,11,76,554,4,0,0,7.29,"50.36
+"
+QB,Keith,Simon,6 - 2,212,Jr,3.5,3.5,Alabama,1,1,3,0,0,0,3.00,"3.00
+"
+RB,Justin,Couture,5 - 10,178,(So),3.0,4.0,Ohio,11,162,784,8,1,0,4.84,"71.27
+"
+RB,George,Rodgers,6 - 0,182,(Sr),4.0,4.0,LSU,13,198,918,10,2,0,4.64,"70.62
+"
+QB,Bob,Dowler,6 - 4,203,(Sr),4.5,4.5,Virginia,1,2, - 5,0,1,0, - 2.50," - 5.00
+"
+QB,Jason,Vick,6 - 0,188,(So),3.0,3.0,Baylor,12,65,281,7,0,0,4.32,"23.42
+"
+RB,Frank,Barrett,6 - 0,185,Sr,3.0,3.0,South Carolina,12,128,608,8,0,0,4.75,"50.67
+"
+RB,Jeff,Collett,5 - 11,193,Sr,4.5,5.0,NC State,13,249,1401,17,1,7,5.63,"107.77
+"
+QB,Rob,Green,6 - 2,175,(Jr),4.0,4.0,Virginia Tech,11,67,386,5,1,0,5.76,"35.09
+"
+RB,Ben,Curry,5 - 11,193,(So),3.5,4.0,Boston College,2,15,63,1,0,0,4.20,"31.50
+"
+RB,Peter,Hamilton,5 - 10,200,Jr,2.0,3.5,Wyoming,12,239,790,8,2,5,3.31,"65.83
+"
+RB,Marvin,Washington,5 - 8,178,(Jr),4.0,4.5,California,12,179,786,13,0,1,4.39,"65.50
+"
+RB,Justin,Ryckman,6 - 0,212,Sr,2.5,2.5,Iowa,3,15,76,1,0,0,5.07,"25.33
+"
+FB,Daniel,Potter,6 - 1,213,Jr,3.5,4.0,Arkansas,3,14,11,2,0,0,0.79,"3.67
+"
+RB,Donald,Smith,5 - 10,182,Sr,2.0,2.0,Utah State,12,206,723,7,1,1,3.51,"60.25
+"
+FB,John,Salisbury,6 - 1,222,(So),3.5,3.5,Penn State,4,16,40,4,0,0,2.50,"10.00
+"
+RB,Charles,Rocha,5 - 10,185,So,2.5,4.0,Nevada,12,281,1464,12,0,6,5.21,"122.00
+"
+FB,Lonnie,Wyatt,5 - 10,216,Sr,1.5,1.5,Buffalo,1,3,2,1,0,0,0.67,"2.00
+"
+WR,Timothy,Ruiz,6 - 2,203,Jr,2.0,3.0,Central Michigan,1,2,9,1,0,0,4.50,"9.00
+"
+RB,Justin,Samuels,6 - 4,187,(So),3.5,4.0,Michigan,3,12,50,1,0,0,4.17,"16.67
+"
+RB,Sean,Bell,6 - 1,209,Fr,3.0,5.0,Baylor,12,118,425,0,1,0,3.60,"35.42
+"
+RB,Buzz,Etcheverry,5 - 10,182,(Sr),5.0,5.0,UCF,15,334,1912,19,0,12,5.72,"127.47
+"
+RB,Christopher,Rodriguez,5 - 11,191,Sr,4.0,4.0,Ball State,11,236,1219,13,1,6,5.17,"110.82
+"
+RB,Tyrone,Medina,5 - 11,197,Jr,2.0,2.0,Oregon State,5,31,116,1,0,0,3.74,"23.20
+"
+QB,James,Mitchell,6 - 0,214,(So),3.0,3.5,UCF,10,63,355,6,1,0,5.63,"35.50
+"

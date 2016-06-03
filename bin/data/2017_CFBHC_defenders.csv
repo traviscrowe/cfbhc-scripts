@@ -1,0 +1,1266 @@
+ Position , Forename , Surname , Height , Weight , Standing , Skill , Potential , Team , Games , Catches , Yards , TDs , YPC ," YPG
+"
+WR,Maxwell,Grubbs,6 - 2,170,(Fr),1.5,3.5,ECU,1,2,28,0,14.00,"28.00
+"
+WR,Nathaniel,Swain,6 - 4,215,Fr,1.5,3.0,Miami OH,7,33,397,8,12.03,"56.71
+"
+TE,Eli,Bryant,6 - 3,194,So,2.0,3.0,Louisville,1,2,25,0,12.50,"25.00
+"
+TE,Robert,Manning,6 - 3,224,(Sr),1.5,1.5,Buffalo,1,2,23,0,11.50,"23.00
+"
+TE,Warren,Henderson,6 - 4,246,(Sr),3.0,3.0,Eastern Michigan,11,33,446,4,13.52,"40.55
+"
+WR,Joseph,Armstrong,6 - 4,226,Jr,2.0,2.0,Oregon State,4,9,108,0,12.00,"27.00
+"
+TE,Juan,Crow,6 - 1,247,Jr,2.5,3.0,UCLA,1,3,37,0,12.33,"37.00
+"
+WR,Tom,Branch,5 - 9,174,(Sr),4.0,4.0,Boston College,11,60,988,12,16.47,"89.82
+"
+TE,Victor,Serrano,6 - 2,215,Fr,2.0,2.5,Eastern Michigan,1,2,25,1,12.50,"25.00
+"
+TE,Jeffrey,Lewis,6 - 2,235,Sr,3.5,3.5,Nevada,8,21,292,1,13.90,"36.50
+"
+RB,Gil,Novacek,5 - 11,188,Sr,4.5,4.5,Arizona,2,6,79,2,13.17,"39.50
+"
+TE,Jeffrey,Jackson,6 - 3,230,Sr,4.0,4.0,Kent State,8,13,112,1,8.62,"14.00
+"
+WR,Jon,Strickland,5 - 10,193,Sr,3.0,3.0,Memphis,12,35,499,2,14.26,"41.58
+"
+TE,James,Graham,6 - 2,229,Sr,3.0,3.0,USF,7,39,531,8,13.62,"75.86
+"
+WR,Billy,Britt,6 - 4,224,Jr,1.5,1.5,Wisconsin,1,1,8,1,8.00,"8.00
+"
+FB,Jordan,Caldwell,5 - 10,216,Fr,1.5,3.5,Akron,2,4,45,0,11.25,"22.50
+"
+WR,Roger,Bailey,5 - 10,159,Jr,3.0,4.5,Oregon State,12,34,520,3,15.29,"43.33
+"
+WR,Alex,Gash,6 - 5,186,(Sr),4.0,4.0,Texas A&M,12,92,1097,11,11.92,"91.42
+"
+WR,Jayshawn,White,6 - 2,224,Sr,2.5,2.5,Ole Miss,6,14,175,0,12.50,"29.17
+"
+WR,Josiah,McCray,6 - 1,199,(Fr),2.5,5.0,Clemson,12,64,968,7,15.12,"80.67
+"
+RB,Kwendi,Nkwenti,6 - 0,219,Sr,4.0,4.0,Rice,1,2,29,0,14.50,"29.00
+"
+WR,Kenneth,Davis,6 - 4,212,Jr,2.5,2.5,Alabama,10,22,267,1,12.14,"26.70
+"
+WR,Jakub,Hunt,6 - 4,181,So,2.0,3.5,Stanford,1,2,19,1,9.50,"19.00
+"
+TE,William,Bouchard,6 - 3,246,Jr,2.0,4.0,ECU,10,17,200,0,11.76,"20.00
+"
+TE,Chris,Walters,6 - 4,218,Sr,3.5,3.5,Colorado,8,25,314,3,12.56,"39.25
+"
+TE,Patrick,Stehl,6 - 5,245,(Jr),4.0,4.0,Illinois,4,6,69,0,11.50,"17.25
+"
+WR,Brian,Logan,6 - 5,219,Jr,3.0,3.5,Missouri,8,38,512,6,13.47,"64.00
+"
+WR,James,Richardson,6 - 0,156,Jr,3.0,4.5,Mississippi State,10,35,434,1,12.40,"43.40
+"
+WR,Daniel,Addison,6 - 4,199,Fr,2.0,2.5,Toledo,4,12,144,2,12.00,"36.00
+"
+WR,Jalen,Terry,5 - 9,166,Fr,1.0,3.5,Ohio,10,31,441,4,14.23,"44.10
+"
+WR,Jimmy,Singleton,6 - 6,197,Jr,2.5,2.5,UCLA,2,4,69,0,17.25,"34.50
+"
+WR,Ari,Brower,5 - 9,178,(Fr),2.0,2.0,New Mexico,10,23,287,0,12.48,"28.70
+"
+WR,Jarius,Shaw - Dodd,5 - 11,213,Sr,5.0,5.0,Virginia Tech,11,78,1470,15,18.85,"133.64
+"
+WR,Charles,Corbett,6 - 6,206,(Sr),3.0,3.0,San Diego State,7,27,364,1,13.48,"52.00
+"
+RB,James,Bailey,6 - 1,189,Sr,3.5,3.5,Fresno State,3,10,114,2,11.40,"38.00
+"
+TE,Jack,Richey,6 - 6,190,Fr,1.0,3.5,Wake Forest,4,9,113,1,12.56,"28.25
+"
+WR,Curtis,Jeffreys,5 - 11,207,Sr,4.0,4.0,San Diego State,12,60,832,4,13.87,"69.33
+"
+RB,DeAndre,Barbour,6 - 0,206,So,2.0,3.5,Arkansas,1,3,53,1,17.67,"53.00
+"
+RB,Donald,Dingle,6 - 0,207,(Sr),4.5,4.5,Clemson,1,3,40,1,13.33,"40.00
+"
+WR,Devon,Tillman,6 - 2,153,Fr,1.0,4.0,Kansas State,12,35,571,7,16.31,"47.58
+"
+TE,Chris,Gano,6 - 4,235,Sr,5.0,5.0,Stanford,12,41,519,5,12.66,"43.25
+"
+ATH,Marquise,Reed,6 - 1,173,Fr,2.5,5.0,Clemson,10,45,614,9,13.64,"61.40
+"
+WR,Dan,Rice,6 - 1,175,(Jr),3.5,3.5,TCU,12,44,560,5,12.73,"46.67
+"
+TE,Shawn,Holley,6 - 1,191,Fr,2.5,3.0,Cincinnati,1,4,50,0,12.50,"50.00
+"
+WR,Kevin,McMullen,6 - 1,153,Jr,3.0,4.5,Mississippi State,12,58,972,8,16.76,"81.00
+"
+WR,Joseph,Nelson,6 - 2,158,Jr,3.0,3.0,Missouri,1,2,11,1,5.50,"11.00
+"
+WR,Dale,Klein,6 - 5,220,Jr,2.5,2.5,Navy,6,16,173,4,10.81,"28.83
+"
+FB,Marquise,McQueen,5 - 9,250,Fr,1.0,4.0,Western Michigan,1,1,13,0,13.00,"13.00
+"
+TE,Stanley,Hutton,6 - 3,247,Jr,2.5,2.5,Cincinnati,1,3,50,0,16.67,"50.00
+"
+TE,Jeremy,Dunham,6 - 1,229,(Sr),3.5,3.5,Tulane,12,36,477,4,13.25,"39.75
+"
+WR,Ralph,Hamrick,5 - 9,185,So,2.5,2.5,Fresno State,1,4,52,1,13.00,"52.00
+"
+TE,Eric,Anderson,6 - 3,219,(So),2.5,3.5,Wyoming,12,34,442,6,13.00,"36.83
+"
+TE,Sean,Jones,6 - 2,218,(Jr),3.5,3.5,Oklahoma,3,5,85,0,17.00,"28.33
+"
+WR,Tristan,Browne,6 - 1,166,So,2.5,3.5,Tennessee,3,5,103,3,20.60,"34.33
+"
+WR,Brett,Langley,6 - 6,190,Sr,1.5,1.5,Maryland,1,1,22,0,22.00,"22.00
+"
+TE,Norman,Willard,6 - 1,230,(So),4.0,4.5,Boston College,7,34,463,8,13.62,"66.14
+"
+TE,Alex,Dareus,6 - 2,241,(Jr),3.5,3.5,Illinois,2,2,25,0,12.50,"12.50
+"
+WR,Patrick,Cornett,6 - 4,197,(Fr),2.5,3.0,ECU,11,24,318,0,13.25,"28.91
+"
+WR,Timothy,Jones,6 - 1,176,Jr,2.5,3.5,Michigan,1,2,20,0,10.00,"20.00
+"
+RB,Afasa,Neru,5 - 6,210,So,3.5,3.5,Oklahoma State,1,5,60,1,12.00,"60.00
+"
+TE,Chance,Billingsley,6 - 3,224,Fr,3.0,5.0,Fresno State,7,35,387,5,11.06,"55.29
+"
+TE,Jesse,Palmer,6 - 8,245,Sr,4.0,4.0,Kansas State,11,28,341,4,12.18,"31.00
+"
+TE,Emory,Johnson,6 - 7,255,(Fr),3.5,5.0,Northern Illinois,8,30,400,5,13.33,"50.00
+"
+TE,Cayden,Reese,6 - 3,207,(Fr),2.0,5.0,Air Force,1,1,9,0,9.00,"9.00
+"
+WR,Raymond,McMurray,6 - 4,222,(So),3.0,3.0,Vanderbilt,1,3,37,1,12.33,"37.00
+"
+TE,Gary,Hill,6 - 5,258,(So),4.0,4.0,USC,11,45,593,7,13.18,"53.91
+"
+WR,Humberto,Perez,6 - 3,215,Jr,3.0,3.0,California,4,22,251,1,11.41,"62.75
+"
+TE,James,Bryant,6 - 2,227,(Jr),2.0,2.0,New Mexico,8,22,275,2,12.50,"34.38
+"
+RB,Lavontae,Jackson,5 - 10,234,Sr,4.5,4.5,SMU,1,1,19,0,19.00,"19.00
+"
+TE,Tyler,Dotson,6 - 5,210,(Fr),1.5,4.0,Notre Dame,1,3,32,0,10.67,"32.00
+"
+TE,Clyde,Goodson,6 - 3,238,Jr,3.0,3.0,SMU,1,1,14,0,14.00,"14.00
+"
+WR,Mike,Middleton,6 - 0,219,(Jr),4.0,4.0,Hawaii,6,24,376,3,15.67,"62.67
+"
+TE,Steven,Edwards,6 - 4,221,Sr,2.5,2.5,Buffalo,10,19,231,0,12.16,"23.10
+"
+WR,Charles,Russell,6 - 0,181,Jr,2.5,2.5,USC,1,3,36,0,12.00,"36.00
+"
+WR,David,Edwards,6 - 1,182,(So),3.0,4.0,Nebraska,8,22,407,4,18.50,"50.88
+"
+RB,Edwin,Forster,6 - 3,221,(Jr),4.5,4.5,Michigan,1,3,31,1,10.33,"31.00
+"
+WR,Michael,Allen,6 - 2,214,(So),3.0,4.5,Wisconsin,12,52,763,2,14.67,"63.58
+"
+TE,Justin,Maurer,6 - 5,219,(So),2.5,3.0,Kent State,2,2,28,0,14.00,"14.00
+"
+TE,Kenneth,Wells,6 - 5,244,Jr,2.5,3.5,Minnesota,1,2,16,1,8.00,"16.00
+"
+TE,Doug,Gottlieb,6 - 1,227,Sr,3.5,3.5,Georgia,2,6,110,0,18.33,"55.00
+"
+WR,Bo,Woodall,6 - 1,202,Sr,5.0,5.0,North Carolina,12,55,840,7,15.27,"70.00
+"
+WR,Mark,Farrar,6 - 1,166,(So),2.5,3.5,Pittsburgh,2,9,112,1,12.44,"56.00
+"
+TE,Shane,Christy,6 - 2,215,(Fr),2.0,3.0,Army,1,3,32,0,10.67,"32.00
+"
+WR,Chris,Garza,6 - 4,164,(Jr),3.0,3.0,Baylor,5,13,190,2,14.62,"38.00
+"
+WR,William,Anderson,6 - 3,207,(So),3.5,5.0,Alabama,12,40,568,3,14.20,"47.33
+"
+RB,Logan,Pruitt,5 - 7,232,So,4.0,4.5,North Carolina,1,2,28,1,14.00,"28.00
+"
+WR,Nathan,Green,6 - 1,222,Fr,2.5,2.5,Wyoming,1,3,35,1,11.67,"35.00
+"
+WR,David,Wilson,6 - 3,158,(So),3.0,3.5,South Carolina,11,64,705,5,11.02,"64.09
+"
+WR,Roger,Marin,5 - 11,190,(Jr),2.5,2.5,Clemson,2,6,81,2,13.50,"40.50
+"
+WR,Allen,Allen,6 - 5,179,Sr,2.5,2.5,North Texas,7,31,435,4,14.03,"62.14
+"
+WR,Marvin,Randle,6 - 4,187,Sr,1.5,1.5,Temple,3,5,61,2,12.20,"20.33
+"
+WR,John,Blanco,6 - 4,169,(Fr),2.0,2.5,Buffalo,12,29,410,3,14.14,"34.17
+"
+WR,Jason,LeBlanc,6 - 2,167,(So),2.5,3.0,Auburn,5,11,169,1,15.36,"33.80
+"
+WR,Kevin,Sewell,6 - 1,211,Jr,3.0,3.0,Virginia Tech,9,28,405,3,14.46,"45.00
+"
+WR,Joseph,Dickerson,5 - 11,158,(So),3.5,4.5,Virginia Tech,10,44,572,5,13.00,"57.20
+"
+WR,Matthew,Combs,6 - 3,215,(Jr),2.5,2.5,Illinois,2,6,64,1,10.67,"32.00
+"
+TE,Nero,Johnson,6 - 1,216,Jr,3.0,3.0,Indiana,7,22,288,3,13.09,"41.14
+"
+WR,Sean,Gannon,6 - 1,192,Sr,2.5,2.5,Iowa,3,8,99,1,12.38,"33.00
+"
+WR,John,Rowe,5 - 9,184,(Sr),4.0,4.0,Arizona,6,29,407,5,14.03,"67.83
+"
+RB,Jalen,Clayton,5 - 8,208,(Fr),3.0,4.0,Kansas,1,3,40,1,13.33,"40.00
+"
+WR,Butch,Harper,6 - 5,165,(Sr),5.0,5.0,Florida,11,72,1250,9,17.36,"113.64
+"
+RB,Jayden,Huff,5 - 7,213,(Fr),2.0,4.5,LSU,1,3,44,1,14.67,"44.00
+"
+WR,Zach,Croaker,6 - 1,206,(Jr),4.0,4.0,Army,11,48,675,3,14.06,"61.36
+"
+TE,Brian,Becker,6 - 3,216,So,2.5,4.0,Connecticut,7,30,471,6,15.70,"67.29
+"
+TE,Matt,Jones,6 - 4,219,Sr,3.5,4.0,Louisville,11,42,525,10,12.50,"47.73
+"
+TE,Howard,Hart,6 - 2,229,(So),3.0,3.0,Kentucky,2,3,61,1,20.33,"30.50
+"
+WR,William,Rich,6 - 2,197,(So),1.5,2.0,Eastern Michigan,6,16,233,5,14.56,"38.83
+"
+WR,Eli,Austin,6 - 5,217,(Fr),2.5,5.0,Tennessee,11,36,457,2,12.69,"41.55
+"
+WR,Tyrus,Wilson,6 - 2,190,(So),4.5,4.5,Michigan,11,73,1146,13,15.70,"104.18
+"
+WR,Ahe,Salanoa,6 - 1,187,Fr,1.0,4.0,Oklahoma,11,45,565,3,12.56,"51.36
+"
+RB,Jesse,Kahn,6 - 1,198,Sr,2.5,2.5,Toledo,1,3,31,1,10.33,"31.00
+"
+WR,Dave,Parker,6 - 6,159,(Fr),3.0,3.5,Northern Illinois,11,45,621,5,13.80,"56.45
+"
+WR,Michael,Harper,6 - 2,171,(Fr),2.0,3.5,Minnesota,1,3,41,1,13.67,"41.00
+"
+WR,Timothy,Ruiz,6 - 2,203,Sr,3.0,3.0,Central Michigan,11,37,504,2,13.62,"45.82
+"
+TE,Harold,Suarez,6 - 3,236,(So),2.0,3.5,ECU,2,2,36,1,18.00,"18.00
+"
+TE,James,French,6 - 0,239,Jr,3.0,4.0,Oregon State,12,29,368,3,12.69,"30.67
+"
+FB,Ricky,Lewis,5 - 11,208,(So),3.5,4.0,Temple,4,9,123,2,13.67,"30.75
+"
+WR,Jimmy,Walker,6 - 1,166,Jr,2.0,2.5,North Texas,3,10,125,1,12.50,"41.67
+"
+WR,Ray,Harrison,6 - 1,197,(Jr),4.5,4.5,Purdue,12,77,1025,2,13.31,"85.42
+"
+WR,Jamel,Beckham,6 - 0,213,Jr,5.0,5.0,TCU,10,47,636,4,13.53,"63.60
+"
+WR,Thomas,Pearson,6 - 5,217,(So),2.5,2.5,Ole Miss,6,16,178,1,11.12,"29.67
+"
+WR,Jamal,Cobb,5 - 10,185,So,3.0,3.0,Iowa,11,34,418,1,12.29,"38.00
+"
+WR,Frederick,Sullivan,6 - 4,193,(Sr),3.0,3.0,Baylor,7,21,276,1,13.14,"39.43
+"
+RB,Emmanuel,Fields,5 - 7,213,Jr,4.0,4.5,Western Michigan,1,1,13,0,13.00,"13.00
+"
+RB,Dave,Pagac,6 - 0,170,(Sr),4.0,4.0,Texas Tech,2,6,76,2,12.67,"38.00
+"
+WR,Saki,Ekiyor,6 - 2,193,(Jr),3.5,3.5,Georgia State,12,58,798,3,13.76,"66.50
+"
+TE,Frank,Edwards,6 - 7,248,(Sr),4.0,4.0,Missouri,12,62,794,15,12.81,"66.17
+"
+WR,Charles,Stevens,6 - 2,181,(Fr),2.0,3.0,Western Michigan,12,20,305,1,15.25,"25.42
+"
+WR,James,Hampton,6 - 2,171,Jr,3.0,3.0,Houston,1,3,38,1,12.67,"38.00
+"
+TE,Bobby,LeBlanc,6 - 5,193,(Fr),2.5,4.0,Georgia State,8,33,444,3,13.45,"55.50
+"
+RB,Vernon,Haggan,5 - 11,191,Sr,4.5,4.5,Utah,2,7,99,1,14.14,"49.50
+"
+WR,Danny,Smith,6 - 1,166,Jr,3.0,3.0,Mississippi State,7,22,306,5,13.91,"43.71
+"
+WR,Jonathon,Rich,5 - 10,194,So,1.0,1.5,Eastern Michigan,1,2,15,1,7.50,"15.00
+"
+WR,Patrick,Richardson,6 - 5,207,Jr,2.0,2.0,Illinois,1,2,29,1,14.50,"29.00
+"
+TE,Timothy,Perez,6 - 3,238,(So),4.5,4.5,Arizona,7,24,321,6,13.38,"45.86
+"
+WR,Anthony,Hanson,6 - 3,187,So,2.0,3.0,Tulsa,9,45,575,3,12.78,"63.89
+"
+WR,Joseph,Whitmore,6 - 5,234,So,1.5,3.5,UCF,1,2,25,0,12.50,"25.00
+"
+WR,Malik,Lundy,6 - 1,188,Fr,1.5,3.5,North Texas,2,5,68,1,13.60,"34.00
+"
+TE,John,Nance,6 - 1,245,Jr,3.0,3.5,Houston,2,4,46,2,11.50,"23.00
+"
+WR,Andrew,Williamson,6 - 3,204,(Sr),4.0,4.0,Penn State,4,21,265,2,12.62,"66.25
+"
+WR,Christopher,Negrete,6 - 2,202,Sr,2.5,2.5,Miami OH,5,30,355,3,11.83,"71.00
+"
+TE,Damani,Spillman,6 - 0,230,Sr,4.5,4.5,Ball State,6,15,156,2,10.40,"26.00
+"
+TE,Denario,Jackson,6 - 1,219,Sr,4.0,4.0,Pittsburgh,9,41,569,9,13.88,"63.22
+"
+TE,Joseph,Counts,6 - 2,232,(So),2.5,4.0,Memphis,9,22,280,1,12.73,"31.11
+"
+TE,Charles,Self,6 - 4,250,(So),3.0,4.0,Tennessee,7,21,270,3,12.86,"38.57
+"
+WR,Rodrigo,Hulsey,6 - 2,226,(So),2.5,3.5,Colorado State,4,21,225,2,10.71,"56.25
+"
+WR,Sam,Hiller - Weeden,6 - 3,205,So,4.0,5.0,Fresno State,10,89,1091,10,12.26,"109.10
+"
+WR,Timmy,Sutton,5 - 10,154,(Fr),2.0,4.0,Kansas,4,14,184,1,13.14,"46.00
+"
+WR,Joseph,Thurston,6 - 0,210,(Fr),2.0,5.0,Michigan State,8,30,397,2,13.23,"49.62
+"
+WR,Patrick,Rollins,5 - 9,180,Fr,2.5,3.5,Indiana,9,21,254,0,12.10,"28.22
+"
+RB,Jerome,Shafer,5 - 8,225,Jr,3.0,3.5,Virginia,1,3,37,1,12.33,"37.00
+"
+WR,Henry,Hensley,6 - 2,223,So,2.0,3.0,Northwestern,6,17,203,1,11.94,"33.83
+"
+FB,Robert,Robinson,6 - 0,229,Sr,2.5,2.5,Colorado,1,2,18,1,9.00,"18.00
+"
+TE,Luis,Covarrubias,6 - 2,234,So,2.0,3.5,Nevada,2,4,74,1,18.50,"37.00
+"
+TE,Kana,Tagata,6 - 0,236,(Fr),2.0,4.0,TCU,2,3,47,2,15.67,"23.50
+"
+WR,Alexei,Maslowski,5 - 11,188,(Jr),3.5,3.5,Michigan State,7,27,359,5,13.30,"51.29
+"
+TE,Sylvester,Eaton,6 - 4,250,(So),2.5,3.5,Texas Tech,10,36,470,6,13.06,"47.00
+"
+WR,Cecil,Jenkins,5 - 9,181,Jr,1.5,2.5,Memphis,4,10,136,1,13.60,"34.00
+"
+WR,Shia,Brady,6 - 1,201,Fr,2.5,3.0,Florida,11,47,726,8,15.45,"66.00
+"
+WR,John,Fiedler,6 - 4,179,(Sr),3.5,3.5,Wisconsin,6,21,241,1,11.48,"40.17
+"
+FB,Jake,Davidson,6 - 1,212,(Sr),3.5,3.5,Alabama,1,1,10,0,10.00,"10.00
+"
+QB,Elmer,Zimmerman,6 - 3,223,Jr,2.0,2.0,Indiana,1,1,19,1,19.00,"19.00
+"
+RB,Adrian,Robinson,5 - 11,203,Sr,4.5,4.5,Houston,4,16,201,4,12.56,"50.25
+"
+WR,Andrew,Herrmann,6 - 2,178,Jr,3.0,3.0,TCU,3,6,82,3,13.67,"27.33
+"
+TE,Joseph,Holloman,6 - 1,214,Jr,2.0,2.5,Marshall,2,3,69,1,23.00,"34.50
+"
+WR,Thomas,Barajas,5 - 11,182,(Sr),2.5,2.5,Central Michigan,12,36,438,3,12.17,"36.50
+"
+WR,Keith,Setzer,6 - 2,213,Sr,4.5,4.5,Boise State,11,32,504,2,15.75,"45.82
+"
+WR,Jerry,Jackson,6 - 6,178,Fr,1.0,3.5,Tulsa,3,9,111,2,12.33,"37.00
+"
+WR,Clarence,Terrell,6 - 0,177,(So),2.5,3.5,Rice,9,25,313,1,12.52,"34.78
+"
+TE,Ronald,Jacobson,6 - 7,246,Jr,3.5,3.5,Iowa State,6,12,180,2,15.00,"30.00
+"
+WR,William,Frazier,6 - 1,166,Jr,3.0,3.5,Purdue,3,15,171,2,11.40,"57.00
+"
+WR,Gary,Wolff,6 - 1,188,Sr,1.5,1.5,Kent State,2,4,40,0,10.00,"20.00
+"
+WR,Kristian,Lipscomb,6 - 4,210,(Fr),2.0,3.0,California,12,107,1244,11,11.63,"103.67
+"
+WR,Javier,Grant,6 - 0,210,(So),2.5,3.0,Duke,11,21,223,2,10.62,"20.27
+"
+RB,Sean,Bell,6 - 1,209,So,3.5,5.0,Baylor,1,3,32,1,10.67,"32.00
+"
+WR,Robert,Mott,5 - 11,170,(So),3.0,3.5,South Carolina,2,6,77,1,12.83,"38.50
+"
+WR,Elijah,Talley,6 - 2,226,(Fr),2.5,4.0,Washington State,10,40,549,7,13.72,"54.90
+"
+WR,Jeremy,Scarborough,5 - 11,216,(Jr),4.5,4.5,Colorado State,12,116,1329,12,11.46,"110.75
+"
+TE,Walt,Trainor,6 - 0,221,(Jr),3.5,3.5,UCF,10,26,337,5,12.96,"33.70
+"
+WR,Eugene,Sanders,6 - 3,214,(So),3.5,4.5,Texas Tech,7,26,369,3,14.19,"52.71
+"
+WR,Jaheim,Lockett,6 - 4,185,So,2.5,3.0,Northwestern,10,41,516,4,12.59,"51.60
+"
+WR,Paul,Robertson,6 - 5,204,Sr,3.0,3.0,Tulane,12,54,728,3,13.48,"60.67
+"
+WR,Clarence,Tran,6 - 2,227,Jr,3.0,3.5,Kentucky,4,17,197,2,11.59,"49.25
+"
+WR,Harry,Pham,6 - 1,188,(Sr),2.5,2.5,Akron,3,7,42,0,6.00,"14.00
+"
+WR,Adam,Vann,5 - 10,220,(Fr),2.0,4.0,LSU,10,45,553,8,12.29,"55.30
+"
+TE,Robert,Kelley,6 - 4,261,(So),4.0,4.0,Penn State,9,34,465,6,13.68,"51.67
+"
+FB,Mark,Macleod,6 - 1,221,Jr,4.0,4.5,Eastern Michigan,3,7,75,3,10.71,"25.00
+"
+WR,Jadon,White,5 - 9,153,Fr,2.5,2.5,Akron,1,3,20,1,6.67,"20.00
+"
+WR,Alfredo,Martin,5 - 11,174,Sr,3.5,3.5,Nevada,11,32,417,2,13.03,"37.91
+"
+WR,Douglas,Albert,6 - 3,177,(So),1.5,1.5,Utah State,2,3,50,0,16.67,"25.00
+"
+TE,Winfred,Sinclair,6 - 4,224,Jr,2.5,3.0,Ohio,1,1,29,0,29.00,"29.00
+"
+WR,Jason,Morris,6 - 5,187,(So),2.5,3.0,San Jose State,6,27,291,1,10.78,"48.50
+"
+TE,Kristian,Jackson,6 - 1,202,(Fr),2.5,4.0,BYU,3,8,106,0,13.25,"35.33
+"
+WR,Cecil,Coble,6 - 1,169,(So),1.5,2.0,Utah State,1,3,29,0,9.67,"29.00
+"
+WR,Reggie,Sayers,5 - 11,205,(Sr),4.0,4.0,Washington,10,61,755,7,12.38,"75.50
+"
+WR,Aden,Leary,6 - 2,221,Fr,1.5,3.0,West Virginia,3,8,117,1,14.62,"39.00
+"
+RB,Charles,Perkins,5 - 7,201,(So),3.0,4.0,Washington,1,3,40,1,13.33,"40.00
+"
+WR,Noel,Lujan,6 - 2,158,Fr,1.0,4.0,Arkansas,2,6,58,2,9.67,"29.00
+"
+WR,Will,Burdick,6 - 4,201,Sr,2.5,2.5,Texas A&M,4,15,228,1,15.20,"57.00
+"
+WR,Clement,Neeley,6 - 0,186,Jr,2.5,3.0,Nebraska,2,7,90,2,12.86,"45.00
+"
+WR,Dan,Murphy,6 - 1,196,(Jr),4.0,4.0,Iowa,12,41,730,2,17.80,"60.83
+"
+TE,Chris,Irizarry,6 - 3,203,(Fr),1.5,4.0,Clemson,6,18,240,5,13.33,"40.00
+"
+WR,Ramon,Stewart,6 - 1,177,(So),3.5,4.5,USF,6,30,355,4,11.83,"59.17
+"
+TE,Oscar,Fisk,6 - 8,245,(Sr),5.0,5.0,Washington,7,44,532,7,12.09,"76.00
+"
+WR,Daniel,Marshall,6 - 1,174,(So),3.5,4.5,Arizona State,7,22,278,3,12.64,"39.71
+"
+WR,Calvin,Hayes,6 - 5,204,(Sr),3.5,4.5,Northern Illinois,12,56,778,3,13.89,"64.83
+"
+TE,Elias,Allen,6 - 4,261,(So),2.5,3.5,Oregon State,1,3,28,0,9.33,"28.00
+"
+TE,Victor,Stover,6 - 2,250,Jr,3.5,3.5,Indiana,10,22,242,0,11.00,"24.20
+"
+WR,Owen,Lomax,6 - 6,186,(So),2.0,2.0,Central Michigan,2,4,52,0,13.00,"26.00
+"
+WR,Joshua,Morgan,5 - 9,176,(So),1.0,1.5,Buffalo,1,1,5,0,5.00,"5.00
+"
+WR,Mario,Fuentes,6 - 4,207,Jr,3.0,3.0,Missouri,2,7,103,2,14.71,"51.50
+"
+WR,Gregory,Parrott,6 - 5,205,(Sr),3.0,3.0,Wyoming,12,46,614,0,13.35,"51.17
+"
+TE,Frank,Burton,6 - 1,227,(Sr),2.5,2.5,Utah State,10,31,363,3,11.71,"36.30
+"
+TE,Philip,Hayes,6 - 3,254,(So),3.5,3.5,Auburn,3,7,107,1,15.29,"35.67
+"
+WR,Nate,Christian,5 - 9,193,Sr,2.0,2.0,Georgia Tech,1,4,57,0,14.25,"57.00
+"
+WR,Dale,Villa,6 - 5,218,Jr,4.0,4.0,Vanderbilt,12,42,573,2,13.64,"47.75
+"
+WR,John,Irvin,6 - 1,173,(Sr),3.0,3.0,Ohio State,6,17,221,1,13.00,"36.83
+"
+WR,Tommy,Jordan,6 - 4,224,Jr,3.0,3.0,LSU,2,10,136,0,13.60,"68.00
+"
+RB,Emmett,Spears,5 - 10,195,Sr,4.5,5.0,Kent State,2,4,30,0,7.50,"15.00
+"
+WR,Samuel,Jolley,6 - 2,218,Sr,5.0,5.0,Houston,11,75,1270,7,16.93,"115.45
+"
+WR,Craig,Lewis,6 - 4,210,Sr,2.5,3.5,Louisville,1,2,31,0,15.50,"31.00
+"
+WR,Jorge,Thompson,5 - 11,169,Jr,3.0,3.0,Connecticut,7,22,309,2,14.05,"44.14
+"
+WR,Curtis,Settles,6 - 0,207,Sr,5.0,5.0,Penn State,12,70,975,5,13.93,"81.25
+"
+WR,Travis,Warren,5 - 11,153,Jr,4.0,4.0,BYU,8,29,431,4,14.86,"53.88
+"
+WR,Bryan,Thayer,6 - 1,195,So,3.0,3.0,Maryland,12,40,587,1,14.68,"48.92
+"
+RB,Chris,Bell,6 - 3,198,(Jr),4.5,5.0,Navy,3,6,94,2,15.67,"31.33
+"
+TE,William,Trotter,74,207,(??),2.0,3.0,North Carolina State,10,18,237,1,13.17,"23.70
+"
+WR,Markus,Hill,5 - 10,194,(Jr),3.0,3.0,Notre Dame,6,16,216,4,13.50,"36.00
+"
+TE,Abdul,Dunbar,6 - 2,209,Fr,1.0,2.5,Oregon,1,2,30,0,15.00,"30.00
+"
+WR,Jamaal,Brown - Sanderson,73,211,Jr,3.5,4.5,Penn State,1,6,104,1,17.33,"104.00
+"
+WR,Christopher,Smith,5 - 9,163,Jr,1.5,2.5,Nevada,5,7,107,0,15.29,"21.40
+"
+RB,Greg,Allen,5 - 10,206,(Sr),4.0,4.0,Marshall,1,4,51,1,12.75,"51.00
+"
+RB,Devin,Scruggs,5 - 10,171,(Fr),3.5,3.5,ECU,1,2,29,1,14.50,"29.00
+"
+TE,James,Hall,6 - 5,225,Sr,3.5,3.5,Marshall,10,30,401,5,13.37,"40.10
+"
+WR,Richard,Dodge,6 - 3,186,Jr,3.0,4.0,Bowling Green,10,41,559,3,13.63,"55.90
+"
+WR,Cameron,Whelahan,6 - 4,211,Sr,4.5,4.5,Arkansas,12,102,1260,12,12.35,"105.00
+"
+WR,James,Montgomery,6 - 1,161,(So),4.0,4.0,Florida State,2,11,133,1,12.09,"66.50
+"
+WR,Arthur,Good,6 - 1,225,(Fr),3.0,3.5,Georgia State,9,34,427,2,12.56,"47.44
+"
+WR,Justice,Pierre,6 - 2,215,(Fr),2.0,4.0,UCF,11,38,594,2,15.63,"54.00
+"
+WR,Marcus,Ratterman,6 - 4,190,(Jr),5.0,5.0,Hawaii,11,68,865,7,12.72,"78.64
+"
+WR,Corey,Cottrell,5 - 9,168,Jr,2.5,3.0,TCU,1,2,19,1,9.50,"19.00
+"
+RB,Rodrigo,Rogers,5 - 11,204,(So),4.0,4.0,Pittsburgh,1,2,30,1,15.00,"30.00
+"
+WR,John,Nelson,6 - 2,233,Jr,4.0,4.0,Georgia Tech,10,31,424,2,13.68,"42.40
+"
+WR,Kendall,Hartings,6 - 4,195,(Jr),3.0,3.0,Army,7,20,301,3,15.05,"43.00
+"
+TE,Steven,Simpkins,6 - 2,196,Fr,2.5,2.5,Oklahoma State,9,30,377,3,12.57,"41.89
+"
+WR,Terrell,Beverly,6 - 1,200,So,1.5,2.5,California,1,3,37,1,12.33,"37.00
+"
+TE,Tanielu,Mulinu'u,6 - 2,221,Fr,2.5,3.0,Rice,10,28,359,5,12.82,"35.90
+"
+RB,Cory,Day,5 - 10,172,(Sr),3.5,3.5,Rutgers,2,6,98,0,16.33,"49.00
+"
+RB,Stephen,Smith,5 - 11,190,Jr,2.5,2.5,Florida,1,3,32,1,10.67,"32.00
+"
+RB,Mamadou,Wynn,6 - 1,215,Fr,2.5,4.0,Buffalo,1,2,7,0,3.50,"7.00
+"
+TE,Kavika,Russell,6 - 1,223,(Sr),4.0,4.0,Oklahoma,12,50,646,3,12.92,"53.83
+"
+WR,Herb,Barker,6 - 6,180,Jr,3.0,3.5,USF,6,36,455,6,12.64,"75.83
+"
+WR,Nick,Conrad,6 - 2,198,So,2.0,2.5,California,9,51,602,8,11.80,"66.89
+"
+WR,Carl,Lloyd,6 - 1,179,So,2.5,3.0,Marshall,10,34,470,3,13.82,"47.00
+"
+TE,Josh,Peller,6 - 1,231,(Jr),4.0,4.0,San Diego State,9,28,374,1,13.36,"41.56
+"
+WR,K.J.,Sykes,6 - 4,215,(Jr),3.0,3.0,Washington State,3,12,183,1,15.25,"61.00
+"
+WR,Artemio,Ramirez,6 - 1,171,Jr,5.0,5.0,Oregon,10,48,721,6,15.02,"72.10
+"
+WR,Greg,Gillespie,6 - 1,155,So,3.0,3.0,Maryland,7,18,285,0,15.83,"40.71
+"
+WR,Francisco,Gibson,6 - 1,216,Jr,5.0,5.0,Washington,11,89,1176,9,13.21,"106.91
+"
+WR,Quintavius,Pearson,6 - 0,196,Sr,4.5,4.5,Louisville,12,64,850,2,13.28,"70.83
+"
+WR,Robert,Curtis,6 - 5,213,Jr,4.0,4.5,BYU,12,51,779,4,15.27,"64.92
+"
+TE,Santana,Sellers,6 - 6,240,(Sr),4.0,4.0,Michigan State,1,2,28,0,14.00,"28.00
+"
+WR,Troy,Wilson,6 - 0,150,Jr,3.5,4.5,Cincinnati,11,42,566,5,13.48,"51.45
+"
+TE,William,Johnson,6 - 1,257,(So),4.5,5.0,Michigan State,7,24,326,5,13.58,"46.57
+"
+RB,Josh,Taylor,5 - 10,178,Jr,4.0,4.5,USF,4,14,198,3,14.14,"49.50
+"
+WR,Robert,Lewis,6 - 3,194,Sr,3.5,3.5,Akron,11,50,525,2,10.50,"47.73
+"
+RB,Khalil,Daniels,5 - 6,179,So,3.5,3.5,Georgia State,2,9,120,2,13.33,"60.00
+"
+WR,Sebastian,Hatcher,6 - 1,153,(Fr),2.0,4.0,SMU,10,24,268,2,11.17,"26.80
+"
+TE,Quinn,Turner,6 - 2,252,(Jr),3.0,3.0,Ohio State,2,6,99,0,16.50,"49.50
+"
+WR,Danny,Paz,6 - 0,219,So,3.5,4.5,Duke,12,34,417,0,12.26,"34.75
+"
+WR,Harry,Whiteside,6 - 5,169,(Sr),5.0,5.0,Texas,12,74,1114,9,15.05,"92.83
+"
+WR,Eric,Garner,6 - 1,170,Sr,4.0,4.0,Tulsa,11,73,1095,6,15.00,"99.55
+"
+TE,Eugene,Jackson,6 - 5,253,(Jr),5.0,5.0,Ohio State,11,53,726,8,13.70,"66.00
+"
+WR,Tyrone,Ruddy,6 - 2,188,(Jr),2.5,2.5,Utah,8,24,332,0,13.83,"41.50
+"
+WR,Harold,Rice,6 - 2,169,Jr,2.5,2.5,Navy,8,20,261,1,13.05,"32.62
+"
+WR,Mohamed,Charles,6 - 4,192,Jr,4.0,5.0,Minnesota,12,55,770,4,14.00,"64.17
+"
+WR,Ibrahim,Smiley,6 - 0,168,Sr,4.5,4.5,Baylor,11,44,541,1,12.30,"49.18
+"
+WR,Jariel,Romo,6 - 2,162,Fr,2.0,2.5,Oklahoma State,1,1,19,0,19.00,"19.00
+"
+WR,Jerry,Buchanan,6 - 1,166,Jr,2.5,3.5,Rice,12,43,588,2,13.67,"49.00
+"
+WR,Joseph,Betancourt - Zepeda,6 - 3,220,So,2.5,2.5,Wake Forest,1,1,27,0,27.00,"27.00
+"
+WR,Sam,Fuller,6 - 0,232,Jr,2.5,2.5,Oklahoma State,2,6,69,1,11.50,"34.50
+"
+WR,Cornelius,Davis,6 - 2,191,(Sr),3.0,3.0,Colorado State,9,53,585,1,11.04,"65.00
+"
+WR,Samuel,Ritter,6 - 2,218,Fr,2.5,4.0,Pittsburgh,11,58,786,10,13.55,"71.45
+"
+RB,Justin,Couture,5 - 10,178,(Jr),4.0,4.0,Ohio,2,6,75,2,12.50,"37.50
+"
+TE,Floyd,Arnold,6 - 2,233,(So),3.0,4.5,Colorado State,8,48,479,5,9.98,"59.88
+"
+WR,Jason,Cornelius,5 - 11,179,(Sr),3.5,3.5,Rutgers,11,43,573,2,13.33,"52.09
+"
+WR,Marty,Hoover,5 - 9,195,(Jr),2.5,2.5,North Carolina State,7,13,189,1,14.54,"27.00
+"
+TE,Uriel,Leach,6 - 1,239,Sr,4.0,4.0,Arizona,2,5,67,2,13.40,"33.50
+"
+RB,Peter,Hamilton,5 - 10,200,Sr,3.5,3.5,Wyoming,2,5,64,2,12.80,"32.00
+"
+WR,Brendan,Hevesy,6 - 4,180,(Jr),3.0,3.0,Georgia Tech,2,6,82,1,13.67,"41.00
+"
+WR,Ira,Crawford,5 - 11,167,Jr,2.5,3.0,Ball State,4,5,59,1,11.80,"14.75
+"
+WR,Cameron,Beatty,6 - 3,220,(Fr),2.0,4.0,Virginia,12,69,908,6,13.16,"75.67
+"
+RB,Marshawn,Matthison,6 - 0,234,(Jr),5.0,5.0,North Carolina State,2,4,48,0,12.00,"24.00
+"
+WR,Warren,Johnson,5 - 9,168,So,2.5,2.5,Tulane,2,7,84,2,12.00,"42.00
+"
+WR,Jeremy,Cook,72,217,(So),3.5,5.0,Washington State,11,62,811,4,13.08,"73.73
+"
+WR,Taylor,Eifert,6 - 3,208,Jr,3.0,4.5,Nebraska,11,37,550,5,14.86,"50.00
+"
+RB,Brian,Schlichter,5 - 11,206,(Jr),4.0,4.5,Colorado,1,2,27,0,13.50,"27.00
+"
+WR,Aaron,Ayala,6 - 1,169,(So),2.5,4.5,Wisconsin,6,23,278,5,12.09,"46.33
+"
+TE,Donnie,Allen,6 - 5,247,(Sr),5.0,5.0,Notre Dame,10,47,543,8,11.55,"54.30
+"
+WR,Elijah,Seals,5 - 11,152,So,2.0,3.0,Iowa,1,2,22,0,11.00,"22.00
+"
+WR,Lee,Miller,6 - 2,160,Jr,3.0,3.0,Virginia Tech,1,2,38,1,19.00,"38.00
+"
+WR,George,Lewis,5 - 11,181,(Sr),5.0,5.0,UCLA,12,40,548,2,13.70,"45.67
+"
+RB,Columbus,Jones,5 - 10,189,Jr,3.5,3.5,Georgia,3,7,96,3,13.71,"32.00
+"
+WR,Dennis,Reyna,5 - 11,168,(So),2.5,3.5,Iowa State,1,2,27,0,13.50,"27.00
+"
+WR,Luke,Guy,6 - 1,182,(Fr),4.0,4.0,Washington,7,34,418,5,12.29,"59.71
+"
+TE,Bob,Waterman,6 - 3,209,Fr,1.5,3.0,Miami FL,10,32,449,5,14.03,"44.90
+"
+FB,Patrick,Calvert,6 - 1,200,(Sr),2.0,2.0,New Mexico,1,3,23,0,7.67,"23.00
+"
+WR,Jeffery,Garcia,6 - 3,193,So,2.5,3.5,North Texas,10,42,605,3,14.40,"60.50
+"
+TE,Evan,Perkins,6 - 3,212,Jr,3.0,4.0,North Texas,9,34,442,3,13.00,"49.11
+"
+WR,Dirk,Robustelli,6 - 0,170,(Sr),3.5,3.5,Colorado,9,28,372,2,13.29,"41.33
+"
+WR,Will,Allen,5 - 10,183,Sr,2.5,2.5,Auburn,6,12,161,3,13.42,"26.83
+"
+TE,Paul,Williams,6 - 3,230,Sr,2.5,2.5,Temple,10,28,361,4,12.89,"36.10
+"
+WR,James,Powers,6 - 2,198,Sr,2.5,2.5,Bowling Green,2,4,57,0,14.25,"28.50
+"
+WR,Michael,Hall,6 - 3,218,(So),4.0,4.0,Penn State,10,46,627,10,13.63,"62.70
+"
+RB,Caleb,Sherwin,6 - 0,192,(Jr),4.0,4.0,Missouri,2,6,62,2,10.33,"31.00
+"
+TE,Emanuelu,Lesa,6 - 4,196,(Fr),2.0,4.5,TCU,4,9,128,3,14.22,"32.00
+"
+WR,Lamar,Detmer,6 - 0,164,(Sr),2.5,3.5,Syracuse,12,37,451,1,12.19,"37.58
+"
+WR,Victor,Ramos,6 - 3,214,(Jr),3.5,3.5,Boston College,2,7,81,2,11.57,"40.50
+"
+TE,Joey,Scribner,6 - 3,234,(Sr),4.0,4.0,Alabama,1,1,16,0,16.00,"16.00
+"
+WR,Wesley,Dangelo,5 - 11,188,Fr,1.0,3.0,Oklahoma,1,2,37,1,18.50,"37.00
+"
+WR,Jeffery,Templeton,5 - 11,184,(Fr),2.5,3.5,Ohio,11,43,658,2,15.30,"59.82
+"
+TE,Mark,Shaw,6 - 0,229,So,2.5,3.5,Mississippi State,5,18,215,5,11.94,"43.00
+"
+WR,Aaron,Hughes,6 - 4,193,Jr,2.5,3.5,Toledo,10,49,601,3,12.27,"60.10
+"
+WR,Mohammed,Roth,6 - 1,153,Fr,1.0,3.0,Connecticut,3,8,139,3,17.38,"46.33
+"
+WR,Cameron,Montgomery,6 - 1,204,So,2.0,2.5,Cincinnati,8,21,264,1,12.57,"33.00
+"
+RB,Caleb,Kilmer,6 - 2,220,(Jr),3.0,3.0,San Diego State,1,2,28,0,14.00,"28.00
+"
+TE,Jack,Lucas,6 - 2,243,(So),2.5,3.5,Michigan,2,3,30,1,10.00,"15.00
+"
+WR,Donald,Gay,6 - 3,172,Jr,3.0,3.0,Ole Miss,10,28,439,0,15.68,"43.90
+"
+TE,William,Johnson,74,257,(So),3.0,4.0,Stanford,5,12,159,0,13.25,"31.80
+"
+TE,Mickel,Walker,6 - 1,253,(Jr),4.0,4.0,Purdue,9,33,402,8,12.18,"44.67
+"
+TE,DeAndre,Pierre,6 - 1,232,Fr,2.5,2.5,Bowling Green,4,5,118,1,23.60,"29.50
+"
+WR,Leon,Francis,6 - 6,194,Sr,2.5,2.5,Syracuse,10,44,594,2,13.50,"59.40
+"
+RB,Benjamin,Myers,6 - 1,178,Sr,3.0,3.0,San Jose State,2,6,81,0,13.50,"40.50
+"
+WR,Miles,McCullough,6 - 1,195,Fr,2.0,3.5,Oklahoma,4,16,229,1,14.31,"57.25
+"
+WR,John,Benjamin,6 - 3,179,(Sr),4.5,4.5,Connecticut,11,51,768,1,15.06,"69.82
+"
+WR,Cameron,Lindsey,6 - 3,207,(Jr),4.0,4.0,Missouri,10,61,869,8,14.25,"86.90
+"
+WR,Todd,Sykes,6 - 1,182,(Sr),4.0,4.0,West Virginia,12,70,911,5,13.01,"75.92
+"
+WR,Oscar,Marroquin,5 - 11,161,(Fr),2.0,4.0,Auburn,11,43,659,2,15.33,"59.91
+"
+WR,Maxwell,Tagaloa,71,172,(??),2.5,2.5,North Carolina State,6,8,93,0,11.62,"15.50
+"
+WR,Joseph,Page,6 - 3,220,(So),2.5,3.5,Tennessee,4,8,113,2,14.12,"28.25
+"
+TE,Abraham,Aireaus,6 - 2,216,(Jr),4.0,4.0,Navy,5,10,132,2,13.20,"26.40
+"
+WR,Jerome,Byers,6 - 1,196,Sr,1.5,1.5,Florida,1,3,52,1,17.33,"52.00
+"
+WR,Jeffrey,Goss,6 - 3,168,Jr,3.0,3.0,Kansas,5,19,252,3,13.26,"50.40
+"
+TE,Xavier,McDonough,6 - 0,232,Sr,4.0,4.0,Boise State,7,16,239,0,14.94,"34.14
+"
+WR,Benjamin,Larry,6 - 3,224,(So),3.0,3.5,Air Force,7,9,149,2,16.56,"21.29
+"
+WR,Richard,Hunter,6 - 4,174,Jr,1.5,2.0,Kent State,2,4,48,0,12.00,"24.00
+"
+TE,Shane,Kaufman,6 - 2,237,(Sr),4.5,4.5,LSU,6,20,282,3,14.10,"47.00
+"
+RB,Ben,Curry,5 - 11,193,(Jr),4.0,4.0,Boston College,3,7,104,3,14.86,"34.67
+"
+WR,Jeffery,Brown,6 - 1,175,Jr,3.0,3.5,Nevada,9,24,261,2,10.88,"29.00
+"
+WR,Charles,Garcia,72,166,Jr,4.0,4.0,Miami FL,12,52,855,3,16.44,"71.25
+"
+TE,Zeke,Handel,6 - 0,242,Sr,3.0,3.0,UCF,2,4,57,0,14.25,"28.50
+"
+WR,Malaefou,Lewis,5 - 8,181,(Sr),4.0,4.0,Arizona State,12,38,519,2,13.66,"43.25
+"
+WR,Jerry,Young,6 - 1,150,Jr,2.5,3.5,Wake Forest,8,25,376,1,15.04,"47.00
+"
+WR,Nate,Bennett,6 - 1,195,Sr,2.0,2.0,Wisconsin,1,2,25,1,12.50,"25.00
+"
+TE,Mitch,Lottner,6 - 0,242,(Jr),4.5,4.5,Maryland,10,26,349,2,13.42,"34.90
+"
+WR,William,Adam,6 - 2,212,(Sr),2.5,2.5,San Jose State,3,16,191,0,11.94,"63.67
+"
+WR,Andres,Jenkins,5 - 9,163,(So),3.0,4.0,Georgia,10,44,723,4,16.43,"72.30
+"
+WR,Margene,Huard,6 - 6,169,(Sr),4.0,4.0,Arizona,7,34,421,1,12.38,"60.14
+"
+FB,Erik,Wendt,5 - 9,230,So,2.5,3.5,SMU,1,2,15,0,7.50,"15.00
+"
+WR,Joseph,Murphy,6 - 2,180,Jr,3.0,3.0,UCF,6,17,214,0,12.59,"35.67
+"
+RB,Troy,Booker,6 - 4,222,(Jr),4.5,4.5,Texas,1,3,47,1,15.67,"47.00
+"
+RB,Brandon,Yates,6 - 0,175,(Sr),3.5,3.5,Ole Miss,1,2,33,0,16.50,"33.00
+"
+WR,Robert,Santiago,6 - 0,163,(So),3.5,4.0,Kentucky,9,41,566,6,13.80,"62.89
+"
+TE,John,Goss,6 - 3,250,(Sr),2.5,2.5,Toledo,7,23,294,5,12.78,"42.00
+"
+WR,William,Hughes,6 - 4,171,Jr,2.0,2.5,Temple,7,20,264,3,13.20,"37.71
+"
+TE,Jason,Billings,6 - 2,227,Fr,1.0,3.0,Utah,11,40,534,4,13.35,"48.55
+"
+WR,Elvis,Hicks,6 - 1,182,So,2.5,3.5,Ball State,9,24,285,2,11.88,"31.67
+"
+TE,Arthur,Pearce,6 - 6,238,(Jr),3.0,3.0,San Jose State,8,33,415,3,12.58,"51.88
+"
+TE,Jared,Smith,6 - 1,248,Jr,3.0,3.0,Iowa,2,4,37,1,9.25,"18.50
+"
+WR,Joseph,Vaughn,6 - 0,162,Jr,2.0,2.0,Kansas State,1,1,13,0,13.00,"13.00
+"
+TE,Jack,Rowe,6 - 5,249,(So),2.5,2.5,Texas Tech,3,5,96,0,19.20,"32.00
+"
+WR,Rob,Natkin,6 - 4,187,(Sr),3.5,3.5,Michigan,5,21,280,2,13.33,"56.00
+"
+WR,James,Pridgen,6 - 0,178,(So),2.5,3.0,Duke,3,4,51,0,12.75,"17.00
+"
+WR,Steven,Noel,5 - 10,173,(Fr),2.0,3.5,Illinois,12,29,431,1,14.86,"35.92
+"
+WR,Rex,Walsh,5 - 11,165,(Sr),5.0,5.0,Florida State,12,114,1112,9,9.75,"92.67
+"
+TE,John,Flores,6 - 2,236,(So),2.0,2.5,Temple,1,2,32,0,16.00,"32.00
+"
+WR,Dan,Summerell,6 - 2,197,(Jr),3.0,3.0,Utah,12,54,830,3,15.37,"69.17
+"
+WR,Raheem,Robinson,6 - 3,192,So,4.5,5.0,Oklahoma State,12,85,1124,9,13.22,"93.67
+"
+WR,Adam,Oliver,6 - 4,192,Jr,2.5,3.5,Eastern Michigan,11,50,677,4,13.54,"61.55
+"
+WR,Will,London,6 - 3,205,(Jr),4.0,4.0,Tennessee,11,28,444,2,15.86,"40.36
+"
+TE,Darren,Jones,6 - 7,241,(Sr),5.0,5.0,Baylor,9,24,433,6,18.04,"48.11
+"
+WR,Abdoulaye,Bowser,6 - 1,162,Fr,1.0,3.5,West Virginia,3,11,133,3,12.09,"44.33
+"
+WR,Thomas,Rankin,6 - 0,178,(So),2.5,3.5,Kentucky,2,7,89,1,12.71,"44.50
+"
+WR,Tommie,Green,6 - 1,197,(Sr),2.0,2.0,New Mexico,11,32,413,0,12.91,"37.55
+"
+TE,Jariel,Rosario,6 - 0,215,(Jr),4.0,4.5,Michigan,6,23,355,3,15.43,"59.17
+"
+WR,Melvin,Scott,5 - 9,190,Sr,2.0,2.0,Virginia,4,11,142,1,12.91,"35.50
+"
+WR,Austin,Bruno,6 - 3,192,(So),2.0,2.0,Central Michigan,5,10,154,2,15.40,"30.80
+"
+WR,Thomas,Yang,6 - 4,179,(Fr),2.5,3.5,Toledo,11,39,466,3,11.95,"42.36
+"
+WR,Roberto,Golden,6 - 2,200,(Fr),1.5,2.5,Memphis,7,15,188,1,12.53,"26.86
+"
+WR,Ryan,Neal,6 - 1,214,Fr,1.0,2.5,Utah State,1,2,28,1,14.00,"28.00
+"
+RB,Ricardo,Reed,5 - 9,201,Jr,4.5,5.0,Connecticut,4,13,167,3,12.85,"41.75
+"
+WR,William,Fowler,5 - 9,171,So,3.5,3.5,San Jose State,11,72,873,8,12.12,"79.36
+"
+TE,Maynard,Brooks,6 - 7,260,Jr,2.5,2.5,Army,10,33,432,6,13.09,"43.20
+"
+WR,Claudio,Howard,6 - 2,187,Fr,2.5,4.5,USF,2,7,90,0,12.86,"45.00
+"
+RB,Martavius,Benson,6 - 1,232,(Jr),2.5,2.5,Minnesota,1,3,59,1,19.67,"59.00
+"
+WR,James,Ramirez,6 - 2,164,(So),2.5,3.0,Washington State,1,3,35,1,11.67,"35.00
+"
+WR,Donald,Rivera,6 - 5,191,(Sr),1.5,1.5,New Mexico,1,2,32,1,16.00,"32.00
+"
+WR,Jose,Kemp,6 - 3,210,Jr,2.5,3.0,ECU,7,10,136,2,13.60,"19.43
+"
+WR,Brandon,Vaughn,6 - 1,205,(Fr),3.5,4.0,Stanford,12,43,616,2,14.33,"51.33
+"
+TE,Brad,Richards,6 - 3,224,Sr,4.0,4.0,Houston,7,24,329,6,13.71,"47.00
+"
+TE,Will,Holly,6 - 2,237,(Jr),4.5,4.5,Texas,8,32,446,8,13.94,"55.75
+"
+WR,Christopher,Rosario,6 - 5,196,Jr,2.0,3.0,Akron,7,23,216,0,9.39,"30.86
+"
+RB,Will,Fuller,5 - 10,190,Jr,4.0,5.0,Mississippi State,2,5,66,1,13.20,"33.00
+"
+WR,Elijah,Pulliam,6 - 1,182,Sr,2.5,2.5,Eastern Michigan,3,7,75,0,10.71,"25.00
+"
+WR,Tom,Oldham,6 - 0,155,(Fr),3.0,5.0,Iowa State,12,45,684,3,15.20,"57.00
+"
+WR,Alan,Donaldson,5 - 9,192,(Sr),1.5,1.5,Buffalo,3,7,53,0,7.57,"17.67
+"
+WR,Jeremy,Painter,5 - 10,176,(Jr),3.5,3.5,SMU,1,2,18,0,9.00,"18.00
+"
+WR,Omari,Ruff,6 - 1,157,Fr,1.0,4.0,North Carolina State,4,9,113,0,12.56,"28.25
+"
+RB,Marcus,Williams,5 - 10,219,(So),4.5,5.0,Nebraska,1,3,54,1,18.00,"54.00
+"
+WR,R.J.,Dove,6 - 4,221,Sr,3.0,3.0,Northwestern,11,42,553,3,13.17,"50.27
+"
+TE,Jeffrey,Dupree,6 - 2,215,(Fr),2.0,4.0,Wisconsin,8,24,401,4,16.71,"50.12
+"
+RB,Marvin,Washington,5 - 8,178,(Sr),4.5,4.5,California,3,11,148,2,13.45,"49.33
+"
+FB,Samuel,Taylor,5 - 8,208,Jr,2.5,3.0,Hawaii,1,1,8,1,8.00,"8.00
+"
+TE,Thomas,Noel,6 - 5,209,Fr,1.0,3.0,Akron,1,3,38,0,12.67,"38.00
+"
+WR,Clint,Wiley,6 - 6,178,(Sr),4.0,4.0,South Carolina,12,83,945,2,11.39,"78.75
+"
+WR,Chris,Henley,6 - 4,215,Sr,3.0,3.0,Oklahoma State,11,43,541,1,12.58,"49.18
+"
+WR,Jaeden,Kirkland,6 - 1,201,Fr,1.5,2.5,Kansas State,8,18,231,0,12.83,"28.88
+"
+WR,John,Lang,5 - 10,177,So,2.0,3.5,San Jose State,1,5,77,0,15.40,"77.00
+"
+WR,Adrian,Jankowski,6 - 4,194,(Jr),4.5,4.5,Texas A&M,12,103,1403,12,13.62,"116.92
+"
+WR,Christopher,Harris,6 - 2,177,Sr,4.0,4.0,USF,11,94,1162,9,12.36,"105.64
+"
+TE,Floyd,Ellison,6 - 5,223,(So),2.5,2.5,Central Michigan,6,13,199,2,15.31,"33.17
+"
+TE,Peter,White,6 - 3,235,Jr,3.0,3.0,Indiana,3,7,72,0,10.29,"24.00
+"
+WR,Avery,Boykin,6 - 4,211,So,2.5,2.5,Duke,1,1,6,0,6.00,"6.00
+"
+TE,Franklin,Collins,6 - 3,234,(Fr),2.0,2.5,Western Michigan,2,3,42,0,14.00,"21.00
+"
+FB,Dennis,Hampton,5 - 11,192,Jr,3.5,3.5,Iowa State,1,1,31,0,31.00,"31.00
+"
+WR,Monte,Jackson,78,227,Jr,3.5,5.0,Miami FL,11,38,554,4,14.58,"50.36
+"
+TE,Makai,Horne,6 - 1,239,Fr,1.0,3.0,Miami OH,2,4,74,1,18.50,"37.00
+"
+WR,Melvin,Grubbs,5 - 9,171,(Fr),2.5,3.0,Miami OH,12,91,1140,9,12.53,"95.00
+"
+TE,Theo,Stephens,6 - 4,232,Jr,2.5,2.5,Georgia Tech,2,4,54,0,13.50,"27.00
+"
+RB,Michael,Frey,6 - 1,196,Sr,2.5,2.5,Utah State,4,7,103,0,14.71,"25.75
+"
+WR,Vincent,Allen,5 - 11,174,(Fr),2.0,3.0,Rutgers,6,16,200,0,12.50,"33.33
+"
+TE,Troy,Terrell,6 - 4,192,Fr,1.0,3.5,Western Michigan,11,19,233,3,12.26,"21.18
+"
+WR,James,Hall,6 - 5,200,(Fr),2.0,4.0,Air Force,1,1,16,0,16.00,"16.00
+"
+TE,Gerardo,Walden,6 - 2,267,(So),3.0,4.0,Michigan,8,34,453,7,13.32,"56.62
+"
+TE,Ituha,Coonaha,6 - 6,200,Sr,4.5,4.5,Georgia,8,26,368,3,14.15,"46.00
+"
+TE,Christian,Garza,6 - 1,216,So,2.5,2.5,Arkansas,1,2,25,1,12.50,"25.00
+"
+WR,Frank,Huang,5 - 10,167,Jr,2.5,2.5,Colorado State,1,3,68,1,22.67,"68.00
+"
+WR,Jack,Phillips,75,203,Jr,2.5,2.5,West Virginia,9,38,478,5,12.58,"53.11
+"
+WR,Darrell,Moses,6 - 5,176,(Sr),3.0,3.0,Clemson,5,18,253,3,14.06,"50.60
+"
+WR,E.J.,Steed,6 - 2,217,Sr,4.0,4.0,Arkansas,10,76,959,10,12.62,"95.90
+"
+TE,Mendy,Pickering,6 - 6,198,So,3.5,3.5,Vanderbilt,4,10,133,1,13.30,"33.25
+"
+TE,Amir,Nassib,6 - 0,229,Jr,3.5,4.0,Pittsburgh,1,2,22,1,11.00,"22.00
+"
+WR,Fred,Green,6 - 0,207,(Jr),3.5,3.5,Hawaii,1,3,36,1,12.00,"36.00
+"
+WR,Bruce,Riley,6 - 1,219,(So),3.5,4.5,Notre Dame,7,26,362,1,13.92,"51.71
+"
+TE,Sal,Deniglio,6 - 5,247,(Jr),3.5,4.0,Florida,6,21,246,5,11.71,"41.00
+"
+TE,Charles,Williams,6 - 8,231,(Sr),4.0,4.0,Maryland,1,2,30,0,15.00,"30.00
+"
+WR,Merle,Valdez,5 - 9,159,(Sr),3.0,3.0,Air Force,3,6,76,2,12.67,"25.33
+"
+TE,Jim,Townsell,6 - 2,227,(Sr),3.5,3.5,Virginia,1,1,36,0,36.00,"36.00
+"
+RB,Frank,Osborn,67,184,(So),3.5,4.0,Stanford,1,3,37,0,12.33,"37.00
+"
+WR,Lamont,Montgomery,6 - 5,234,So,3.0,3.5,Kansas,8,33,458,4,13.88,"57.25
+"
+WR,Luke,Dickinson,6 - 4,213,Fr,3.0,3.0,San Jose State,3,14,173,3,12.36,"57.67
+"
+WR,Edward,Bermudez,6 - 0,156,(Fr),2.0,3.5,Texas Tech,3,7,60,3,8.57,"20.00
+"
+TE,Rolando,Dodson,6 - 6,227,So,2.5,3.0,Bowling Green,8,22,276,2,12.55,"34.50
+"
+WR,Charlie,Warren,6 - 1,216,Sr,3.0,3.0,Iowa State,5,15,171,1,11.40,"34.20
+"
+TE,Salvador,Escobar,6 - 3,250,Sr,2.0,2.0,North Texas,1,2,32,0,16.00,"32.00
+"
+WR,Rashad,Azumah,6 - 1,192,(Jr),4.0,4.0,Nebraska,12,52,802,4,15.42,"66.83
+"
+TE,Jason,McClairen,6 - 4,220,(Sr),5.0,5.0,Texas A&M,6,36,445,4,12.36,"74.17
+"
+WR,Elliott,Efi,6 - 0,222,(Fr),2.0,4.0,Iowa State,11,32,411,2,12.84,"37.36
+"
+WR,Angelo,Smith,6 - 3,216,Jr,3.0,3.0,Rutgers,8,26,336,2,12.92,"42.00
+"
+WR,Raymond,Givens,6 - 2,217,Fr,2.5,2.5,Florida,6,18,286,4,15.89,"47.67
+"
+TE,Steven,Medina,6 - 2,256,Jr,4.0,4.0,Arizona State,5,9,144,0,16.00,"28.80
+"
+TE,Marius,Greenwood,6 - 2,228,(Jr),3.5,4.5,South Carolina,8,35,460,4,13.14,"57.50
+"
+TE,Grover,Shaffer,6 - 4,260,Jr,3.0,3.0,Kansas State,2,4,68,0,17.00,"34.00
+"
+WR,Nicholas,Jones,6 - 4,205,(Fr),2.0,3.5,San Diego State,7,22,300,5,13.64,"42.86
+"
+WR,John,Foster,6 - 1,196,Sr,1.5,1.5,Ohio,7,16,231,0,14.44,"33.00
+"
+WR,Chip,Johnson,6 - 3,188,(Sr),4.5,4.5,Oregon,9,30,430,3,14.33,"47.78
+"
+TE,Greg,Mattingly,6 - 1,238,(Fr),2.0,4.0,SMU,7,8,106,0,13.25,"15.14
+"
+WR,Jamal,Brunell,6 - 4,171,(Sr),5.0,5.0,Notre Dame,12,61,857,5,14.05,"71.42
+"
+WR,Giovanni,Haskins,5 - 10,185,(Fr),2.0,4.0,Michigan,2,6,70,2,11.67,"35.00
+"
+WR,Israel,Price,6 - 1,180,So,3.0,3.0,Auburn,10,31,428,4,13.81,"42.80
+"
+WR,Noel,Freeman,6 - 2,184,So,2.0,3.0,Kansas,1,1,5,1,5.00,"5.00
+"
+WR,C.J.,Jensen,6 - 3,185,So,3.0,3.0,Georgia,4,11,138,2,12.55,"34.50
+"
+TE,Brian,Canty,6 - 2,232,(Jr),3.5,3.5,Air Force,9,14,203,2,14.50,"22.56
+"
+WR,Jermaine,Bishop,6 - 4,194,Sr,4.5,4.5,Pittsburgh,12,79,1049,6,13.28,"87.42
+"
+WR,William,Moore,6 - 1,173,(So),3.5,4.5,Boston College,8,34,480,2,14.12,"60.00
+"
+WR,Jesse,Scott,5 - 11,179,(Sr),4.0,4.0,Purdue,9,45,562,5,12.49,"62.44
+"
+WR,Messiah,Bernard,6 - 2,205,Jr,3.5,4.0,LSU,12,58,797,4,13.74,"66.42
+"
+TE,Nathan,Fournier,6 - 5,253,Jr,3.5,3.5,Georgia Tech,10,46,557,9,12.11,"55.70
+"
+WR,Geno,Parker,6 - 0,159,Sr,2.5,2.5,Oregon,1,3,39,1,13.00,"39.00
+"
+RB,Ian,Rivas - Bravo,6 - 0,192,(Fr),2.0,3.5,Texas Tech,1,1,22,1,22.00,"22.00
+"
+WR,Sean,Waller,6 - 2,167,(Fr),2.0,4.5,USC,7,23,305,3,13.26,"43.57
+"
+WR,Toby,Davis,5 - 9,174,Fr,1.0,2.0,Memphis,1,2,30,0,15.00,"30.00
+"
+WR,Herschel,Lindsey,6 - 3,185,(Sr),3.0,3.0,Ball State,10,28,350,0,12.50,"35.00
+"
+RB,William,Banks,5 - 9,178,(So),2.0,3.0,Bowling Green,1,2,29,0,14.50,"29.00
+"
+TE,Clifford,Guevara,6 - 4,234,(So),3.5,3.5,Northwestern,1,2,19,0,9.50,"19.00
+"
+RB,Ethan,Blake,6 - 0,193,(Sr),3.5,3.5,Texas A&M,1,3,27,1,9.00,"27.00
+"
+TE,Vance,Irons,6 - 6,234,(Sr),3.5,3.5,Auburn,1,2,30,0,15.00,"30.00
+"
+TE,Frank,Goff,6 - 4,231,(So),2.5,4.0,Tulsa,8,32,428,6,13.38,"53.50
+"
+TE,Frederic,Mayo,6 - 3,256,Sr,1.5,1.5,Utah,2,4,44,1,11.00,"22.00
+"
+RB,Grady,Mitchell,6 - 1,231,(Jr),4.5,4.5,Boise State,1,2,27,0,13.50,"27.00
+"
+RB,Sean,Egloff,6 - 0,207,(Jr),4.5,4.5,Oklahoma,2,5,79,1,15.80,"39.50
+"
+WR,Jaeden,Lemons,5 - 11,169,(Fr),2.0,2.5,Oregon State,7,16,222,0,13.88,"31.71
+"
+WR,Evan,Medley,6 - 1,197,So,2.5,4.5,North Carolina,4,10,133,1,13.30,"33.25
+"
+TE,Eric,Simpson,6 - 5,249,(Jr),2.0,2.5,Memphis,3,4,73,0,18.25,"24.33
+"
+TE,Ernie,Bryant,6 - 5,242,Sr,3.0,3.0,Cincinnati,8,28,366,3,13.07,"45.75
+"
+WR,Jerome,Smith,5 - 11,220,Sr,4.0,4.0,Air Force,11,23,281,1,12.22,"25.55
+"
+WR,Benjamin,Gore,6 - 1,200,So,3.0,3.0,Missouri,1,2,27,1,13.50,"27.00
+"
+WR,Eric,Watson,5 - 10,181,(So),4.0,5.0,Boise State,7,16,207,1,12.94,"29.57
+"
+WR,Mike,Jones,6 - 2,186,(So),3.0,3.0,Oregon,6,18,288,2,16.00,"48.00
+"
+WR,Peter,Marsh,6 - 4,215,(So),3.0,4.0,SMU,11,24,367,0,15.29,"33.36
+"
+WR,James,Pearson,6 - 1,196,(So),2.0,2.0,Miami OH,1,1,13,0,13.00,"13.00
+"
+WR,Luke,Cobb,6 - 5,198,Fr,3.0,5.0,Florida State,12,95,1001,11,10.54,"83.42
+"
+WR,Jasiah,Christian,5 - 10,166,Fr,2.0,3.5,Northern Illinois,4,10,151,3,15.10,"37.75
+"
+WR,Timothy,McClain,6 - 4,187,Sr,2.0,2.0,Utah State,12,50,620,3,12.40,"51.67
+"
+TE,Matt,Thomas,6 - 3,219,(Sr),4.5,4.5,Hawaii,10,59,860,15,14.58,"86.00
+"
+TE,Charles,Casey,6 - 4,248,Sr,2.5,2.5,Akron,8,28,378,2,13.50,"47.25
+"
+TE,Paul,Rector,6 - 3,243,Jr,2.5,3.5,Arkansas,7,33,423,7,12.82,"60.43
+"
+WR,Jerome,Banks,6 - 1,164,(Sr),3.5,3.5,Miami FL,3,7,131,2,18.71,"43.67
+"
+WR,Kevin,Garvin,6 - 4,224,So,4.0,5.0,Boise State,7,20,311,2,15.55,"44.43
+"
+WR,Tom,Forrest,6 - 3,215,Jr,3.0,3.0,Houston,5,16,286,4,17.88,"57.20
+"
+WR,Paul,Robinson,5 - 11,160,Jr,4.0,4.0,UCLA,10,23,288,1,12.52,"28.80
+"
+WR,Patrick,Stuvaints,6 - 0,216,(Jr),3.5,3.5,Colorado,4,12,152,1,12.67,"38.00
+"
+TE,Jeffrey,Long,6 - 8,249,Sr,3.5,3.5,Ohio,5,16,213,4,13.31,"42.60
+"
+TE,Martin,Flores,6 - 4,247,(So),4.0,4.0,Florida State,9,50,588,6,11.76,"65.33
+"
+WR,Tommy,Pottios,6 - 6,183,(Sr),5.0,5.0,Georgia Tech,11,57,835,6,14.65,"75.91
+"
+WR,Dillon,Wolff,6 - 0,162,So,2.0,3.0,Connecticut,4,12,159,3,13.25,"39.75
+"
+WR,Frisman,Edelman,6 - 2,169,(Sr),3.5,3.5,Arkansas,3,18,244,2,13.56,"81.33
+"
+WR,William,Doherty,6 - 6,228,(So),4.5,5.0,USC,12,67,942,4,14.06,"78.50
+"
+TE,Andre,Blade,6 - 1,230,(Sr),3.5,3.5,West Virginia,9,34,419,7,12.32,"46.56
+"
+WR,Roy,Davis,6 - 4,209,(So),3.5,4.5,Texas,3,10,156,2,15.60,"52.00
+"
+WR,Robert,Crockett,5 - 11,199,Sr,3.5,3.5,Fresno State,11,71,854,5,12.03,"77.64
+"
+TE,Robert,Ford,6 - 4,232,Sr,4.0,4.0,Minnesota,9,31,416,7,13.42,"46.22
+"
+RB,Moussa,Goode,6 - 1,198,So,3.5,5.0,Ohio State,1,2,25,1,12.50,"25.00
+"
+WR,Rentavious,Jackson,6 - 2,167,(Jr),3.0,3.0,Ohio State,4,15,210,3,14.00,"52.50
+"
+WR,Apelu,Faapo,5 - 10,188,So,2.5,3.5,Virginia,11,43,549,5,12.77,"49.91
+"
+WR,R.J.,Kim,5 - 8,178,(Jr),4.0,4.0,Temple,11,41,606,3,14.78,"55.09
+"
+CB,Demetrius,Still,6 - 0,162,(Jr),4.5,4.5,LSU,5,14,180,3,12.86,"36.00
+"
+WR,Anthony,England,5 - 9,182,So,2.0,2.5,Utah,1,3,42,0,14.00,"42.00
+"
+TE,Thomas,Johnson,6 - 2,218,(Jr),2.0,2.5,Utah State,2,5,67,2,13.40,"33.50
+"
+WR,Tyrone,Cunningham,6 - 0,222,(Jr),4.5,4.5,Arizona,12,75,1113,7,14.84,"92.75
+"
+TE,Raymond,Rivera,6 - 3,253,Jr,2.5,4.0,Rutgers,6,18,266,5,14.78,"44.33
+"
+WR,Thaddeus,Torrez,6 - 4,175,(Fr),2.5,3.5,Kent State,10,17,200,0,11.76,"20.00
+"
+WR,Jerry,Cunningham,5 - 11,193,(So),2.5,3.5,Wyoming,9,27,351,2,13.00,"39.00
+"
+WR,John,Metz,6 - 1,153,Jr,2.0,3.5,Wake Forest,7,18,436,3,24.22,"62.29
+"
+WR,Elliot,Preston,6 - 4,234,So,2.5,3.0,Purdue,2,9,111,1,12.33,"55.50
+"
+RB,Jeffrey,Keenan,5 - 10,203,(So),2.5,3.5,Colorado State,2,7,79,2,11.29,"39.50
+"
+WR,Justin,McCain,6 - 2,181,So,4.5,4.5,North Carolina,10,28,342,0,12.21,"34.20
+"
+FB,Frances,Whitney,5 - 10,205,(So),2.0,2.5,Miami OH,1,2,20,1,10.00,"20.00
+"
+TE,Chris,Kelley,6 - 3,239,Sr,2.5,2.5,Rice,1,2,24,0,12.00,"24.00
+"
+WR,Josue,Gamez,6 - 4,228,Fr,1.0,2.5,Oklahoma,1,2,20,1,10.00,"20.00
+"
+RB,Chase,Dillard,5 - 9,175,(So),3.5,4.0,Alabama,1,2,22,1,11.00,"22.00
+"
+WR,Larry,Johnson,6 - 0,178,Jr,2.5,3.5,Colorado,1,2,28,0,14.00,"28.00
+"
+TE,Raymundo,Davis,6 - 4,231,(Sr),3.5,3.5,Kentucky,8,33,476,8,14.42,"59.50
+"
+TE,Michael,Lucas,6 - 1,237,Jr,3.0,3.0,Florida State,1,3,38,1,12.67,"38.00
+"
+WR,Scott,Whitfield,6 - 4,184,(Sr),3.0,3.0,Army,5,16,226,0,14.12,"45.20
+"
+TE,Andrew,Yearney,6 - 5,247,(Jr),4.5,4.5,Maryland,4,9,111,1,12.33,"27.75
+"
+TE,Michael,Thorne,6 - 1,216,So,2.0,3.0,Duke,6,11,136,0,12.36,"22.67
+"
+TE,Ruben,Bowman,6 - 1,231,(Sr),4.0,4.0,Northwestern,8,30,433,7,14.43,"54.12
+"
+TE,Stanley,Sherk,6 - 7,232,(Sr),5.0,5.0,Virginia Tech,2,7,85,0,12.14,"42.50
+"
+WR,Mark,Riggs,6 - 2,191,(Sr),3.0,3.0,Marshall,11,48,702,3,14.62,"63.82
+"
+WR,Cyrus,Crabtree,6 - 4,206,So,2.0,3.5,UCF,6,14,192,2,13.71,"32.00
+"
+WR,Thomas,Jordan,6 - 4,184,Sr,2.5,2.5,Fresno State,4,21,256,3,12.19,"64.00
+"
+TE,Kai,Freeman,6 - 2,190,Fr,1.0,3.0,Ball State,1,1,5,1,5.00,"5.00
+"
+WR,Jaheim,Lemons,5 - 11,204,So,3.5,5.0,Michigan State,11,56,747,3,13.34,"67.91
+"
+WR,Ezekiel,Manley,5 - 11,197,Sr,1.5,1.5,North Carolina State,3,5,69,0,13.80,"23.00
+"
+WR,Jaylen,Crump,6 - 1,161,Fr,1.0,3.5,Vanderbilt,1,1,23,1,23.00,"23.00
+"
+WR,Sean,McIlroy,6 - 1,175,Sr,2.0,2.0,Rice,3,8,102,3,12.75,"34.00
+"
+WR,Anton,Chung,6 - 4,210,(So),2.5,3.0,Illinois,10,19,225,0,11.84,"22.50
+"
+WR,T.J.,Ropati,6 - 1,159,Jr,3.5,4.0,Louisville,11,42,515,5,12.26,"46.82
+"
+CB,Kameron,Best,6 - 1,192,(Fr),2.5,4.0,Oklahoma,2,4,49,2,12.25,"24.50
+"
+TE,Patrick,Witherspoon,6 - 1,216,(So),2.0,2.5,Miami OH,8,37,478,7,12.92,"59.75
+"
+WR,Mark,Baker,6 - 1,165,Sr,2.5,2.5,Alabama,1,2,41,1,20.50,"41.00
+"
+WR,William,Delarosa,6 - 2,152,Jr,3.0,3.0,South Carolina,3,16,164,1,10.25,"54.67
+"
+RB,Orlando,McKay,5 - 10,172,(So),2.0,3.5,San Jose State,1,1,9,1,9.00,"9.00
+"
+WR,Arturo,Beckham,6 - 1,176,(So),4.5,4.5,Arizona State,12,51,823,4,16.14,"68.58
+"
+RB,Charlie,Pennington,6 - 1,185,Jr,3.5,3.5,New Mexico,2,5,62,1,12.40,"31.00
+"
+WR,Tyrone,Whitfield,6 - 3,197,Sr,4.0,4.0,Texas Tech,10,41,665,1,16.22,"66.50
+"
+RB,Josh,Gray,5 - 8,186,(Jr),3.5,4.0,Duke,1,2,48,1,24.00,"48.00
+"
+WR,Fred,Ramsey,6 - 3,204,Jr,2.0,2.0,Western Michigan,6,9,92,1,10.22,"15.33
+"
+WR,Dante,Freeman,6 - 5,224,(So),2.5,3.5,Syracuse,6,19,220,3,11.58,"36.67
+"
+TE,Dave,Slade,6 - 4,213,(Sr),4.0,4.0,North Carolina,1,1,32,0,32.00,"32.00
+"
+WR,Charles,Ortiz,6 - 3,201,Jr,2.5,3.0,Georgia,1,1,38,1,38.00,"38.00
+"
+TE,Johnny,Duerson,6 - 5,238,(Sr),4.5,4.5,Syracuse,6,13,181,2,13.92,"30.17
+"
+WR,Calvin,Zimmerman,6 - 1,181,Jr,3.5,4.0,Colorado,12,46,636,0,13.83,"53.00
+"
+TE,D.J.,Gibson,6 - 5,232,(Sr),5.0,5.0,North Carolina,8,27,417,5,15.44,"52.12
+"
+WR,Malcolm,Davis,6 - 6,216,Fr,2.5,5.0,Kansas,11,57,771,4,13.53,"70.09
+"
+TE,Bradley,Cantu,6 - 5,256,(So),3.0,3.5,Kansas,6,23,290,6,12.61,"48.33
+"
+TE,Tony,Lorri,6 - 2,228,Sr,3.0,3.0,Ole Miss,10,27,357,3,13.22,"35.70
+"
+WR,Spencer,Saul,6 - 3,197,(Sr),4.0,4.0,Texas,11,63,911,8,14.46,"82.82
+"
+TE,Jonathan,Greer,6 - 2,217,(Fr),2.0,5.0,Virginia,7,32,350,5,10.94,"50.00
+"
+WR,Mario,Reaves,5 - 10,191,Fr,1.0,2.5,Western Michigan,1,1,7,0,7.00,"7.00
+"
+WR,Abdoul,Causey,5 - 10,193,(Fr),2.0,4.5,Texas,1,2,61,1,30.50,"61.00
+"
+RB,William,Carlson,5 - 11,192,(So),3.0,4.0,Purdue,1,6,65,1,10.83,"65.00
+"
+TE,Tiki,Maslowski,6 - 3,229,(Sr),4.5,4.5,California,7,38,459,6,12.08,"65.57
+"
+WR,Rocky,Kruse,6 - 2,169,(So),3.5,4.5,Hawaii,4,14,205,2,14.64,"51.25
+"
+RB,Ezekiel,Adams,6 - 4,185,Sr,3.5,3.5,Illinois,3,6,79,0,13.17,"26.33
+"
+WR,Charles,Parker,75,220,(So),3.0,3.5,Stanford,5,12,166,0,13.83,"33.20
+"
+TE,William,Graves,6 - 4,238,(So),3.5,3.5,BYU,7,27,347,3,12.85,"49.57
+"
+RB,Paul,Cleveland,5 - 10,187,(Jr),3.5,3.5,North Texas,4,13,170,1,13.08,"42.50
+"
+RB,Troy,McCray,6 - 0,205,Sr,5.0,5.0,Wake Forest,3,5,72,0,14.40,"24.00
+"
+WR,Andre,Price,6 - 3,180,(So),2.0,3.0,Marshall,2,8,97,1,12.12,"48.50
+"
+WR,Gerald,Morrison,6 - 6,210,(So),2.5,4.5,Boston College,5,19,283,5,14.89,"56.60
+"
+TE,Jacory,Alexander,6 - 2,224,Sr,3.5,3.5,Washington State,11,38,468,5,12.32,"42.55
+"
+WR,Marcus,Williams,6 - 2,231,(So),2.5,3.5,Syracuse,2,3,51,1,17.00,"25.50
+"
+TE,Oliver,Peal,6 - 1,245,(Jr),3.5,3.5,Iowa,7,21,260,2,12.38,"37.14
+"
+TE,Erasmus,High,6 - 0,217,(Jr),5.0,5.0,Alabama,9,17,197,0,11.59,"21.89
+"
+TE,Darius,Mitchell,6 - 1,216,(Jr),4.5,4.5,Nebraska,2,5,59,2,11.80,"29.50
+"
+WR,John,Mitchell,6 - 2,229,Jr,3.5,3.5,Houston,6,31,457,2,14.74,"76.17
+"
+TE,Vontae,Michaels,6 - 2,220,(Jr),3.0,3.0,Oregon,6,19,264,3,13.89,"44.00
+"
+WR,John,Collins,5 - 11,168,Jr,2.5,2.5,Texas A&M,1,4,57,0,14.25,"57.00
+"
+TE,Matt,Stone,6 - 4,236,(Jr),5.0,5.0,UCLA,11,47,563,5,11.98,"51.18
+"
+TE,Randall,Fletcher,6 - 5,255,Sr,2.0,2.0,Wake Forest,2,6,76,0,12.67,"38.00
+"
+WR,George,Randolph,6 - 3,190,Sr,2.5,2.5,San Jose State,1,4,43,0,10.75,"43.00
+"
+RB,Will,Hammond,5 - 8,201,Jr,3.5,4.5,Tulsa,2,6,90,2,15.00,"45.00
+"
+WR,Darryl,McGlockton,6 - 1,199,(Jr),4.0,4.0,USC,5,20,278,1,13.90,"55.60
+"
+WR,Curtis,Reed,5 - 11,190,Sr,2.0,2.0,Cincinnati,4,10,157,0,15.70,"39.25
+"
+WR,Jason,Stemrick,6 - 2,213,(Jr),3.5,3.5,Boise State,3,6,103,1,17.17,"34.33
+"
+WR,Everett,Tipton,6 - 0,203,Jr,3.0,3.0,TCU,4,9,83,1,9.22,"20.75
+"
+RB,Asante,Sowell,6 - 3,194,(Jr),5.0,5.0,Wisconsin,2,6,66,1,11.00,"33.00
+"
+WR,Jason,Coronado,5 - 11,182,Sr,3.0,3.0,Georgia State,5,14,175,2,12.50,"35.00
+"
+WR,Robert,Gleason,6 - 2,198,Jr,3.0,3.0,Wake Forest,7,21,321,1,15.29,"45.86
+"
+WR,George,Boyd,6 - 1,190,(Fr),1.5,3.0,Buffalo,8,15,186,0,12.40,"23.25
+"
+WR,Martin,McDonald,6 - 1,179,So,1.5,2.5,Bowling Green,8,21,272,1,12.95,"34.00
+"
+WR,Vontae,Powell,5 - 11,199,(Jr),4.0,4.5,Navy,12,43,633,3,14.72,"52.75
+"
+RB,Randy,Martin,5 - 8,200,(So),3.0,4.0,Michigan State,2,7,82,2,11.71,"41.00
+"
+RB,Keyshawn,Polsfoot,6 - 1,206,(Jr),4.0,4.0,Army,2,6,77,2,12.83,"38.50
+"
+WR,John,Lewis,6 - 3,203,Jr,3.0,3.0,Georgia,8,25,376,1,15.04,"47.00
+"
+WR,Derrick,Schwartz,6 - 0,155,(Sr),4.5,4.5,Kentucky,11,59,837,8,14.19,"76.09
+"
+WR,Ahmed,Head,6 - 2,227,So,3.5,3.5,BYU,6,14,210,1,15.00,"35.00
+"
+WR,Ralph,O'Rourke,6 - 0,197,(Fr),3.0,4.0,Vanderbilt,11,30,364,3,12.13,"33.09
+"
+WR,Jamir,Blackburn,6 - 4,196,Fr,2.0,5.0,Minnesota,12,44,576,2,13.09,"48.00
+"
+WR,Max,Olson,5 - 10,192,Fr,1.0,3.5,Utah State,4,12,168,1,14.00,"42.00
+"
+WR,John,Shepherd,6 - 3,220,Jr,2.5,3.5,Indiana,4,7,81,0,11.57,"20.25
+"
+TE,Charles,Paul,6 - 1,238,So,2.0,3.5,Duke,1,1,8,0,8.00,"8.00
+"
+WR,David,Harper,6 - 3,179,Sr,2.5,2.5,Ball State,2,2,28,0,14.00,"14.00
+"
+RB,Tran,Hope,5 - 11,196,(Jr),3.5,3.5,Maryland,1,2,27,0,13.50,"27.00
+"
+RB,Charles,Rocha,5 - 10,185,Jr,3.5,4.0,Nevada,1,2,28,0,14.00,"28.00
+"
+WR,Isaiah,Cronin,6 - 1,174,(So),3.5,5.0,Ohio State,12,63,813,5,12.90,"67.75
+"
+WR,Fred,Roberts,6 - 2,218,Jr,3.0,3.0,Wake Forest,4,13,177,2,13.62,"44.25
+"
+WR,Ibrahima,Crump,6 - 1,187,Fr,2.0,4.0,Tulane,10,31,423,4,13.65,"42.30
+"
+WR,Anderson,Montoya,6 - 1,178,So,3.0,3.5,Vanderbilt,7,16,207,1,12.94,"29.57
+"
+RB,Bobby,Huffman,5 - 11,224,Sr,3.5,3.5,Northern Illinois,1,3,28,1,9.33,"28.00
+"

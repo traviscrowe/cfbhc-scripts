@@ -1,526 +1,622 @@
  Position , Forename , Surname , Height , Weight , Year , Potential , Team , Games , Tackles , INTs , Sacks , FF , FR , Blocks , TDs ," Safeties
-"
-CB,Donald,Edwards,6 - 1,197,2,79,TEN,4,14,3,0,0,0,0,0,"0
-"
-CB,Travis,Chatman,5 - 10,172,3,86,DAL,4,19,1,0,0,0,0,0,"0
-"
-OLB,Kenny,Salata,5 - 11,236,2,79,PHI,4,24,0,0,0,0,0,0,"0
-"
-SS,Clarence,Peete,6 - 0,168,R,78,TEN,1,6,0,0,0,0,0,0,"0
-"
-CB,Paul,Olson,5 - 11,174,R,73,ARI,3,13,1,0,0,0,0,0,"0
-"
-OLB,Donnie,Bavaro,6 - 2,239,2,82,OAK,4,25,0,1,1,0,0,0,"0
-"
-DE,Alvis,Brumm,6 - 6,268,3,97,NYJ,5,13,0,5,0,0,0,0,"0
-"
-DE,Kaulana,Groth,6 - 7,304,2,86,HOU,4,15,0,5,0,0,0,0,"0
-"
-OLB,Charlie,Johnson,6 - 2,230,R,78,PIT,6,38,1,1,0,0,0,0,"0
-"
-ILB,Jim,Bendross,6 - 1,244,3,88,STL,5,33,0,0,0,1,0,0,"0
-"
-OLB,Todd,Byers,6 - 2,251,1,74,DEN,3,20,0,0,0,0,0,0,"0
-"
-ILB,Art,Mills,6 - 1,230,1,83,CHI,7,51,0,0,0,0,0,0,"0
-"
-DE,David,Drake,6 - 2,271,R,75,MIA,2,7,0,0.5,1,0,0,0,"0
-"
-FS,John,Gregory,5 - 10,167,R,65,PIT,1,2,1,0,0,0,0,1,"0
-"
-OLB,Jack,Durrence,5 - 11,238,R,74,MIA,1,6,0,0.5,0,0,0,0,"0
-"
-DE,Preston,Bryant,6 - 8,280,R,79,JAX,2,6,0,0.5,0,0,0,0,"0
-"
-DT,Nathan,Knowlton,6 - 6,277,R,79,HOU,1,3,0,1,0,0,0,0,"0
-"
-SS,Jonathan,Parker,6 - 2,183,3,82,DEN,2,6,2,0,0,0,0,0,"0
-"
-DE,Blair,Kopay,6 - 3,275,3,90,ATL,4,16,0,2,0,0,0,0,"0
-"
-DT,Terry,Dewalt,6 - 2,312,3,76,CHI,3,12,0,1,0,0,0,0,"0
-"
-SS,Raymond,Ponce,6 - 1,196,2,77,KC,4,27,1,0,0,0,0,0,"0
-"
-DE,Grover,Walker,6 - 4,259,1,75,IND,1,3,0,1,0,0,0,0,"0
-"
-DE,Keyshawn,Vance,6 - 2,240,R,77,NYG,1,2,0,0.5,0,0,0,0,"0
-"
-DT,Jeremy,Miller,6 - 1,304,1,87,NO,6,30,0,2.5,0,2,0,0,"0
-"
-CB,Butch,McCullough,6 - 0,187,R,73,CHI,2,10,0,0,0,0,0,0,"0
-"
-DE,Demarius,Strong,6 - 4,254,R,78,NO,2,10,0,1,0,0,0,0,"0
-"
-ILB,Malcolm,Douglas - Scott,6 - 0,239,1,88,SEA,6,44,1,0,0,0,0,0,"0
-"
-CB,David,Simpson,6 - 2,191,2,73,SF,1,1,1,0,0,0,0,0,"0
-"
-ILB,Steve,Pointer,6 - 0,229,1,77,BUF,4,25,1,0,0,0,0,0,"0
-"
-OLB,Jeff,Mangum,6 - 2,256,3,88,DAL,5,30,0,0,1,0,0,0,"0
-"
-OLB,Derrick,Martin,6 - 0,241,2,91,TB,6,38,0,3,1,1,0,0,"0
-"
-FS,Sean,Burton,6 - 0,202,2,91,IND,3,18,2,0,0,0,0,1,"0
-"
-FS,Juan,Hutchinson,5 - 9,170,2,78,CHI,1,6,0,0,0,0,0,0,"0
-"
-SS,Joe,Johnson,6 - 0,206,R,80,PHI,2,10,1,0,0,0,0,0,"0
-"
-DT,Quentin,Smith,6 - 8,294,3,92,IND,4,21,0,3,0,0,0,0,"0
-"
-OLB,Jeff,Williams,6 - 2,237,2,88,JAX,2,14,1,1,0,0,0,0,"0
-"
-DE,Ray,McBride,6 - 6,275,1,84,NYJ,1,1,0,1,0,0,0,0,"0
-"
-OLB,Tyrone,Jones,5 - 11,233,2,98,BAL,6,48,1,3.5,0,0,0,0,"0
-"
-CB,Jesse,Solano,5 - 11,176,R,67,CLE,1,1,1,0,0,0,0,1,"0
-"
-CB,John,Queen,5 - 11,196,3,87,NYJ,1,4,1,0,0,0,0,0,"0
-"
-CB,Jim,Milloy,6 - 1,173,2,82,PHI,4,13,4,0,0,0,0,0,"0
-"
-DE,Darris,Hayes,6 - 6,289,R,80,TB,2,6,0,4,0,0,0,0,"0
-"
-SS,Calvin,Celestin,6 - 1,202,R,79,CIN,1,3,1,0,0,0,0,0,"0
-"
-DT,Bill,Kelly,6 - 1,282,2,79,CIN,2,10,0,0.5,0,0,0,0,"0
-"
-OLB,Arlie,LeClair,6 - 2,245,3,89,MIN,5,27,0,1,2,1,0,0,"0
-"
-CB,Mike,Gradishar,5 - 10,166,R,83,OAK,4,22,0,0,0,1,0,1,"0
-"
-SS,Adam,Newman,6 - 0,175,R,80,BAL,4,15,3,1,0,0,0,0,"0
-"
-FS,Warren,Johnson,5 - 10,177,3,74,ATL,1,3,1,0,0,0,0,0,"0
-"
-OLB,Michael,Clark,6 - 2,225,1,75,NYG,1,7,0,0,0,0,0,0,"0
-"
-DT,Carter,Jackson,6 - 6,273,R,74,KC,3,15,0,1,0,0,0,0,"0
-"
-SS,Tavian,Oliphant,6 - 2,202,1,87,SD,3,16,2,0,0,0,0,0,"0
-"
-CB,Matt,Cowan,6 - 2,172,1,88,SEA,6,25,3,0,0,0,0,0,"0
-"
-ILB,Nick,Upshaw,6 - 2,241,3,91,CIN,5,32,0,0,0,0,0,0,"0
-"
-OLB,Keyuo,Clark,6 - 1,242,2,81,IND,2,9,0,0.5,0,0,0,0,"0
-"
-CB,Rufus,Freeman,5 - 10,186,1,72,NYJ,1,0,1,0,0,0,0,1,"0
-"
-CB,Adam,Harris,6 - 1,183,1,74,NO,2,6,2,0,0,0,0,0,"0
-"
-DT,Jeremy,Owen,6 - 8,290,R,75,NE,2,7,0,0.5,0,0,0,0,"0
-"
-ILB,Richard,Wilson,6 - 2,231,2,84,JAX,6,42,2,0,0,0,0,0,"0
-"
-CB,Lamar,Miller,5 - 11,182,3,60,JAX,1,1,1,0,0,0,0,0,"0
-"
-SS,Taz,Tomlinson,5 - 10,183,1,76,NYJ,1,3,1,0,0,0,0,0,"0
-"
-DE,Richard,Hicks,6 - 5,297,R,79,ARI,1,5,0,0,0,0,0,0,"0
-"
-DT,Jared,Lee,6 - 5,313,2,82,MIN,2,9,0,0.5,0,0,0,0,"0
-"
-DE,Ron,Rice,6 - 6,275,1,89,CAR,3,12,0,2.5,0,0,0,0,"0
-"
-OLB,David,Doherty,6 - 1,228,R,82,TEN,5,38,0,0.5,1,1,0,0,"0
-"
-ILB,Johnny,Grossman,6 - 4,243,2,78,ARI,7,46,1,0,1,0,0,0,"0
-"
-CB,Dale,Denney,6 - 1,193,1,68,BUF,1,2,1,0,0,0,0,0,"0
-"
-DT,Shawn,Bowers,6 - 1,305,2,85,DAL,1,7,0,0,0,0,0,0,"0
-"
+"
+DT,Nathan,Knowlton,6 - 6,277,R,79,HOU,2,7,0,2,0,0,0,0,"0
+"
+FS,Mike,Henderson,5 - 10,193,1,76,TEN,5,20,2,0,0,1,0,1,"0
+"
+SS,Jonathan,Parker,6 - 2,183,3,82,DEN,3,10,3,0,0,0,0,1,"0
+"
+DT,Jeremy,Miller,6 - 1,304,1,87,NO,11,58,0,4,0,2,0,0,"0
+"
+DE,Demarius,Strong,6 - 4,254,R,78,NO,6,24,0,3.5,0,0,0,0,"0
+"
+ILB,Kay,Anderson,6 - 1,231,2,84,ATL,8,55,0,0,0,0,0,0,"0
+"
+DE,Blair,Kopay,6 - 3,275,3,90,ATL,6,22,0,4,0,0,0,0,"0
+"
+ILB,Art,Mills,6 - 1,230,1,83,CHI,13,88,0,0,0,0,0,0,"0
+"
+DT,Terry,Dewalt,6 - 2,312,3,76,CHI,7,34,0,1,0,0,0,0,"0
+"
+CB,Matt,Cowan,6 - 2,172,1,88,SEA,12,49,7,0,0,0,0,1,"0
+"
 CB,Sedrick,Madison,6 - 2,183,3,76,SD,1,2,1,0,0,0,0,0,"0
-"
-DE,Gary,Redmon,6 - 1,289,2,77,PHI,4,19,0,2,0,0,0,0,"1
-"
-CB,Keyshawn,Thompson,6 - 2,181,2,95,DET,4,14,3,0,0,0,0,0,"0
-"
+"
+DE,Keyshawn,Vance,6 - 2,240,R,77,NYG,1,2,0,0.5,0,0,0,0,"0
+"
+SS,Raymond,Ponce,6 - 1,196,2,77,KC,7,45,1,0,0,0,0,0,"0
+"
+CB,Butch,McCullough,6 - 0,187,R,73,CHI,4,21,0,0,0,0,0,0,"0
+"
+FS,LeRoy,Holmes,5 - 11,185,3,70,ARI,4,13,2,0,0,0,0,0,"0
+"
+DE,Alvis,Brumm,6 - 6,268,3,97,NYJ,9,25,0,11.5,0,1,0,0,"0
+"
+OLB,Billy,Westbrook,6 - 0,228,2,82,KC,6,32,1,1.5,0,0,0,0,"0
+"
+DE,Kaulana,Groth,6 - 7,304,2,86,HOU,6,26,0,6,0,0,0,0,"0
+"
+CB,Lynn,Perry,6 - 3,187,R,76,BAL,2,6,1,0,1,1,0,0,"0
+"
+ILB,Jim,Bendross,6 - 1,244,3,88,STL,10,68,0,0,0,1,0,0,"0
+"
+OLB,Jeromy,Potter,6 - 2,232,2,69,MIA,1,8,0,1,0,0,0,0,"0
+"
+CB,David,Simpson,6 - 2,191,2,73,SF,1,1,1,0,0,0,0,0,"0
+"
+DE,Grover,Walker,6 - 4,259,1,75,IND,1,3,0,1,0,0,0,0,"0
+"
+SS,Mike,Robinson,6 - 0,196,3,73,SF,6,23,4,0,0,0,0,1,"0
+"
+ILB,Malcolm,Douglas - Scott,6 - 0,239,1,88,SEA,9,67,1,0,0,0,0,0,"0
+"
+SS,Tavian,Oliphant,6 - 2,202,1,87,SD,5,28,2,1,0,0,0,0,"0
+"
+CB,Donald,Edwards,6 - 1,197,2,79,TEN,6,21,4,0,0,0,0,0,"0
+"
+DE,Preston,Bryant,6 - 8,280,R,79,JAX,4,14,0,1,0,0,0,0,"0
+"
+OLB,Donnie,Bavaro,6 - 2,239,2,82,OAK,8,47,0,3.5,1,0,0,0,"0
+"
+ILB,Kevin,Harris,6 - 0,249,3,93,MIA,6,45,0,0,0,1,0,0,"0
+"
+DT,Joseph,Blair,6 - 2,294,R,74,HOU,2,9,0,1,0,0,0,0,"0
+"
+OLB,Charlie,Johnson,6 - 2,230,R,78,PIT,7,42,1,1,0,0,0,0,"0
+"
+OLB,Todd,Byers,6 - 2,251,1,74,DEN,5,31,1,0.5,0,0,0,0,"0
+"
+CB,Tim,Kassell,5 - 11,191,1,79,PHI,1,4,1,0,0,0,0,0,"0
+"
+OLB,Kenny,Salata,5 - 11,236,2,79,PHI,9,52,0,0,0,0,0,0,"0
+"
+CB,Paul,Olson,5 - 11,174,R,73,ARI,4,15,2,0,0,0,0,0,"0
+"
+DT,William,Robertson,6 - 3,291,1,79,SD,2,5,0,1.5,0,0,0,0,"0
+"
+CB,Travis,Chatman,5 - 10,172,3,86,DAL,6,31,2,0,0,0,0,0,"0
+"
+OLB,Jay,McDonald,6 - 0,214,R,68,BUF,2,11,0,0,0,0,0,0,"0
+"
+FS,John,Gregory,5 - 10,167,R,65,PIT,1,2,1,0,0,0,0,1,"0
+"
+OLB,Jack,Durrence,5 - 11,238,R,74,MIA,1,6,0,0.5,0,0,0,0,"0
+"
+SS,Joe,Johnson,6 - 0,206,R,80,PHI,5,26,2,0,0,0,0,0,"0
+"
+ILB,Paul,Ingram,6 - 1,245,R,68,ARI,1,6,0,0,0,0,0,0,"0
+"
+DT,Jeffrey,Bryant,6 - 7,303,2,83,STL,4,17,0,2,0,0,0,0,"0
+"
+DE,David,Drake,6 - 2,271,R,75,MIA,4,14,0,3,1,0,0,0,"0
+"
+DT,Carter,Jackson,6 - 6,273,R,74,KC,7,29,0,4,0,0,0,0,"0
+"
+OLB,Jeff,Mangum,6 - 2,256,3,88,DAL,12,80,0,5.5,1,0,0,0,"0
+"
+SS,Clarence,Peete,6 - 0,168,R,78,TEN,2,10,0,0,0,0,0,0,"0
+"
+FS,Juan,Hutchinson,5 - 9,170,2,78,CHI,2,12,0,0,0,0,0,0,"0
+"
+CB,Jesse,Solano,5 - 11,176,R,67,CLE,1,1,1,0,0,0,0,1,"0
+"
+OLB,Herb,Peko,6 - 0,226,R,74,STL,1,2,0,0.5,0,0,0,0,"0
+"
+ILB,Bryant,Palmer,6 - 1,225,1,77,SF,1,5,0,0,0,0,0,0,"0
+"
+SS,Kliff,Papac,6 - 0,161,1,76,BUF,1,2,1,0,0,0,0,0,"0
+"
+CB,John,Queen,5 - 11,196,3,87,NYJ,2,7,2,0,0,0,0,0,"0
+"
+DE,Ray,McBride,6 - 6,275,1,84,NYJ,3,3,0,4,0,0,0,0,"0
+"
+CB,Jim,Milloy,6 - 1,173,2,82,PHI,4,13,4,0,0,0,0,0,"0
+"
+ILB,Steve,Pointer,6 - 0,229,1,77,BUF,6,39,1,0,0,0,0,0,"0
+"
+SS,Adam,Newman,6 - 0,175,R,80,BAL,7,26,3,2,0,1,0,1,"0
+"
+DT,Quentin,Smith,6 - 8,294,3,92,IND,8,39,0,7,0,0,0,0,"0
+"
+DT,Bill,Kelly,6 - 1,282,2,79,CIN,6,26,0,3.5,0,0,0,0,"0
+"
+OLB,Derrick,Martin,6 - 0,241,2,91,TB,9,58,2,3,1,1,0,0,"0
+"
+OLB,Tyrone,Jones,5 - 11,233,2,98,BAL,13,102,2,7.5,0,0,0,0,"0
+"
+SS,Walter,Dorow,5 - 11,200,R,78,NYG,2,8,1,0,0,0,0,0,"0
+"
+DE,Rudi,Sinceno,6 - 7,283,2,78,TB,3,9,0,1.5,0,1,0,1,"0
+"
+OLB,Arlie,LeClair,6 - 2,245,3,89,MIN,7,42,1,1,2,1,0,0,"0
+"
+OLB,Michael,Clark,6 - 2,225,1,75,NYG,1,7,0,0,0,0,0,0,"0
+"
+SS,Calvin,Celestin,6 - 1,202,R,79,CIN,2,8,1,0,0,0,0,0,"0
+"
+FS,Warren,Johnson,5 - 10,177,3,74,ATL,3,13,1,0,0,0,0,0,"0
+"
+DE,Darris,Hayes,6 - 6,289,R,80,TB,2,6,0,4,0,0,0,0,"0
+"
+DE,Billy,Stevenson,6 - 7,259,1,78,PIT,2,3,1,1,0,0,0,0,"0
+"
+FS,Sean,Burton,6 - 0,202,2,91,IND,8,48,3,0,0,0,0,1,"0
+"
+OLB,Jeff,Williams,6 - 2,237,2,88,JAX,6,43,1,3,0,0,0,0,"0
+"
+FS,Mo,Wilkins,6 - 2,179,2,71,JAX,1,3,1,0,0,0,0,0,"0
+"
+CB,Mike,Gradishar,5 - 10,166,R,83,OAK,10,50,4,0,0,1,0,1,"0
+"
+CB,Lamar,Miller,5 - 11,182,3,60,JAX,1,1,1,0,0,0,0,0,"0
+"
+ILB,Richard,Wilson,6 - 2,231,2,84,JAX,12,79,3,0.5,0,0,0,0,"0
+"
+ILB,Johnny,Grossman,6 - 4,243,2,78,ARI,10,63,2,0,1,0,0,0,"0
+"
+CB,Keyshawn,Thompson,6 - 2,181,2,95,DET,11,48,7,0,0,1,0,1,"0
+"
+FS,Terry,Cole,6 - 2,202,3,76,MIN,1,5,0,0,0,0,0,0,"0
+"
+CB,Dale,Denney,6 - 1,193,1,68,BUF,1,2,1,0,0,0,0,0,"0
+"
+ILB,Rich,Barker,6 - 0,234,2,78,NYJ,1,7,0,0,0,0,0,0,"0
+"
+ILB,Nick,Upshaw,6 - 2,241,3,91,CIN,11,71,0,0,0,0,0,0,"0
+"
+DE,Ron,Rice,6 - 6,275,1,89,CAR,8,31,0,5.5,0,0,0,0,"1
+"
 OLB,Alexander,Baumgartner,6 - 0,224,R,74,OAK,1,7,0,0,0,0,0,0,"0
-"
-CB,Joe,Taylor,5 - 10,190,2,64,KC,1,6,0,0,0,0,0,0,"0
-"
-OLB,Ray,Flores,6 - 1,234,3,84,NO,4,22,0,0.5,1,0,0,0,"0
-"
-CB,Jamie,Mixon,6 - 1,187,1,78,NE,2,10,1,0,0,0,0,0,"0
-"
-DE,Brian,Glenn,6 - 6,291,2,81,SEA,3,10,0,3,0,0,0,0,"0
-"
-ILB,Hunter,Taylor,6 - 2,231,R,72,BUF,4,27,0,0,0,0,0,0,"0
-"
-SS,Mark,Brown,6 - 2,180,2,81,CLE,4,17,2,0,1,0,0,0,"0
-"
-FS,Mike,Henderson,5 - 10,193,1,76,TEN,2,6,1,0,0,1,0,1,"0
-"
-OLB,Billy,Westbrook,6 - 0,228,2,82,KC,4,21,1,1.5,0,0,0,0,"0
-"
-CB,Laurent,Christensen,5 - 10,192,R,78,MIA,4,11,3,0.5,0,0,0,0,"0
-"
-CB,Marques,Warner,6 - 1,193,1,82,NYJ,2,8,1,0,0,0,0,0,"0
-"
-CB,Lynn,Perry,6 - 3,187,R,76,BAL,1,3,0,0,1,1,0,0,"0
-"
-SS,Darren,Manning,6 - 4,189,1,85,MIN,2,11,1,0,0,0,0,1,"0
-"
+"
+FS,Gray,Corbin,5 - 11,159,1,84,STL,1,5,0,0,0,0,0,0,"0
+"
+DT,Jared,Lee,6 - 5,313,2,82,MIN,4,20,0,0.5,0,0,0,0,"0
+"
+DE,Gary,Redmon,6 - 1,289,2,77,PHI,5,21,0,3,0,0,0,0,"1
+"
+SS,Taz,Tomlinson,5 - 10,183,1,76,NYJ,1,3,1,0,0,0,0,0,"0
+"
+DE,Richard,Hicks,6 - 5,297,R,79,ARI,1,5,0,0,0,0,0,0,"0
+"
+CB,Rufus,Freeman,5 - 10,186,1,72,NYJ,1,0,1,0,0,0,0,1,"0
+"
+CB,Tony,Preston,5 - 10,166,1,74,NE,1,3,1,0,0,0,0,1,"0
+"
+CB,Adam,Harris,6 - 1,183,1,74,NO,2,6,2,0,0,0,0,0,"0
+"
+CB,Laurent,Christensen,5 - 10,192,R,78,MIA,7,19,6,0.5,0,0,0,0,"0
+"
+CB,Joe,Taylor,5 - 10,190,2,64,KC,4,12,2,0,0,0,0,0,"0
+"
+DT,Jeremy,Owen,6 - 8,290,R,75,NE,5,20,0,1,1,0,0,0,"0
+"
+ILB,Hunter,Taylor,6 - 2,231,R,72,BUF,10,67,1,0,0,0,0,0,"0
+"
+OLB,David,Doherty,6 - 1,228,R,82,TEN,11,81,0,1,1,1,0,0,"0
+"
+DT,Shawn,Bowers,6 - 1,305,2,85,DAL,3,18,0,1.5,0,0,0,0,"0
+"
+OLB,Ray,Flores,6 - 1,234,3,84,NO,9,46,0,2,1,0,0,0,"0
+"
+SS,Darren,Manning,6 - 4,189,1,85,MIN,3,17,2,0,0,0,0,1,"0
+"
+CB,Marques,Warner,6 - 1,193,1,82,NYJ,4,19,1,0,0,0,0,0,"0
+"
+CB,Jamie,Mixon,6 - 1,187,1,78,NE,5,21,3,0,0,0,0,0,"0
+"
 CB,Maury,Gregg,6 - 0,168,R,80,CAR,2,3,2,0,0,0,0,2,"0
-"
-ILB,Kay,Anderson,6 - 1,231,2,84,ATL,3,19,0,0,0,0,0,0,"0
-"
-ILB,Kevin,Harris,6 - 0,249,3,93,MIA,4,30,0,0,0,1,0,0,"0
-"
-FS,LeRoy,Holmes,5 - 11,185,3,70,ARI,1,4,0,0,0,0,0,0,"0
-"
-SS,Mike,Robinson,6 - 0,196,3,73,SF,2,9,1,0,0,0,0,0,"0
-"
-FS,Christopher,Payne,6 - 1,205,R,71,SF,2,10,0,0,0,0,0,0,"0
-"
+"
+OLB,Keyuo,Clark,6 - 1,242,2,81,IND,3,15,0,1.5,0,0,0,0,"0
+"
+DE,Brian,Glenn,6 - 6,291,2,81,SEA,4,15,0,4,0,0,0,0,"0
+"
+SS,Warren,McNabb,6 - 2,198,1,75,CAR,1,2,1,0,0,0,0,0,"0
+"
+OLB,Ben,Lane,6 - 1,236,2,70,PHI,1,3,0,0,1,0,0,0,"0
+"
+ILB,Phillip,Moore,5 - 11,216,R,81,MIA,4,31,1,0,0,0,0,0,"0
+"
+DE,Alex,Fulcher,6 - 2,268,1,74,MIA,1,3,0,0.5,0,0,0,0,"0
+"
+CB,Jason,Brown,6 - 1,186,R,73,SF,3,6,3,0,0,0,0,0,"0
+"
 CB,Drew,Jaynes,6 - 1,168,2,63,KC,1,6,0,0,0,0,0,0,"0
-"
-OLB,W.M.,Mitchell,5 - 10,217,1,80,GB,1,5,0,0,0,0,0,0,"0
-"
-DE,Steven,Jordan,6 - 7,279,2,80,SEA,1,3,0,2,0,0,0,0,"0
-"
-OLB,Craig,Davis,6 - 1,221,1,78,SEA,3,18,0,0.5,0,0,0,0,"0
-"
-FS,Randy,Moulds,6 - 2,198,3,81,GB,2,7,1,0,0,1,0,1,"0
-"
-OLB,Hugh,Boerigter,6 - 2,251,1,79,JAX,2,9,0,0.5,0,0,0,0,"0
-"
-DE,Justin,Glass,6 - 3,283,2,78,TEN,4,13,0,5.5,0,0,0,0,"0
-"
-SS,Keyshawn,Ayanbadejo,6 - 1,217,3,87,OAK,2,11,1,0,0,0,0,0,"0
-"
-DT,Kendall,Hill,6 - 6,312,2,83,BUF,4,18,0,4,0,0,0,0,"0
-"
-DT,Fred,Romanowski,6 - 2,279,2,86,OAK,5,28,0,2,0,0,0,0,"0
-"
-ILB,Zion,Adakwa,6 - 2,224,R,76,NYJ,5,34,1,0,0,0,0,0,"0
-"
-OLB,Chester,Williams,6 - 2,219,1,83,HOU,6,35,0,1,0,0,0,0,"0
-"
-CB,Corey,Quinn,6 - 0,191,R,81,SEA,2,5,2,0,0,0,0,0,"0
-"
-SS,Louis,Richter,6 - 1,175,2,74,WAS,3,16,0,0,0,0,0,0,"0
-"
+"
+OLB,Chester,Williams,6 - 2,219,1,83,HOU,9,53,0,2,0,0,0,0,"0
+"
+ILB,Zion,Adakwa,6 - 2,224,R,76,NYJ,8,53,1,0,0,0,0,0,"0
+"
+SS,Larry,Reeves,5 - 11,204,3,89,JAX,3,15,3,0,0,0,0,1,"0
+"
+DT,Kendall,Hill,6 - 6,312,2,83,BUF,6,22,0,5.5,0,0,0,0,"0
+"
+DT,Fred,Romanowski,6 - 2,279,2,86,OAK,7,40,0,3,0,0,0,0,"0
+"
+SS,Mark,Brown,6 - 2,180,2,81,CLE,5,22,2,0,1,0,0,0,"0
+"
+SS,Louis,Richter,6 - 1,175,2,74,WAS,5,26,0,0,0,0,0,0,"0
+"
+DT,Brad,Mungro,6 - 6,284,1,81,NYG,1,4,0,1,0,0,0,0,"0
+"
+CB,Corey,Quinn,6 - 0,191,R,81,SEA,5,17,4,0,0,0,0,0,"0
+"
+DE,Justin,Glass,6 - 3,283,2,78,TEN,5,16,0,6,0,0,0,0,"0
+"
+OLB,Hugh,Boerigter,6 - 2,251,1,79,JAX,4,20,0,0.5,0,0,0,0,"0
+"
+DE,Steven,Jordan,6 - 7,279,2,80,SEA,2,6,0,3,0,0,0,0,"0
+"
+SS,Darrell,Brown,6 - 0,197,2,74,GB,4,16,3,0,0,0,0,1,"0
+"
+OLB,Craig,Davis,6 - 1,221,1,78,SEA,6,34,0,1,0,0,0,0,"0
+"
+FS,Randy,Moulds,6 - 2,198,3,81,GB,3,12,1,0,0,1,0,1,"0
+"
+CB,Tony,Fouts,6 - 0,166,1,69,DET,1,0,1,0,0,0,0,1,"0
+"
+SS,Keyshawn,Ayanbadejo,6 - 1,217,3,87,OAK,4,23,1,0,0,0,0,0,"0
+"
 CB,Henri,Muhammad,5 - 10,186,3,77,WAS,1,5,0,0,0,0,0,0,"0
-"
+"
 DE,Chuck,Smith,6 - 6,268,3,77,CHI,2,7,0,1,0,0,0,0,"0
-"
-SS,Larry,Reeves,5 - 11,204,3,89,JAX,1,5,1,0,0,0,0,0,"0
-"
-SS,Darrell,Brown,6 - 0,197,2,74,GB,3,11,3,0,0,0,0,1,"0
-"
-DE,Joey,Davis,6 - 5,268,2,81,WAS,5,21,0,3.5,0,0,0,0,"0
-"
-DT,Frank,Williams,6 - 8,293,2,92,TB,3,10,0,2,0,0,0,0,"1
-"
-DE,Jeff,Holleyman,6 - 3,297,3,84,OAK,2,8,0,2.5,0,0,0,0,"0
-"
-OLB,Bill,Gehrke,5 - 11,241,1,81,NE,2,14,0,0,0,0,0,0,"0
-"
-ILB,Randy,Humphreys,6 - 1,252,1,84,TEN,7,48,0,1,1,1,0,0,"1
-"
-FS,Randall,Jones,6 - 2,190,2,85,OAK,1,4,0,0,0,0,0,0,"0
-"
-ILB,Rodrick,Milligan,6 - 2,254,3,87,PHI,7,59,2,0,0,0,0,0,"0
-"
-ILB,Jack,Muhammad,6 - 2,248,2,79,PIT,7,44,1,0,0,0,0,0,"0
-"
-OLB,Mike,Johnson,6 - 0,240,R,75,MIN,1,2,0,0.5,0,0,0,0,"0
-"
-DE,Mike,Hill,6 - 7,289,2,86,CLE,4,12,0,5,0,0,0,0,"0
-"
-DT,Earl,Jackson,6 - 3,293,2,93,DET,5,23,0,4,1,0,0,0,"0
-"
-CB,Kenny,Allen,5 - 8,182,2,73,IND,1,4,1,0,0,0,0,0,"0
-"
-DT,Mark,Bassett,6 - 5,299,2,83,GB,1,6,0,0,0,0,0,0,"0
-"
-SS,Willie,Bratkowski,6 - 2,190,R,68,SD,1,2,1,0,0,0,0,0,"0
-"
-OLB,Germane,Dixon,6 - 2,253,3,87,CIN,3,18,0,0,0,0,0,0,"0
-"
+"
+CB,Kevin,Hasselbeck,5 - 9,182,3,64,CHI,1,4,1,0,0,0,0,1,"0
+"
+OLB,Garrison,Jackson,6 - 1,226,1,68,PIT,1,4,0,0,0,0,0,0,"0
+"
+ILB,Randy,Humphreys,6 - 1,252,1,84,TEN,9,62,0,1,1,1,0,0,"1
+"
+FS,Randall,Jones,6 - 2,190,2,85,OAK,2,8,1,0,0,0,0,0,"0
+"
+ILB,Rodrick,Milligan,6 - 2,254,3,87,PHI,13,106,2,0,0,1,0,0,"0
+"
+FS,Christopher,Payne,6 - 1,205,R,71,SF,2,10,0,0,0,0,0,0,"0
+"
+OLB,Bill,Gehrke,5 - 11,241,1,81,NE,4,25,0,0,0,0,0,0,"0
+"
+OLB,W.M.,Mitchell,5 - 10,217,1,80,GB,1,5,0,0,0,0,0,0,"0
+"
+ILB,Jack,Muhammad,6 - 2,248,2,79,PIT,14,99,1,0,0,0,0,0,"0
+"
+DE,Joey,Davis,6 - 5,268,2,81,WAS,8,36,0,5.5,0,0,0,0,"0
+"
+DE,Jeff,Holleyman,6 - 3,297,3,84,OAK,6,24,0,5,0,0,0,0,"0
+"
+DT,Frank,Williams,6 - 8,293,2,92,TB,7,25,0,6.5,0,0,0,0,"1
+"
+CB,Kenny,Allen,5 - 8,182,2,73,IND,2,9,1,0,0,0,0,0,"0
+"
+DT,Reggie,Howard,6 - 6,306,2,77,SEA,1,5,0,0,0,0,0,0,"0
+"
+FS,Patrick,Parks,5 - 9,184,R,76,WAS,3,12,1,1,0,0,0,1,"0
+"
+DT,Bob,Ballard,6 - 1,292,2,85,NYJ,4,16,0,3,1,0,0,0,"0
+"
+OLB,Germane,Dixon,6 - 2,253,3,87,CIN,5,31,0,1,0,0,0,0,"0
+"
+SS,Willie,Bratkowski,6 - 2,190,R,68,SD,3,9,2,0,0,0,0,0,"0
+"
+DT,Earl,Jackson,6 - 3,293,2,93,DET,11,52,0,9,1,0,0,0,"0
+"
+DT,Kris,Lewis,6 - 3,274,R,73,NYJ,1,5,0,0,0,0,0,0,"0
+"
 DT,Cris,LeBaron,6 - 7,282,R,74,ATL,3,15,0,1,0,0,0,0,"0
-"
-FS,Patrick,Parks,5 - 9,184,R,76,WAS,1,4,1,0,0,0,0,1,"0
-"
-ILB,Mark,Craig,6 - 1,230,2,92,DET,5,33,0,0,0,1,0,0,"0
-"
-SS,Robert,Medina,5 - 11,210,2,78,CHI,3,17,0,0,0,0,0,0,"0
-"
-DT,Bob,Ballard,6 - 1,292,2,85,NYJ,1,2,0,1.5,0,0,0,0,"0
-"
-FS,James,Klein,5 - 8,180,R,72,NE,5,22,2,0,0,0,0,1,"0
-"
-SS,R.C.,Rone,6 - 1,204,3,93,ATL,3,18,0,0,0,0,0,0,"0
-"
-OLB,James,Turner,6 - 2,237,2,86,ATL,3,14,0,0.5,0,0,0,0,"0
-"
-DT,Je'Rod,Wimbush,6 - 4,277,2,84,CLE,1,5,0,0,0,0,0,0,"0
-"
-OLB,Thomas,Stewart,6 - 2,254,2,81,CLE,6,36,0,1.5,0,0,0,0,"0
-"
-CB,Bob,Brewer,6 - 1,179,3,82,NO,2,3,2,0,0,0,0,0,"0
-"
-FS,Mike,Jimenez,6 - 0,199,R,74,NO,2,8,1,0,0,0,0,0,"0
-"
-DE,Andrew,Fazande,6 - 4,265,2,90,STL,4,7,0,4,0,0,0,0,"0
-"
-ILB,Andre,Brooks,6 - 1,256,3,96,NE,8,68,1,0,0,0,0,0,"0
-"
-FS,Jake,Pugh,5 - 11,193,R,69,JAX,3,14,0,0,0,0,0,0,"0
-"
-DE,Mike,Taylor,6 - 4,295,2,83,GB,5,16,1,4.5,0,0,0,1,"0
-"
-OLB,Randy,Lehr,6 - 1,231,3,86,DET,4,24,0,0.5,0,0,0,0,"0
-"
+"
+FS,James,Klein,5 - 8,180,R,72,NE,6,28,2,0,0,0,0,1,"0
+"
+DE,Mike,Hill,6 - 7,289,2,86,CLE,7,22,0,8.5,0,0,0,0,"0
+"
+ILB,Mark,Craig,6 - 1,230,2,92,DET,8,57,1,0,0,1,0,0,"0
+"
+OLB,Mike,Johnson,6 - 0,240,R,75,MIN,7,34,0,1,0,0,0,0,"0
+"
+DT,Mark,Bassett,6 - 5,299,2,83,GB,5,22,0,3,0,0,0,0,"0
+"
+SS,Robert,Medina,5 - 11,210,2,78,CHI,4,22,1,0,0,0,0,0,"0
+"
+DE,Dennis,Niland,6 - 4,284,1,87,MIN,6,21,0,5.5,0,0,0,0,"0
+"
+ILB,Andre,Brooks,6 - 1,256,3,96,NE,14,114,1,1,0,1,0,0,"0
+"
+SS,Luis,Nelson,6 - 4,201,3,74,DET,3,14,0,0,1,0,0,0,"0
+"
+OLB,Thomas,Stewart,6 - 2,254,2,81,CLE,12,74,0,2,0,0,0,0,"0
+"
+FS,Jake,Pugh,5 - 11,193,R,69,JAX,4,19,0,0,0,0,0,0,"0
+"
+OLB,Rob,Walls,6 - 1,227,R,72,IND,7,31,1,0.5,0,0,0,0,"0
+"
+DT,Rich,Moore,6 - 7,307,2,89,JAX,3,11,0,2,0,0,0,0,"0
+"
+DE,Eric,Scott,6 - 4,300,2,72,DEN,7,30,0,3.5,0,0,0,0,"0
+"
+OLB,Vince,Smith,6 - 1,234,2,79,WAS,6,30,1,0.5,0,0,0,0,"0
+"
+CB,Scott,Cartwright,5 - 11,187,R,75,DET,2,6,1,0,0,0,0,0,"0
+"
+OLB,James,Turner,6 - 2,237,2,86,ATL,5,28,0,0.5,0,0,0,0,"0
+"
+DE,Andrew,Fazande,6 - 4,265,2,90,STL,6,12,0,5.5,0,0,0,0,"0
+"
+OLB,Randy,Lehr,6 - 1,231,3,86,DET,7,42,0,1,0,0,0,0,"0
+"
+CB,Antonio,Powers,5 - 11,158,2,70,ARI,1,2,1,0,0,0,0,0,"0
+"
+CB,Bashir,Rodriguez,6 - 1,194,2,85,SF,7,34,4,0,0,0,0,2,"0
+"
+CB,Bob,Brewer,6 - 1,179,3,82,NO,4,10,3,0,0,0,0,0,"0
+"
+FS,Mike,Jimenez,6 - 0,199,R,74,NO,4,16,2,0,0,0,0,0,"0
+"
 OLB,Carlton,Houser,6 - 2,236,R,65,ARI,1,6,0,0,0,0,0,0,"0
-"
-CB,Scott,Cartwright,5 - 11,187,R,75,DET,1,1,1,0,0,0,0,0,"0
-"
-SS,Luis,Nelson,6 - 4,201,3,74,DET,2,10,0,0,0,0,0,0,"0
-"
-SS,Tywan,Tafoya,6 - 2,185,2,82,HOU,2,8,1,0,0,0,0,0,"0
-"
-DE,Eric,Scott,6 - 4,300,2,72,DEN,2,7,0,2,0,0,0,0,"0
-"
-OLB,Kyries,Brown,6 - 0,227,1,75,SEA,3,17,0,0.5,0,0,0,0,"0
-"
-ILB,Tim,McDuffie,6 - 2,238,1,73,CAR,4,21,1,0,0,0,0,0,"0
-"
-CB,Ronyell,Buchanon,6 - 1,171,R,73,DAL,2,3,2,0,0,0,0,0,"0
-"
+"
+DE,Mike,Taylor,6 - 4,295,2,83,GB,8,23,1,7.5,0,0,0,1,"0
+"
+SS,R.C.,Rone,6 - 1,204,3,93,ATL,7,41,0,0,0,0,0,0,"0
+"
+DT,Je'Rod,Wimbush,6 - 4,277,2,84,CLE,5,27,0,0,0,0,0,0,"0
+"
+SS,Tywan,Tafoya,6 - 2,185,2,82,HOU,4,18,1,0,0,0,0,0,"0
+"
+DE,Rodney,Galbreath,6 - 8,301,3,89,SD,11,49,0,8,0,1,0,0,"0
+"
+CB,Cade,Donovan,5 - 11,172,1,79,PIT,1,6,0,0,0,0,0,0,"0
+"
 DT,Gregg,Martin,6 - 6,274,1,83,OAK,1,5,1,0.5,0,0,0,0,"0
-"
-OLB,Kwazi,Robb,6 - 1,232,3,88,NYJ,1,6,0,0,0,0,0,0,"0
-"
+"
+DE,Josh,Swift,6 - 4,264,1,72,TEN,3,17,0,1.5,0,0,0,0,"0
+"
 DE,Adam,Scott,6 - 4,281,2,75,DEN,2,12,0,0,0,0,0,0,"0
-"
-FS,Robert,Wozniak,6 - 2,200,1,72,CAR,1,2,1,0,0,0,0,0,"0
-"
-OLB,Vince,Smith,6 - 1,234,2,79,WAS,2,8,1,0.5,0,0,0,0,"0
-"
-OLB,Rob,Walls,6 - 1,227,R,72,IND,4,18,1,0,0,0,0,0,"0
-"
-DE,Josh,Swift,6 - 4,264,1,72,TEN,2,11,0,1.5,0,0,0,0,"0
-"
-OLB,Keyon,Greene,6 - 0,223,3,65,TEN,2,9,0,0.5,0,0,0,0,"0
-"
-OLB,Steve,Windsor,6 - 0,241,R,74,DEN,2,13,0,0,0,0,0,0,"0
-"
-DE,Dennis,Niland,6 - 4,284,1,87,MIN,3,9,0,3,0,0,0,0,"0
-"
-DE,Kevin,Olford,6 - 5,275,R,75,DAL,2,9,0,1,0,0,0,0,"0
-"
+"
+ILB,Cleo,Blair,6 - 1,251,2,85,DAL,10,69,1,0,0,1,0,0,"0
+"
+CB,Sammy,Muhammad,5 - 10,178,1,83,BAL,5,22,4,0,0,0,0,0,"0
+"
+DT,Carnell,Meadows,6 - 5,273,R,80,PIT,9,51,0,4,0,0,0,0,"0
+"
+DE,Terry,Patton,6 - 3,275,2,79,KC,6,27,0,2.5,0,0,0,0,"0
+"
+CB,Cameron,Newhouse,5 - 11,177,2,80,TB,11,51,7,0,0,0,0,1,"0
+"
+ILB,Tim,McDuffie,6 - 2,238,1,73,CAR,9,52,1,0,0,0,0,0,"0
+"
+OLB,Damione,Ellis,6 - 2,249,3,82,GB,9,54,1,3,0,0,0,0,"1
+"
+OLB,Kyries,Brown,6 - 0,227,1,75,SEA,5,28,0,1,0,0,0,0,"0
+"
+OLB,Jason,Bryant,6 - 2,227,3,82,MIA,6,34,0,4,1,0,0,0,"0
+"
+FS,Robert,Wozniak,6 - 2,200,1,72,CAR,2,4,2,0,0,0,0,0,"0
+"
 OLB,Andre,Gasaway,6 - 0,220,R,78,CAR,4,19,0,0.5,1,0,0,0,"0
-"
-DT,Rich,Moore,6 - 7,307,2,89,JAX,1,6,0,0,0,0,0,0,"0
-"
-ILB,Cleo,Blair,6 - 1,251,2,85,DAL,6,43,1,0,0,1,0,0,"0
-"
-DE,Rodney,Galbreath,6 - 8,301,3,89,SD,7,32,0,5,0,1,0,0,"0
-"
-DE,Terry,Patton,6 - 3,275,2,79,KC,2,7,0,2.5,0,0,0,0,"0
-"
-CB,Bashir,Rodriguez,6 - 1,194,2,85,SF,6,29,4,0,0,0,0,2,"0
-"
-DT,Carnell,Meadows,6 - 5,273,R,80,PIT,6,34,0,3,0,0,0,0,"0
-"
-CB,Reggie,Griffin,5 - 10,192,1,82,DEN,6,26,2,0,0,0,0,0,"0
-"
-CB,Cameron,Newhouse,5 - 11,177,2,80,TB,7,35,3,0,0,0,0,0,"0
-"
-CB,Gary,Chamberlain,6 - 1,174,1,76,JAX,1,2,1,0,0,0,0,0,"0
-"
-OLB,Jason,Bryant,6 - 2,227,3,82,MIA,3,17,0,1.5,1,0,0,0,"0
-"
-CB,Sammy,Muhammad,5 - 10,178,1,83,BAL,2,10,2,0,0,0,0,0,"0
-"
-CB,Joshua,Sloan,5 - 11,208,3,81,JAX,4,19,1,0,0,0,0,0,"0
-"
-OLB,Damione,Ellis,6 - 2,249,3,82,GB,5,29,1,1,0,0,0,0,"0
-"
-ILB,Frank,Lee,6 - 1,227,3,79,BAL,3,20,1,0.5,0,0,0,0,"0
-"
-DE,Curtis,Lewis,6 - 8,283,1,88,NYG,4,17,0,2.5,0,0,0,0,"0
-"
-FS,LaMichael,Jones,6 - 3,173,R,71,CLE,4,18,2,0,0,1,0,0,"0
-"
-ILB,J.T.,Holcomb,5 - 11,230,1,78,CLE,4,29,0,0,0,0,0,0,"0
-"
-DE,Bobby,Johnson,6 - 6,276,3,72,SF,4,17,0,2,0,0,0,0,"0
-"
-DE,Brant,Thomas,6 - 2,270,2,84,MIN,4,17,0,3.5,0,0,0,0,"0
-"
-DE,Mark,Logan,6 - 3,287,2,86,NE,5,20,0,2.5,0,0,0,0,"0
-"
-CB,Dave,Stokley,6 - 2,199,2,84,GB,7,26,4,0,0,0,0,1,"0
-"
-DE,Tony,Shaw,6 - 6,280,1,72,JAX,1,4,0,1.5,0,0,0,0,"0
-"
-CB,David,Wilburn,5 - 10,195,3,99,ATL,7,40,2,0,0,0,0,1,"0
-"
-CB,Kevin,Potts,6 - 1,183,R,76,SD,4,17,1,1,0,0,0,0,"0
-"
-FS,Rob,Hamilton,5 - 11,188,R,75,KC,4,30,1,0,0,0,0,0,"0
-"
-ILB,Cameron,Jonah,6 - 1,243,1,82,DEN,6,47,0,0,0,0,0,0,"0
-"
-SS,Brandon,Sauter,6 - 2,200,R,82,STL,5,26,2,0,0,0,0,2,"0
-"
-CB,Archie,Velasquez,5 - 9,186,1,78,BUF,4,16,3,0,0,0,0,0,"0
-"
-SS,Romulus,Jackson,6 - 0,193,R,81,DAL,3,17,3,0,0,0,0,0,"0
-"
-FS,Stephen,Elliott,6 - 3,197,3,91,SD,2,12,1,0,0,0,0,0,"0
-"
-DT,Joe,Micho,6 - 7,300,3,82,NYG,4,21,0,1.5,0,1,0,0,"0
-"
-CB,Joel,Prince,6 - 1,207,3,86,PIT,6,25,4,0,0,0,0,1,"0
-"
+"
+CB,Joshua,Sloan,5 - 11,208,3,81,JAX,5,23,2,0,0,0,0,1,"0
+"
+CB,Ronyell,Buchanon,6 - 1,171,R,73,DAL,3,4,3,0,0,0,0,0,"0
+"
+DE,Kevin,Olford,6 - 5,275,R,75,DAL,3,13,0,2,0,0,0,0,"0
+"
+OLB,Keyon,Greene,6 - 0,223,3,65,TEN,6,25,0,2.5,0,0,0,0,"0
+"
+OLB,Steve,Windsor,6 - 0,241,R,74,DEN,6,36,0,0,0,0,0,0,"0
+"
+CB,Reggie,Griffin,5 - 10,192,1,82,DEN,9,40,3,0,0,0,0,0,"0
+"
+CB,Gary,Chamberlain,6 - 1,174,1,76,JAX,2,4,2,0,0,0,0,0,"0
+"
+OLB,Kwazi,Robb,6 - 1,232,3,88,NYJ,4,22,0,1,0,0,0,0,"0
+"
+CB,B.J.,Dawkins,5 - 11,176,3,75,ATL,1,4,0,0,0,0,0,0,"0
+"
+DE,Curtis,Lewis,6 - 8,283,1,88,NYG,6,25,0,3.5,0,0,0,0,"0
+"
+DE,Mark,Logan,6 - 3,287,2,86,NE,9,38,0,6.5,0,0,0,0,"0
+"
+FS,LaMichael,Jones,6 - 3,173,R,71,CLE,5,23,2,0,0,1,0,0,"0
+"
+DE,Brant,Thomas,6 - 2,270,2,84,MIN,5,21,0,4.5,0,0,0,0,"0
+"
+DE,Bobby,Johnson,6 - 6,276,3,72,SF,7,27,0,4.5,1,0,0,0,"0
+"
+CB,Dave,Stokley,6 - 2,199,2,84,GB,11,45,6,0,0,0,0,1,"0
+"
+ILB,J.T.,Holcomb,5 - 11,230,1,78,CLE,7,46,0,0,1,1,0,0,"0
+"
+ILB,Frank,Lee,6 - 1,227,3,79,BAL,6,42,1,0.5,0,0,0,0,"0
+"
+DT,Ken,Wells,6 - 4,316,2,71,ARI,7,28,0,3,0,1,0,0,"1
+"
+SS,Brandon,Sauter,6 - 2,200,R,82,STL,9,48,2,0,0,0,0,2,"0
+"
+SS,Norris,Nolan,5 - 10,178,R,75,NE,4,20,2,0,0,0,0,1,"0
+"
 CB,Cris,Butler,5 - 11,171,2,61,GB,1,0,0,0,0,1,0,0,"0
-"
+"
 SS,Gerald,Foreman,5 - 9,167,1,62,GB,1,0,0,0,1,0,0,0,"0
-"
+"
+OLB,Ben,Lane,6 - 1,236,2,70,NYG,1,3,0,0,1,0,0,0,"0
+"
+DE,Tony,Shaw,6 - 6,280,1,72,JAX,3,15,0,1.5,0,0,0,0,"0
+"
 DE,Dennis,Abdullah,6 - 5,281,3,78,WAS,1,2,0,0.5,0,0,0,0,"0
-"
-SS,Norris,Nolan,5 - 10,178,R,75,NE,3,15,2,0,0,0,0,1,"0
-"
-DT,Ken,Wells,6 - 4,316,2,71,ARI,3,10,0,2,0,0,0,0,"1
-"
-DE,Cory,Fonoti,6 - 7,279,2,71,DET,1,5,0,1,0,0,0,0,"0
-"
-CB,Nate,Tensi,6 - 0,196,2,90,CAR,3,11,3,0,0,0,0,0,"0
-"
-FS,Reynaldo,Harris,5 - 9,174,1,82,HOU,2,12,1,0,0,0,0,0,"0
-"
-FS,Jim,Sisemore,5 - 10,181,3,89,CIN,2,6,1,0,0,0,0,0,"0
-"
-FS,Rob,O'Neal,6 - 1,192,2,72,PHI,2,11,0,0,0,0,0,0,"0
-"
+"
+FS,Rob,Hamilton,5 - 11,188,R,75,KC,8,53,2,0,0,0,0,0,"0
+"
+DT,Joe,Micho,6 - 7,300,3,82,NYG,7,37,0,3,0,1,0,0,"0
+"
+CB,Joel,Prince,6 - 1,207,3,86,PIT,8,32,6,0,0,0,0,1,"0
+"
+ILB,Cameron,Jonah,6 - 1,243,1,82,DEN,10,76,0,0,0,0,0,0,"0
+"
+SS,Romulus,Jackson,6 - 0,193,R,81,DAL,7,40,5,0,0,0,0,1,"0
+"
+CB,Archie,Velasquez,5 - 9,186,1,78,BUF,5,21,3,0,0,0,0,0,"0
+"
+CB,Kevin,Potts,6 - 1,183,R,76,SD,9,40,3,1,0,0,0,1,"0
+"
+FS,Stephen,Elliott,6 - 3,197,3,91,SD,5,27,2,0,0,0,0,1,"0
+"
+CB,David,Wilburn,5 - 10,195,3,99,ATL,14,71,8,0,0,0,0,2,"0
+"
+CB,Nate,Tensi,6 - 0,196,2,90,CAR,5,18,5,0,0,0,0,0,"0
+"
+ILB,Jimmy,Workman,6 - 0,226,R,78,CAR,2,11,0,0,0,0,0,0,"0
+"
+FS,Jim,Sisemore,5 - 10,181,3,89,CIN,6,24,2,0,0,0,0,0,"0
+"
+DE,Dhani,Panfil,6 - 2,284,2,76,SD,2,7,0,2.5,0,0,0,0,"0
+"
+FS,Reynaldo,Harris,5 - 9,174,1,82,HOU,6,35,2,0,0,0,0,0,"0
+"
+DE,Brett,Bailey,6 - 3,261,R,80,CIN,6,23,0,4.5,0,0,0,0,"0
+"
+SS,Walter,Valdez,5 - 11,178,R,78,PIT,5,26,1,0,0,0,0,1,"0
+"
 DE,Kendrick,Droughns,6 - 6,294,1,85,CAR,3,11,0,1.5,0,0,0,0,"0
-"
-SS,Walter,Valdez,5 - 11,178,R,78,PIT,2,10,1,0,0,0,0,1,"0
-"
-OLB,Leigh,Davey,6 - 1,232,R,80,STL,7,41,1,0.5,1,0,0,0,"0
-"
-DE,Brett,Bailey,6 - 3,261,R,80,CIN,4,15,0,3.5,0,0,0,0,"0
-"
-DE,Dhani,Panfil,6 - 2,284,2,76,SD,1,6,0,1.5,0,0,0,0,"0
-"
-OLB,Charley,Rivers,6 - 2,254,3,80,ARI,4,22,0,2,0,0,0,0,"0
-"
+"
+DE,Cory,Fonoti,6 - 7,279,2,71,DET,2,10,0,2.5,0,0,0,0,"0
+"
+OLB,Charley,Rivers,6 - 2,254,3,80,ARI,10,56,1,2,1,0,0,0,"0
+"
+OLB,Leigh,Davey,6 - 1,232,R,80,STL,11,69,1,0.5,1,0,0,0,"0
+"
 FS,Alyn,Namath,6 - 1,172,3,78,BAL,3,7,3,0,0,0,0,0,"0
-"
+"
+DE,Ulysses,Smith,6 - 8,290,1,80,BUF,1,5,0,0,0,0,0,0,"0
+"
+FS,Rob,O'Neal,6 - 1,192,2,72,PHI,4,21,0,0,0,0,0,0,"0
+"
 FS,Keith,Farr,6 - 1,174,2,83,DET,1,4,1,0,0,0,0,0,"0
-"
+"
+CB,Kadeem,Martin,5 - 9,175,1,80,CLE,5,17,5,0,0,0,0,1,"0
+"
 OLB,Casey,Brzezinski,5 - 11,227,2,77,WAS,1,3,0,0.5,0,0,0,0,"0
-"
-FS,Albert,White,5 - 10,184,2,79,DAL,1,3,1,0,0,0,0,0,"0
-"
-CB,Justin,Davis,5 - 11,173,1,89,MIA,3,14,3,0,0,0,0,0,"0
-"
-CB,Michael,Barber,6 - 0,183,R,79,WAS,5,23,3,0,0,0,0,0,"0
-"
-CB,Kadeem,Martin,5 - 9,175,1,80,CLE,2,5,2,0,0,0,0,0,"0
-"
-FS,Edward,Harrison,5 - 10,168,R,77,TB,3,6,3,0,0,0,0,1,"0
-"
-CB,Jacoby,Seaverns,6 - 2,190,2,94,CIN,6,31,1,0,0,0,0,0,"0
-"
-OLB,Morris,Millen,6 - 0,246,2,85,CHI,8,60,1,0,0,0,0,0,"0
-"
+"
+CB,Michael,Barber,6 - 0,183,R,79,WAS,8,39,3,0,0,0,0,0,"0
+"
+FS,Albert,White,5 - 10,184,2,79,DAL,4,21,1,0,0,0,0,0,"0
+"
+OLB,Thomas,Barry,6 - 1,225,R,79,TB,1,6,0,0,1,0,0,0,"0
+"
+CB,Justin,Davis,5 - 11,173,1,89,MIA,4,16,4,0,0,0,0,1,"0
+"
+OLB,Eugene,Parker,6 - 2,234,1,69,BAL,1,6,0,0,0,0,0,0,"0
+"
+FS,Edward,Harrison,5 - 10,168,R,77,TB,4,12,3,0,0,0,0,1,"0
+"
+CB,Jacoby,Seaverns,6 - 2,190,2,94,CIN,11,57,4,0,0,0,0,1,"0
+"
+OLB,Morris,Millen,6 - 0,246,2,85,CHI,14,107,1,2,0,0,0,0,"0
+"
+DT,Reggie,Hedberg,6 - 8,258,R,75,PHI,6,35,0,0,0,0,0,0,"0
+"
+ILB,Alex,Martin,6 - 0,240,R,79,OAK,9,73,0,0,0,0,0,0,"0
+"
+OLB,Kenyatta,Henderson,5 - 11,228,1,88,NYG,13,94,0,4.5,1,1,0,0,"0
+"
+ILB,Cleveland,Merrill,6 - 1,236,2,93,MIN,11,82,0,0,0,1,0,0,"0
+"
+CB,Shawn,Tennell,6 - 1,179,3,79,NYG,1,4,1,0,0,0,0,0,"0
+"
+SS,Chris,Brown,5 - 11,176,R,78,IND,5,24,1,0,0,0,0,0,"0
+"
+OLB,Hal,Rodriguez,6 - 1,251,3,73,DET,2,10,0,0.5,0,0,0,0,"0
+"
+ILB,Doug,Odoms,6 - 1,235,2,80,IND,7,42,0,0,0,0,0,0,"0
+"
+OLB,Tommy,Leonard,6 - 1,229,3,79,NYJ,6,32,0,1,0,0,0,0,"0
+"
+CB,DeAndre,Hawkins,6 - 2,180,1,88,HOU,5,22,3,0,0,0,0,1,"0
+"
+CB,John,Rogers,6 - 1,197,1,64,PIT,1,1,1,0,0,0,0,1,"0
+"
+ILB,Ron,Mobley,6 - 1,247,3,89,TB,9,65,1,0,0,1,0,0,"0
+"
+SS,Willie,Wood,6 - 1,198,2,79,NO,3,12,1,0,0,0,0,0,"0
+"
+DT,Josh,Wilson,6 - 7,278,1,85,MIA,6,25,0,4.5,1,2,0,0,"0
+"
 SS,Gregory,Gilmore,6 - 3,201,2,71,ARI,3,15,1,0,0,0,0,0,"0
-"
-DT,Josh,Wilson,6 - 7,278,1,85,MIA,3,15,0,1,1,2,0,0,"0
-"
-SS,Chris,Brown,5 - 11,176,R,78,IND,3,14,1,0,0,0,0,0,"0
-"
-CB,DeAndre,Hawkins,6 - 2,180,1,88,HOU,2,10,1,0,0,0,0,0,"0
-"
-ILB,Alex,Martin,6 - 0,240,R,79,OAK,4,32,0,0,0,0,0,0,"0
-"
-FS,Alex,Collins,6 - 0,214,3,87,NYG,1,6,0,0,0,0,0,0,"0
-"
-ILB,Cleveland,Merrill,6 - 1,236,2,93,MIN,5,40,0,0,0,1,0,0,"0
-"
-DE,Anthony,Ortiz,6 - 7,262,R,83,BUF,5,17,0,4,1,1,0,1,"0
-"
-DT,Keith,Hooks,6 - 3,293,3,83,IND,2,6,0,2,0,0,0,0,"1
-"
-OLB,Kenyatta,Henderson,5 - 11,228,1,88,NYG,7,54,0,4.5,1,1,0,0,"0
-"
-ILB,Ron,Mobley,6 - 1,247,3,89,TB,5,33,1,0,0,1,0,0,"0
-"
-OLB,Tommy,Leonard,6 - 1,229,3,79,NYJ,3,17,0,0,0,0,0,0,"0
-"
-OLB,Hal,Rodriguez,6 - 1,251,3,73,DET,1,5,0,0.5,0,0,0,0,"0
-"
-SS,Willie,Wood,6 - 1,198,2,79,NO,2,7,1,0,0,0,0,0,"0
-"
-ILB,Doug,Odoms,6 - 1,235,2,80,IND,5,31,0,0,0,0,0,0,"0
-"
-DT,Reggie,Hedberg,6 - 8,258,R,75,PHI,4,24,0,0,0,0,0,0,"0
-"
+"
+DE,Anthony,Ortiz,6 - 7,262,R,83,BUF,9,33,0,8,1,1,0,1,"0
+"
+DT,Keith,Hooks,6 - 3,293,3,83,IND,4,12,0,3.5,0,0,0,0,"1
+"
+FS,Alex,Collins,6 - 0,214,3,87,NYG,4,19,2,0,0,0,0,1,"0
+"
 CB,Ricky,Rose,6 - 2,198,1,73,SD,1,1,1,0,0,0,0,0,"0
-"
+"
 ILB,Timmy,Flanigan,5 - 8,233,1,72,SD,1,4,0,0,0,1,0,0,"0
-"
+"
+FS,Reggie,Beasley,5 - 10,207,2,85,MIA,4,10,4,0,0,0,0,0,"0
+"
 CB,Nate,Steed,5 - 11,176,2,71,BAL,1,1,1,0,0,0,0,0,"0
-"
-FS,Reggie,Beasley,5 - 10,207,2,85,MIA,3,8,3,0,0,0,0,0,"0
-"
-ILB,Dennis,Smith,6 - 0,251,2,80,NYG,3,20,0,0,0,0,0,0,"0
-"
-CB,Wayne,Hape,5 - 10,184,2,82,HOU,1,3,1,0,0,0,0,1,"0
-"
-ILB,Blair,Williams,6 - 2,247,2,86,HOU,5,41,0,0,1,1,0,0,"0
-"
+"
+ILB,Dennis,Smith,6 - 0,251,2,80,NYG,5,35,0,0,0,0,0,0,"0
+"
+DT,Tommy,Brooks,6 - 7,285,R,78,DEN,6,31,0,2,0,0,0,0,"0
+"
+SS,Dane,Wilson,6 - 1,178,2,93,MIA,3,15,3,0,0,0,0,0,"0
+"
+ILB,Rabih,Delaney,6 - 1,237,2,87,NO,9,55,0,0,1,1,0,0,"0
+"
+CB,Wayne,Hape,5 - 10,184,2,82,HOU,2,8,2,0,0,0,0,1,"0
+"
+ILB,Blair,Williams,6 - 2,247,2,86,HOU,11,85,0,0,1,1,0,0,"0
+"
+CB,George,Brady,5 - 11,181,2,81,NYG,7,31,2,0,1,0,0,1,"0
+"
 FS,Daniel,Scott,6 - 1,172,R,74,NYJ,3,11,2,0,0,0,0,0,"0
-"
-ILB,Rabih,Delaney,6 - 1,237,2,87,NO,4,23,0,0,1,1,0,0,"0
-"
-CB,George,Brady,5 - 11,181,2,81,NYG,3,14,0,0,1,0,0,0,"0
-"
-DT,Tommy,Brooks,6 - 7,285,R,78,DEN,4,15,0,2,0,0,0,0,"0
-"
-ILB,Ed,Haws,6 - 1,241,2,75,GB,1,6,0,0,0,0,0,0,"0
-"
+"
+OLB,David,Kuppe,5 - 11,214,1,77,BUF,3,18,1,0,0,0,0,1,"0
+"
+FS,Kevin,Collins,5 - 11,196,2,71,SEA,3,12,1,0,0,0,0,0,"0
+"
 DE,Clayton,James,6 - 6,265,R,71,STL,1,1,0,0.5,0,0,0,0,"0
-"
-OLB,Chris,Reed,6 - 1,230,R,77,SF,5,32,0,0.5,0,0,0,0,"0
-"
+"
+ILB,Ed,Haws,6 - 1,241,2,75,GB,5,32,1,0,0,0,0,0,"0
+"
 CB,Tony,Ross,5 - 11,188,3,77,CLE,1,3,1,0,0,0,0,0,"0
-"
-ILB,Dewey,Tomlinson,5 - 11,220,R,78,KC,5,31,1,0,0,0,0,0,"0
-"
-ILB,Daleroy,Smart,5 - 11,224,1,87,SF,7,55,2,0,0,0,0,0,"0
-"
-ILB,Mike,Bledsoe,6 - 1,231,2,81,WAS,7,43,1,0,1,1,0,0,"0
-"
+"
+SS,Jeff,Hudson,6 - 0,183,3,77,SEA,1,2,1,0,0,0,0,0,"0
+"
+OLB,Ronald,Jagade,6 - 0,234,R,68,NYJ,1,6,0,0,0,0,0,0,"0
+"
+CB,Jeremy,Bell,5 - 10,170,R,71,IND,1,2,1,0,0,0,0,0,"0
+"
+ILB,Dewey,Tomlinson,5 - 11,220,R,78,KC,9,56,1,0,0,0,0,0,"0
+"
+OLB,Chris,Reed,6 - 1,230,R,77,SF,10,60,0,2,0,0,0,0,"0
+"
+ILB,Mike,Bledsoe,6 - 1,231,2,81,WAS,12,81,1,0,1,1,0,0,"0
+"
+ILB,Daleroy,Smart,5 - 11,224,1,87,SF,11,82,3,0,0,1,0,0,"0
+"
+OLB,Charley,Graham,5 - 11,224,1,76,ARI,8,48,1,0.5,0,1,0,0,"0
+"
+DT,Mike,Wohlabaugh,6 - 3,287,R,81,CAR,7,26,0,5.5,0,0,0,0,"0
+"
+OLB,Trent,Haynes,6 - 1,228,1,84,CAR,5,31,1,2,0,1,0,0,"0
+"
 OLB,Terry,Hill,6 - 0,221,1,83,CIN,1,5,0,0,0,0,0,0,"0
-"
-OLB,Charley,Graham,5 - 11,224,1,76,ARI,5,33,1,0,0,1,0,0,"0
-"
-OLB,Trent,Haynes,6 - 1,228,1,84,CAR,3,19,1,2,0,1,0,0,"0
-"
-DT,Mike,Wohlabaugh,6 - 3,287,R,81,CAR,4,19,0,2.5,0,0,0,0,"0
-"
-SS,Dan,Maxwell,5 - 10,181,3,72,TB,1,3,1,0,0,0,0,0,"0
-"
-DT,Marlin,Eason,6 - 3,286,R,79,BAL,2,9,1,0,0,0,0,0,"0
-"
-CB,Jim,Dupre,6 - 2,182,R,79,MIN,2,6,1,0.5,0,0,0,0,"0
-"
-ILB,Tunch,Richardson,5 - 11,217,R,83,SD,3,20,0,0,2,0,0,0,"0
-"
-CB,Isaiah,Polsfoot,5 - 11,183,1,85,STL,1,6,0,0,0,0,0,0,"0
-"
+"
+ILB,Rich,Smith,5 - 11,226,R,69,TEN,1,3,1,0,0,0,0,0,"0
+"
+DT,Marlin,Eason,6 - 3,286,R,79,BAL,3,15,1,0,0,0,0,0,"0
+"
+SS,Dan,Maxwell,5 - 10,181,3,72,TB,2,8,1,0,0,0,0,0,"0
+"
+DT,Kevin,Nitschke,6 - 2,270,2,81,WAS,2,12,0,1,0,0,0,0,"0
+"
+CB,Jim,Dupre,6 - 2,182,R,79,MIN,3,11,1,0.5,0,0,0,0,"0
+"
+ILB,Tunch,Richardson,5 - 11,217,R,83,SD,7,47,0,0,2,0,0,0,"0
+"
 CB,Keith,Wells,6 - 2,177,1,83,STL,1,3,1,0,0,0,0,0,"0
-"
-DE,Barron,Anthony,6 - 3,278,2,91,BAL,2,8,0,2.5,0,0,0,0,"0
-"
+"
+CB,Isaiah,Polsfoot,5 - 11,183,1,85,STL,4,17,3,0,0,0,0,1,"0
+"
+DE,Barron,Anthony,6 - 3,278,2,91,BAL,6,21,0,6.5,0,0,0,0,"0
+"
+DE,Tommy,Wietecha,6 - 2,277,3,85,BAL,1,3,0,1,0,0,0,0,"0
+"

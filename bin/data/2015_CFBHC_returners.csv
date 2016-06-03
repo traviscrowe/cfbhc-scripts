@@ -1,0 +1,182 @@
+ Position , Forename , Surname , Height , Weight , Standing , Skill , Potential , Team , Attempts , Missed , +0 , +20 , +30 , +40 ," +50
+"
+K,William,Redd,5 - 11,214,(Jr),3.0,3.0,Oregon State,7,0,0,1,1,5,"0
+"
+K,Ian,Hughes,5 - 10,187,So,3.0,3.0,Duke,11,0,0,2,4,5,"0
+"
+K,Justin,Nielsen,5 - 11,203,(Fr),3.0,5.0,Texas A&M,16,1,0,2,3,7,"3
+"
+K,Paul,Compton,5 - 9,178,Sr,4.0,4.0,Boise State,15,1,0,1,4,7,"2
+"
+K,Kevin,Marinovich,5 - 10,165,(So),2.5,2.5,Ole Miss,17,4,0,1,5,6,"1
+"
+K,Mark,Kirschbaum,5 - 9,199,So,3.0,4.5,Purdue,15,2,0,3,5,5,"0
+"
+K,Greg,Duper,6 - 0,171,Sr,4.5,4.5,Clemson,12,0,0,0,4,7,"1
+"
+P,Dan,Hamilton,6 - 0,198,Sr,5.0,5.0,Mississippi State,7,2,0,1,3,1,"0
+"
+K,Trenton,Craft,6 - 1,192,Sr,1.5,1.5,New Mexico,3,1,0,0,2,0,"0
+"
+K,Tan,Shields,5 - 11,165,So,2.0,3.5,Hawaii,15,6,0,0,4,5,"0
+"
+P,Mark,Coleman,6 - 1,196,(So),5.0,5.0,USC,25,4,0,3,12,5,"1
+"
+P,Tyrone,Johnson,6 - 2,207,Sr,3.0,3.0,Nebraska,6,5,0,0,1,0,"0
+"
+K,Keith,White,5 - 8,207,Jr,3.5,3.5,Boston College,7,1,0,0,3,3,"0
+"
+K,Mark,Steinbach,5 - 10,178,Jr,3.5,3.5,Washington State,10,2,0,0,5,3,"0
+"
+K,Matt,Fisk,5 - 11,171,So,3.5,4.0,Penn State,28,4,0,6,8,9,"1
+"
+K,Bryan,Ray,5 - 9,178,Jr,4.0,4.5,Colorado State,8,1,0,1,2,3,"1
+"
+K,Clifford,Franklin,5 - 11,188,Sr,4.0,4.0,Rutgers,4,1,0,0,2,1,"0
+"
+K,Russ,Starring,5 - 10,188,(Jr),2.5,2.5,Vanderbilt,15,2,0,1,8,4,"0
+"
+K,Glenn,Powell,5 - 8,164,(Jr),1.0,1.0,Georgia State,6,1,0,1,2,2,"0
+"
+K,Rolando,Anderson,6 - 4,172,Fr,2.0,2.5,Nevada,10,2,0,0,8,0,"0
+"
+P,Jason,Sochia,5 - 10,169,Jr,5.0,5.0,Notre Dame,22,3,0,4,10,4,"1
+"
+K,Larry,DeLamielleure,5 - 11,173,Jr,4.0,4.0,Arizona State,16,1,0,2,6,7,"0
+"
+K,James,Dunn,6 - 2,200,Fr,1.0,2.0,New Mexico,1,1,0,0,0,0,"0
+"
+K,Nathan,Vazquez,5 - 9,168,Sr,4.5,4.5,Maryland,21,1,0,3,8,9,"0
+"
+K,Carlos,Cruz,6 - 2,197,So,3.5,4.5,Air Force,13,1,0,2,4,6,"0
+"
+K,Ahmad,Pederson,6 - 2,185,(Sr),3.5,3.5,Virginia Tech,11,1,0,1,3,6,"0
+"
+K,Joshua,Stewart,6 - 4,176,Fr,3.0,3.0,Kansas,17,4,0,2,5,6,"0
+"
+K,Ted,Parham,6 - 1,200,Sr,2.0,2.0,San Diego State,7,4,0,0,1,2,"0
+"
+K,Steve,Abraham,6 - 1,197,(Sr),1.5,1.5,Houston,16,5,0,4,6,1,"0
+"
+K,Dudley,Melton,6 - 1,202,Jr,1.0,1.5,Fresno State,10,3,0,2,2,3,"0
+"
+K,Gino,Chiaverini,6 - 3,206,Jr,5.0,5.0,Texas,16,0,0,2,6,8,"0
+"
+K,Robert,Hall,6 - 4,203,Fr,1.5,1.5,Iowa State,13,5,0,3,2,3,"0
+"
+K,Skip,Gibson,6 - 0,178,(Sr),5.0,5.0,Georgia,19,1,0,4,4,9,"1
+"
+K,Jermaine,Gooch,6 - 3,173,Sr,4.0,4.0,Wake Forest,11,1,0,2,4,4,"0
+"
+K,Troy,Lawson,5 - 9,196,So,2.0,3.0,Arizona,14,4,0,2,5,3,"0
+"
+P,Richard,McCarthy,6 - 2,196,Sr,2.5,2.5,SMU,10,4,0,0,3,3,"0
+"
+K,Thomas,Fry,5 - 11,158,Fr,1.0,3.5,San Diego State,2,1,0,1,0,0,"0
+"
+P,Dwayne,Brightful,5 - 10,183,Sr,4.0,4.0,Georgia Tech,6,4,0,1,1,0,"0
+"
+K,Willie,Gaffney,6 - 1,183,(Jr),4.5,5.0,Iowa,17,0,0,2,6,8,"1
+"
+K,Robbie,Fitzpatrick,6 - 2,186,So,3.0,4.0,ECU,16,3,0,2,9,2,"0
+"
+P,Roger,Barrett,6 - 1,167,Jr,3.0,3.5,Nebraska,10,6,0,0,3,1,"0
+"
+K,Stanley,Brewster,6 - 1,204,Jr,5.0,5.0,Pittsburgh,14,2,0,1,3,8,"0
+"
+K,Alejandro,Aguirre,5 - 11,198,(Fr),3.0,5.0,Oklahoma,28,2,0,3,6,15,"2
+"
+K,John,Phipps,5 - 10,179,Sr,2.0,2.0,South Carolina,17,6,0,1,8,2,"0
+"
+K,Michael,Cipa,5 - 9,162,Jr,3.0,3.0,Tennessee,19,3,0,1,5,9,"1
+"
+K,Erik,Senser,5 - 11,166,Jr,3.0,3.0,Texas Tech,17,1,0,0,11,5,"0
+"
+P,Keith,Fontenot,5 - 8,183,(Jr),4.0,4.0,Minnesota,20,5,0,2,9,4,"0
+"
+K,Walker,Gentry,6 - 3,166,Fr,1.5,3.5,Washington,17,2,0,1,6,8,"0
+"
+K,Tom,Salave'a,6 - 4,195,Jr,3.5,3.5,Oklahoma State,14,4,0,0,6,4,"0
+"
+K,Will,Nichols,5 - 11,165,So,2.5,4.0,California,9,0,0,0,4,5,"0
+"
+P,Andre,Groce,6 - 3,173,Jr,2.0,2.0,Rice,2,0,0,0,2,0,"0
+"
+K,Nick,Easy,8 - May,177,(So),3.0,3.0,Colorado,13,1,0,3,3,6,"0
+"
+K,Vincenzo,Aiola,6 - 1,175,Sr,4.0,4.0,TCU,14,3,0,0,4,7,"0
+"
+K,Darryl,Lemus,5 - 10,181,(Jr),4.5,4.5,Northwestern,12,2,0,1,2,7,"0
+"
+K,Lew,Roberg,6 - 0,177,Sr,4.5,4.5,North Carolina,8,1,0,1,1,4,"1
+"
+K,Mitch,Hughes,5 - 11,171,So,2.5,4.0,NC State,9,3,0,1,2,3,"0
+"
+K,Ronald,Daniel,5 - 8,184,Jr,4.5,5.0,Baylor,15,2,0,3,4,3,"3
+"
+K,Lee,Avery,5 - 11,202,Sr,3.0,3.0,UCF,9,0,0,0,3,6,"0
+"
+K,Ryan,Levcik,5 - 9,177,(Sr),5.0,5.0,Alabama,17,1,0,0,5,8,"3
+"
+K,Martin,Reeves,6 - 2,160,So,2.0,3.0,Arkansas,2,1,0,0,1,0,"0
+"
+K,Patrick,O'Neil,6 - 1,201,Sr,4.0,4.0,Virginia,11,0,0,3,3,5,"0
+"
+K,Dennis,Scott,6 - 1,206,Jr,5.0,5.0,Florida State,38,2,0,3,12,16,"5
+"
+K,Chris,Ritter,6 - 2,208,(Fr),2.5,5.0,Stanford,16,0,0,4,6,6,"0
+"
+K,Jan - Christian,Engelhardt,6 - 2,203,So,3.5,3.5,Syracuse,16,3,0,3,5,5,"0
+"
+P,A.J.,Kinney,5 - 9,205,Jr,4.5,4.5,West Virginia,18,5,0,0,8,5,"0
+"
+P,Jim,Brown,6 - 0,165,Sr,5.0,5.0,Auburn,14,4,0,1,5,4,"0
+"
+K,Chris,Scobee,5 - 11,176,So,2.0,2.0,Missouri,9,2,0,0,5,2,"0
+"
+K,Brian,Evans,5 - 9,175,Jr,5.0,5.0,Florida,14,2,0,1,1,8,"2
+"
+K,Keith,Calhoun,6 - 3,199,Sr,3.0,3.0,Navy,12,0,0,1,7,4,"0
+"
+K,James,Osborne,6 - 2,193,Sr,2.0,2.0,Army,13,3,0,1,6,3,"0
+"
+K,Mike,Yates,5 - 10,189,(Jr),3.5,3.5,Louisville,6,0,0,1,4,1,"0
+"
+K,Daniel,Brooks,6 - 3,187,Jr,1.0,1.0,Cincinnati,9,4,0,1,3,1,"0
+"
+K,James,Call,6 - 3,192,Jr,2.5,2.5,Indiana,1,0,0,0,0,1,"0
+"
+K,Zachary,Gonzalez,6 - 2,198,So,1.5,2.0,Connecticut,8,4,0,2,2,0,"0
+"
+K,Richie,Epps,6 - 2,184,(Fr),3.0,4.5,BYU,20,2,0,4,6,8,"0
+"
+K,Richie,O'Brien,6 - 3,191,So,1.5,2.0,Wisconsin,1,1,0,0,0,0,"0
+"
+K,Jose,Lopez,5 - 10,184,Jr,2.0,2.0,Kansas State,5,0,0,1,3,1,"0
+"
+K,Harold,Bridges,5 - 9,189,Jr,2.5,2.5,Arkansas,5,1,0,2,1,1,"0
+"
+K,Vince,Wilson,6 - 0,195,(Fr),3.0,3.0,Indiana,9,1,0,2,5,1,"0
+"
+K,Eric,Anderson,5 - 8,193,Jr,4.0,4.0,Michigan,17,2,0,1,5,8,"1
+"
+K,Henry,Lane,6 - 4,180,Sr,3.5,3.5,Kentucky,16,2,0,2,6,6,"0
+"
+K,Eric,Mason,5 - 9,183,Sr,2.5,2.5,Utah,5,0,0,1,2,2,"0
+"
+K,James,Parnell,6 - 2,178,So,2.0,2.0,Miami,6,1,0,0,3,2,"0
+"
+K,Chris,Hoag,6 - 2,184,Jr,5.0,5.0,UCLA,17,0,0,1,3,10,"3
+"
+K,Elijah,Little,6 - 4,205,Jr,2.0,2.0,Oregon,15,6,0,1,5,3,"0
+"
+P,Gary,Levels,6 - 1,198,(So),4.0,5.0,Michigan State,27,5,0,4,12,6,"0
+"
+K,Billy,Robinson,5 - 8,186,Sr,3.5,3.5,Illinois,22,1,0,4,11,6,"0
+"
+P,Elvin,Johnson,5 - 10,192,Sr,5.0,5.0,Wisconsin,10,1,0,1,4,4,"0
+"
+K,John,Riemersma,6 - 2,204,Jr,3.0,2.5,LSU,15,4,0,0,7,4,"0
+"
+K,Jerome,Albright,5 - 11,209,So,2.5,2.5,Ohio State,14,8,0,2,1,3,"0
+"

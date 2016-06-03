@@ -1,108 +1,108 @@
  Position , Forename , Surname , Height , Weight , Standing , Skill , Potential , Team , Games , Attempts , Yards , TDs , Fumbles , 100yd Games , YPC ," YPG
-"
+"
 RB,Keena,Kane,5 - 9,180,R,72, - ,Green Bay,1,7,22,0,0,0,3.14,"22.00
-"
+"
 FB,Michael,Banks,6 - 2,247,R,59, - ,Oakland,3,16,53,3,0,0,3.31,"17.67
-"
+"
 QB,Keith,Simon,6 - 2,189,R,80, - ,Indianapolis,4,25,55,0,2,0,2.20,"13.75
-"
+"
 RB,Kevin,Richards,5 - 11,182,1,84, - ,New Orleans,5,77,393,5,1,1,5.10,"78.60
-"
+"
 RB,James,Otero,5 - 8,191,R,80, - ,Miami,16,211,1169,17,1,3,5.54,"73.06
-"
+"
 RB,Fred,Preston,5 - 9,191,R,76, - ,Atlanta,12,203,1006,10,0,4,4.96,"83.83
-"
+"
 FB,Greg,Williams,72,251,1,60, - ,Carolina,1,4,17,1,0,0,4.25,"17.00
-"
+"
 RB,Ricky,Moore,5 - 8,186,1,64, - ,New England,4,53,172,4,0,0,3.25,"43.00
-"
+"
 RB,Shawn,Cole,5 - 9,188,R,77, - ,Minnesota,1,7,48,1,0,0,6.86,"48.00
-"
+"
 QB,Christian,Skaggs,73,214,1,87, - ,Carolina,1,3, - 1,0,1,0, - 0.33," - 1.00
-"
+"
 FB,Leonard,McIntyre,6 - 2,245,1,59, - ,New England,1,3,4,1,0,0,1.33,"4.00
-"
+"
 RB,David,Ortiz,5 - 10,207,1,75, - ,Houston,6,136,547,7,1,4,4.02,"91.17
-"
+"
 RB,Russ,Martin,72,215,R,78, - ,Carolina,14,163,690,6,1,0,4.23,"49.29
-"
+"
 QB,Nick,Hall,6 - 2,221,R,79, - ,Oakland,5,12, - 5,0,5,0, - 0.42," - 1.00
-"
+"
 RB,Rob,Blackmon,6 - 0,206,1,82, - ,Cincinnati,14,241,1164,13,1,2,4.83,"83.14
-"
+"
 QB,Aaron,Kotar,6 - 6,225,R,82, - ,New York Jets,11,64,415,7,1,0,6.48,"37.73
-"
+"
 RB,Drew,Pierce,5 - 8,193,R,67, - ,New Orleans,10,141,603,9,0,1,4.28,"60.30
-"
+"
 RB,O.J.,Carano,5 - 11,217,R,81, - ,New York Jets,14,223,1377,14,1,8,6.17,"98.36
-"
+"
 RB,Ed,Latta,5 - 9,188,R,79, - ,Jacksonville,1,15,48,1,0,0,3.20,"48.00
-"
+"
 RB,Willard,Evans,6 - 0,196,1,63, - ,Detriot,2,9,30,1,0,0,3.33,"15.00
-"
+"
 RB,Bryan,Davis,5 - 8,195,1,79, - ,Atlanta,2,34,144,0,0,0,4.24,"72.00
-"
+"
 RB,Bobby,Givan,5 - 11,188,R,80, - ,Indianapolis,2,23,88,1,0,0,3.83,"44.00
-"
+"
 RB,Chester,Henson,5 - 11,226,1,89, - ,Minnesota,16,254,1511,21,1,8,5.95,"94.44
-"
+"
 RB,Elvis,Williams,05 - 11,181,1,80, - ,New England,12,157,1057,18,0,6,6.73,"88.08
-"
+"
 RB,Don,Williams,5 - 10,226,1,84, - ,Cleveland,14,230,1263,15,0,5,5.49,"90.21
-"
+"
 FB,Jonathan,Laskey,6 - 1,244,1,55, - ,Detriot,1,4,8,1,0,0,2.00,"8.00
-"
+"
 FB,Anthony,Thomas,5 - 11,222,R,71, - ,Minnesota,1,4,16,1,0,0,4.00,"16.00
-"
+"
 QB,Mike,Hill,6 - 0,202,1,77, - ,Tampa Bay,8,43,198,3,0,0,4.60,"24.75
-"
+"
 QB,Alex,Bridgewater,6 - 0,182,R,80, - ,Tampa Bay,5,30,146,2,0,0,4.87,"29.20
-"
+"
 QB,Joshua,Andrews,6 - 1,203,R,80, - ,Detriot,1,1, - 9,0,1,0, - 9.00," - 9.00
-"
+"
 FB,Tom,Johnston,6 - 2,241,R,60, - ,New Orleans,1,3,9,1,0,0,3.00,"9.00
-"
+"
 RB,Jeffrey,Gallagher,5 - 10,192,R,70, - ,Green Bay,1,4,10,1,0,0,2.50,"10.00
-"
+"
 QB,Rob,LeCount,6 - 3,212,R,73, - ,New England,1,3, - 2,0,1,0, - 0.67," - 2.00
-"
+"
 RB,Booker T.,Washington,6 - 1,208,R,70, - ,Baltimore,14,250,1346,16,1,6,5.38,"96.14
-"
+"
 RB,Steven,Curtis,6 - 0,186,1,76, - ,Cincinnati,1,2,5,0,0,0,2.50,"5.00
-"
+"
 QB,Alexander,Williams,6 - 0,187,1,82, - ,Cleveland,10,62,306,4,0,0,4.94,"30.60
-"
+"
 RB,Vaughan,Abraham,5 - 10,201,1,84, - ,Dallas,14,271,1471,18,0,8,5.43,"105.07
-"
+"
 QB,Brian,Brown,6 - 4,228,R,84, - ,Miami,1,3, - 3,1,1,0, - 1.00," - 3.00
-"
+"
 QB,Onterrio,Smith,6 - 1,180,1,75, - ,New York Jets,3,18,186,2,0,0,10.33,"62.00
-"
+"
 QB,Allan,Taylor,6 - 0,202,1,84, - ,Jacksonville,12,94,699,8,1,1,7.44,"58.25
-"
+"
 RB,Brian,Kiel,6 - 1,213,1,77, - ,New York Jets,10,81,421,4,0,0,5.20,"42.10
-"
+"
 RB,Shaun,Evans,5 - 8,191,R,81, - ,New York Giants,14,174,835,12,3,0,4.80,"59.64
-"
+"
 QB,Blake,Shell,6 - 5,194,R,80, - ,Cincinnati,1,1, - 8,0,1,0, - 8.00," - 8.00
-"
+"
 FB,Alex,Engram,6 - 1,252,R,66, - ,Miami,4,21,53,4,0,0,2.52,"13.25
-"
+"
 QB,Derek,Keys,6 - 1,195,R,72, - ,Cleveland,3,13,36,1,0,0,2.77,"12.00
-"
+"
 RB,Bradie,Sapp,5 - 11,185,1,78, - ,St. Louis,16,240,1106,10,0,4,4.61,"69.12
-"
+"
 RB,Chad,Dess,6 - 1,241,R,81, - ,Green Bay,15,239,1147,15,1,1,4.80,"76.47
-"
+"
 RB,Justin,Buchanan,5 - 10,184,R,79, - ,Oakland,16,260,1270,15,1,4,4.88,"79.38
-"
+"
 RB,Tony,Peaks,5 - 10,239,1,82, - ,Indianapolis,13,225,1202,15,1,7,5.34,"92.46
-"
+"
 RB,J.J.,Hammond,5 - 11,229,1,69, - ,Tampa Bay,14,225,1018,4,0,2,4.52,"72.71
-"
+"
 RB,John,McMurtry,5 - 11,212,R,77, - ,Houston,8,195,738,7,0,3,3.78,"92.25
-"
+"
 RB,James,Bush,6 - 1,242,R,83, - ,Jacksonville,13,207,1028,10,0,2,4.97,"79.08
-"
+"
 RB,Quincy,Turner,6 - 1,200,R,81, - ,Detriot,14,238,918,7,1,0,3.86,"65.57
-"
+"

@@ -1,0 +1,2297 @@
+ Position , Forename , Surname , Height , Weight , Year , Attribute , Skill 
+ATH,Kamari,Cheatham,70,221,2018,Man Coverage,2.0,5.0,ECU,5,27,0.0,0,0,0,0,2,0
+"
+",ATH,Logan,Holmes,71,Illinois,(Fr),Zone Coverage,2.5,4.5,2018,5,25,0.0,0,0,0,0,5
+1,"
+",ATH,Marquise,Reed,5.0,173,So,Man Coverage,3.5,Clemson,2018,6,21,0.0,0,0,0,0
+6,0,"
+",CB,Abdoulaye,4.0,70,168,So,Man Coverage,4.0,Maryland,2018,4,14,0.0,0,0,0
+0,4,0,"
+",CB,Zone Coverage,Allen,73,163,Jr,3.0,3.0,Marshall,2018,5,22,0.0,0,0
+0,0,3,2,"
+",(Sr),Gene,Allison,71,188,Zone Coverage,3.0,3.0,Temple,2018,1,4,0.0,0
+0,0,0,1,0,155,CB,Glen,Anderson,70,(Fr),Zone Coverage,1.0,3.0,Charlotte,2018,5,20,0.0
+0,0,0,0,2,70,"
+",CB,Christopher,Anthony,171,So,Man Coverage,2.0,4.5,Temple,2018,5,19
+0.0,0,0,0,0,Armstrong,1,"
+",CB,Roman,72,184,Sr,Man Coverage,2.0,2.0,Virginia Tech,2018,1
+1,0.0,0,0,0,Walter,1,0,"
+",CB,Askew,73,175,Sr,Zone Coverage,3.5,3.5,Indiana,2018
+3,8,0.0,0,0,CB,0,3,0,"
+",Daniel,Austin,70,191,Sr,Zone Coverage,3.5,3.5,Pittsburgh
+2018,2,8,0.0,0,"
+",0,0,1,0,CB,John,Bailey,71,175,Sr,Man Coverage,1.5,1.5
+FAU,2018,1,2,0.0,0,0,0,0,1,"
+",CB,Michael,Bailey,72,203,Sr,Man Coverage,2.5
+2.5,Baylor,2018,1,2,1,0,0,0,0,0,"
+",CB,Ronnie,Bailey,69,186,(Jr),Man Coverage
+4.5,5.0,LSU,2018,1,0,0.0,0,0,0,1,0,"
+",CB,Frank,Baker,73,174,(Jr)
+Zone Coverage,1.5,2.0,Charlotte,2018,0,7,0.0,0,0,0,2,1,"
+",CB,Jeffrey,Barber,73,172
+(Jr),Man Coverage,3.0,3.0,Buffalo,0,3,14,0.0,0,0,0,1,1,"
+",CB,Charles,Beebe,74
+183,Sr,Zone Coverage,3.0,3.0,0,2018,1,2,0.0,0,0,0,1,0,"
+",CB,DeSean,Bell
+72,189,(Sr),Man Coverage,3.0,0.0,USC,2018,1,2,0,0,0,0,1,0,"
+",CB,Richard
+Benjamin,73,195,Jr,Man Coverage,26,4.0,Ohio,2018,7,0.0,0,0,0,0,5,0,"
+",CB
+Sean,Benson,70,178,(Jr),3,4.0,4.0,Georgia Tech,2018,8,0.0,0,0,0,0,3,0,"
+"
+CB,Willie,Berry,71,176,2018,Zone Coverage,2.5,3.5,USF,1,2,0.0,0,0,0,0,1,0
+"
+",CB,Kameron,Best,73,Oklahoma,(So),Man Coverage,4.0,4.0,2018,1,2,0.0,0,0,0,0,1
+0,"
+",CB,Cory,Betts,4.5,183,Jr,Man Coverage,4.0,Army,2018,1,6,0.0,0,0,0,0
+0,0,"
+",CB,Darryl,3.5,75,195,(Sr),Zone Coverage,3.5,Notre Dame,2018,1,3,0.0,0,0,0
+0,1,0,"
+",CB,Man Coverage,Bonner,70,175,(Jr),4.0,4.0,UCLA,2018,3,7,0.0,0,0
+0,0,3,1,"
+",(Sr),Cameron,Bowman,72,180,Man Coverage,4.5,4.5,Arizona,2018,5,24,0.0,0
+0,0,0,6,2,175,CB,Andrew,Boyd,70,So,Man Coverage,4.5,5.0,Boston College,2018,3,10,0.0
+0,0,0,0,4,73,"
+",CB,Jabari,Branch,197,Sr,Zone Coverage,4.5,4.5,Georgia,2018,2,6
+0.0,0,0,0,0,Brinkley,1,"
+",CB,Shane,69,196,(So),Man Coverage,2.0,4.5,Minnesota,2018,1
+2,0.0,0,0,0,Freddy,1,0,"
+",CB,Brown,71,147,(Sr),Zone Coverage,4.0,4.0,SMU,2018
+7,25,0.0,0,0,CB,0,6,2,"
+",Richard,Brown,70,201,(Jr),Man Coverage,4.0,4.0,Oklahoma
+2018,5,18,0.0,0,"
+",0,0,3,0,CB,Thomas,Brown,72,190,(Jr),Man Coverage,4.0,4.0
+Purdue,2018,1,2,0.0,0,0,0,0,1,"
+",CB,Elvis,Burks,69,162,So,Zone Coverage,1.5
+3.0,Louisiana Tech,2018,8,35,2,0,0,0,0,0,"
+",CB,Kristian,Calhoun,72,191,Jr,Man Coverage
+3.5,4.0,Utah,2018,5,0,0.0,0,0,0,4,0,"
+",CB,Logan,Carter,69,182,Fr
+Man Coverage,3.0,3.0,Wake Forest,2018,0,31,0.0,0,0,0,4,2,"
+",CB,James,Casillas,72,178
+(Jr),Zone Coverage,3.5,4.0,South Carolina,0,2,3,0.0,0,0,0,2,0,"
+",CB,Jairo,Cavazos,73
+204,Fr,Zone Coverage,2.5,2.5,0,2018,2,8,0.0,0,0,0,1,0,"
+",CB,Patrick,Chaney
+69,199,(So),Man Coverage,4.5,0.0,Purdue,2018,8,24,0,0,0,0,8,0,"
+",CB,Travis
+Charles,70,168,(So),Man Coverage,16,4.0,Georgia State,2018,4,0.0,0,0,0,0,3,0,"
+",CB
+Calvin,Chester,69,174,(So),4,2.5,3.5,Duke,2018,12,0.0,0,0,0,0,3,1,"
+"
+CB,Keith,Chisolm,68,188,2018,Zone Coverage,3.0,3.0,UAB,5,23,0.0,0,0,0,0,1,0
+"
+",CB,Terrell,Coates,69,Fresno State,(So),Zone Coverage,3.0,4.0,2018,1,2,0.0,0,0,0,0,1
+0,"
+",CB,Jeffrey,Colbert,4.0,160,(So),Zone Coverage,3.0,Texas Tech,2018,1,2,0.0,0,0,0,0
+1,0,"
+",CB,Dan,1.0,69,160,(Fr),Man Coverage,2.5,Old Dominion,2018,4,8,0.0,0,0,0
+0,4,2,"
+",CB,Man Coverage,Cooke,71,175,(Jr),4.0,4.0,Iowa,2018,3,8,0.0,0,0
+0,0,4,0,"
+",(Fr),Elias,Crawley,73,183,Man Coverage,2.0,3.5,TCU,2018,1,0,0.0,0
+0,0,0,1,0,188,CB,Spencer,Crowe,70,(Jr),Man Coverage,4.0,4.0,South Carolina,2018,3,11,0.0
+0,0,0,0,2,72,"
+",CB,Gabriel,Cunningham,163,Jr,Man Coverage,3.0,3.5,UCF,2018,1,3
+0.0,0,0,0,0,Cunningham,0,"
+",CB,Kyle,76,183,(Fr),Zone Coverage,2.0,5.0,Baylor,2018,6
+24,0.0,0,0,0,Matt,6,0,"
+",CB,Daniels,72,165,(Sr),Zone Coverage,3.0,3.0,San Diego State,2018
+1,5,0.0,0,0,CB,0,1,1,"
+",Noah,Davenport,71,169,(Sr),Man Coverage,3.0,3.0,Colorado
+2018,3,9,0.0,0,"
+",0,0,2,0,CB,Neal,Davis,72,180,Sr,Man Coverage,2.5,2.5
+Kansas State,2018,2,8,0.0,0,0,0,0,1,"
+",CB,Edward,Dixon,72,173,Sr,Zone Coverage,4.0
+4.0,North Carolina,2018,5,22,4,0,0,0,0,0,"
+",CB,Jaden,Dixon,71,172,So,Man Coverage
+2.0,4.0,Washington State,2018,1,0,0.0,0,0,0,0,0,"
+",CB,Matthew,Dixon,73,164,So
+Zone Coverage,3.0,3.0,Auburn,2018,0,0,0.0,0,0,0,1,0,"
+",CB,Malachi,Douglas,73,184
+(So),Zone Coverage,3.5,5.0,Clemson,0,4,15,0.0,0,0,0,4,1,"
+",CB,William,Doyle,71
+160,Sr,Zone Coverage,3.0,3.0,0,2018,1,1,0.0,0,0,0,1,0,"
+",CB,Devon,Drummond
+71,181,Sr,Man Coverage,5.0,0.0,Kansas,2018,3,15,0,0,0,0,3,0,"
+",CB,Oscar
+Dunn,73,194,Jr,Man Coverage,4,3.5,Auburn,2018,1,0.0,0,0,0,0,1,0,"
+",CB
+Xavier,Earl,70,192,So,4,2.5,3.0,NC State,2018,21,0.0,0,0,0,0,2,1,"
+"
+CB,Kasper,Einstein,70,190,2018,Zone Coverage,3.5,3.5,Northwestern,3,16,0.0,0,0,0,0,1,1
+"
+",CB,Wilbur,Ellis,69,Texas Tech,(Jr),Zone Coverage,3.5,4.0,2018,4,9,0.0,0,0,0,0,4
+0,"
+",CB,Jeremy,Evans,4.5,191,Jr,Zone Coverage,3.5,BYU,2018,5,21,0.0,0,0,0,0
+4,1,"
+",CB,Jonathon,1.0,73,180,(Fr),Zone Coverage,2.5,UNLV,2018,1,5,0.0,0,0,0
+0,0,0,"
+",CB,Zone Coverage,Freeman,73,167,(Fr),2.0,4.0,Michigan State,2018,4,12,0.0,0,0
+0,0,3,1,"
+",(So),Jasiah,Fulton,72,204,Man Coverage,3.0,3.0,Arkansas,2018,4,22,0.0,0
+0,0,0,2,1,184,CB,George,Gaffney,71,Sr,Zone Coverage,4.0,4.0,Florida,2018,5,20,0.0
+1,0,0,0,3,73,"
+",CB,Donald,Garcia,163,(Jr),Zone Coverage,4.0,4.5,Arizona State,2018,2,6
+0.0,0,0,0,0,Garcia,0,"
+",CB,John,71,170,(Jr),Man Coverage,2.5,2.5,Southern Miss,2018,1
+1,0.0,0,0,0,Ian,1,1,"
+",CB,Garner,72,199,Sr,Zone Coverage,5.0,5.0,Minnesota,2018
+8,27,0.0,0,0,CB,0,9,3,"
+",Wallace,Garner,71,184,Sr,Zone Coverage,3.5,3.5,SMU
+2018,1,3,0.0,0,"
+",0,0,1,1,CB,Edward,Gerber,72,175,(Jr),Zone Coverage,3.5,3.5
+Ole Miss,2018,1,4,0.0,0,0,0,0,1,"
+",CB,Myles,Giles,69,172,So,Man Coverage,2.0
+3.5,North Texas,2018,4,13,4,0,0,0,0,0,"
+",CB,Aaron,Glass,69,185,(Sr),Man Coverage
+3.0,3.0,Kentucky,2018,1,0,0.0,0,0,0,1,1,"
+",CB,Alexander,Glenn,73,175,Fr
+Man Coverage,1.0,3.5,Wake Forest,2018,0,5,0.0,0,0,0,2,1,"
+",CB,Darron,Goldson,70,216
+(Sr),Zone Coverage,3.5,3.5,Notre Dame,0,3,10,0.0,0,0,0,3,0,"
+",CB,Kevin,Gonzales,73
+168,Sr,Zone Coverage,3.0,3.0,0,2018,3,6,0.0,0,0,0,3,3,"
+",CB,Kenneth,Gordon
+71,182,(Fr),Zone Coverage,2.0,0.0,Connecticut,2018,1,2,0,0,0,0,1,0,"
+",CB,Adam
+Goss,73,222,(Sr),Man Coverage,29,4.0,Texas A&M,2018,7,0.0,0,0,0,0,5,0,"
+",CB
+David,Grant,73,163,So,1,1.0,2.5,UAB,2018,4,0.0,0,0,0,0,1,0,"
+"
+CB,Horace,Green,69,173,2018,Man Coverage,3.0,3.0,Central Michigan,4,13,0.0,0,0,0,0,3,1
+"
+",CB,Ronald,Green,70,Air Force,Sr,Zone Coverage,3.5,3.5,2018,1,1,0.0,0,0,0,0,1
+0,"
+",CB,Israel,Greer,4.5,192,Sr,Zone Coverage,4.5,Nevada,2018,4,12,0.0,0,0,0,0
+4,0,"
+",CB,Gregory,2.5,73,183,So,Zone Coverage,2.5,New Mexico,2018,1,4,0.0,0,0,0
+0,1,0,"
+",CB,Man Coverage,Hairston,69,190,(So),3.0,3.0,Northern Illinois,2018,1,3,0.0,0,0
+0,0,1,0,"
+",(Jr),Benny,Hall,72,172,Zone Coverage,3.5,3.5,Illinois,2018,1,6,0.0,0
+0,0,0,1,0,184,CB,Ronald,Hamilton,69,Sr,Man Coverage,3.0,3.0,Navy,2018,4,14,1.0
+0,0,0,0,3,71,"
+",CB,Cody,Hanna,196,(Sr),Man Coverage,4.0,4.0,Clemson,2018,4,19
+0.0,0,0,0,0,Harmon,0,"
+",CB,Fred,71,187,Sr,Man Coverage,3.0,3.0,Virginia Tech,2018,1
+7,0.0,0,0,0,Alex,0,0,"
+",CB,Hart,70,171,Jr,Zone Coverage,2.5,3.0,UTSA,2018
+3,10,0.0,0,0,CB,0,4,1,"
+",Kristian,Harvey,69,176,Jr,Man Coverage,4.0,4.0,Rutgers
+2018,1,6,0.0,0,"
+",0,0,0,0,CB,Aaron,Haskins,70,165,(So),Zone Coverage,2.5,3.5
+Michigan State,2018,1,4,0.0,0,0,0,0,1,"
+",CB,Kai,Hatcher,70,180,So,Man Coverage,2.5
+2.5,Buffalo,2018,1,2,1,0,0,0,0,0,"
+",CB,Adam,Haywood,72,196,Fr,Zone Coverage
+1.5,4.0,Toledo,2018,8,0,0.0,0,0,0,5,1,"
+",CB,Zach,Heller,75,200,(Sr)
+Man Coverage,3.0,3.0,Boise State,2018,0,18,0.0,0,0,0,2,0,"
+",CB,Michael,Hernandez,73,185
+(Jr),Man Coverage,4.0,4.5,Alabama,0,2,6,0.0,0,0,0,2,0,"
+",CB,William,Hernandez,74
+166,(Jr),Man Coverage,4.0,4.0,0,2018,1,3,0.0,0,0,0,1,0,"
+",CB,Curtis,Herrera
+70,169,(Fr),Man Coverage,1.0,0.0,Western Kentucky,2018,2,6,0,0,0,0,2,0,"
+",CB,Randy
+Herrington,71,200,Sr,Man Coverage,3,2.5,Boise State,2018,1,0.0,0,0,0,0,1,0,"
+",CB
+Evan,Hicks,71,201,(Fr),2,2.0,3.5,Colorado State,2018,6,0.0,0,0,0,0,2,1,"
+"
+CB,Matthew,Hicks,73,179,2018,Zone Coverage,3.0,3.0,Bowling Green,4,13,0.0,0,0,0,0,3,0
+"
+",CB,William,Hinton,73,Alabama,(Jr),Man Coverage,3.0,3.0,2018,1,1,0.0,0,0,0,0,1
+0,"
+",CB,Dashon,Hodge - Stevens,4.5,212,(Sr),Man Coverage,4.5,Virginia Tech,2018,8,47,0.0,0,0,0,0
+3,2,"
+",CB,Riley,2.0,71,164,So,Man Coverage,3.0,Arkansas,2018,1,1,0.0,0,0,0
+0,1,1,"
+",CB,Man Coverage,Holland,70,163,(Sr),4.5,4.5,Arizona,2018,1,4,0.0,0,0
+0,0,1,0,"
+",Sr,Eric,Houser,69,171,Man Coverage,4.5,4.5,San Jose State,2018,8,41,0.0,0
+0,0,0,3,0,174,CB,Sam,Houston,74,Sr,Man Coverage,3.0,3.0,Miami (FL),2018,1,0,0.0
+0,0,0,0,1,71,"
+",CB,Francis,Hutchins,175,Jr,Man Coverage,2.0,3.0,Southern Miss,2018,5,17
+0.0,0,0,0,0,Irwin,0,"
+",CB,Eric,73,177,Sr,Man Coverage,4.0,4.0,Louisville,2018,8
+31,0.0,0,0,0,Steve,6,1,"
+",CB,Jackson,73,163,Sr,Zone Coverage,3.0,3.0,Cincinnati,2018
+5,27,0.0,0,0,CB,0,0,0,"
+",Clement,Jennings,71,155,Sr,Zone Coverage,2.0,2.0,Tulane
+2018,1,1,0.0,0,"
+",0,0,1,1,CB,Gavin,Jennings,70,176,Fr,Zone Coverage,2.5,3.5
+Temple,2018,1,2,0.0,0,0,0,0,1,"
+",CB,Jayshawn,Johnson,73,225,(Sr),Zone Coverage,3.0
+3.0,Northwestern,2018,1,3,1,0,0,0,0,1,"
+",CB,Paul,Johnson,73,166,(Jr),Man Coverage
+3.0,3.0,Utah State,2018,5,0,0.0,0,0,0,2,1,"
+",CB,Vontae,Johnson,75,207,(Sr)
+Man Coverage,4.0,4.0,Stanford,2018,0,15,0.0,0,0,0,3,2,"
+",CB,Avery,Jones,72,164
+(So),Man Coverage,3.0,3.0,Louisville,0,1,3,0.0,0,0,0,1,0,"
+",CB,Jeffery,Jones,70
+174,Jr,Man Coverage,2.5,3.5,0,2018,2,7,0.0,0,0,0,2,1,"
+",CB,John,Lau
+70,188,(Jr),Man Coverage,2.0,0.0,Georgia State,2018,1,3,0,0,0,0,1,0,"
+",CB,Hunter
+Lawrence,70,176,(Sr),Zone Coverage,14,4.5,Colorado State,2018,3,0.0,0,0,0,0,2,0,"
+",CB
+Gary,Lee,74,188,(Jr),2,4.0,4.0,TCU,2018,7,0.0,0,0,0,0,1,1,"
+"
+CB,Keith,Lewis,69,168,2018,Man Coverage,2.0,3.0,Middle Tennessee,5,22,0.0,0,0,0,0,0,0
+"
+",CB,Richard,Lewis,73,USF,Sr,Man Coverage,4.5,4.5,2018,6,24,0.0,0,0,0,0,4
+1,"
+",CB,Joseph,Lind,4.0,190,Sr,Zone Coverage,4.0,Houston,2018,4,9,0.0,0,0,0,0
+4,0,"
+",CB,Jacob,3.0,70,167,Sr,Man Coverage,3.0,Memphis,2018,6,25,0.0,0,0,0
+1,2,1,"
+",CB,Man Coverage,Little,69,204,(So),3.5,4.5,Michigan,2018,3,13,0.0,0,0
+0,0,2,1,"
+",(Jr),Wayne,Lopez,71,173,Zone Coverage,2.5,2.5,San Jose State,2018,1,2,0.0,0
+0,0,0,1,0,174,CB,Jasiah,Lundy,73,So,Man Coverage,2.5,3.5,Oklahoma State,2018,5,18,0.0
+0,0,0,0,2,73,"
+",CB,Jeffrey,Lutz,188,Sr,Zone Coverage,3.5,3.5,Kent State,2018,3,17
+0.0,0,0,0,0,Malone,0,"
+",CB,Eugene,72,190,(Jr),Man Coverage,5.0,5.0,LSU,2018,2
+7,0.0,0,0,0,Thomas,3,0,"
+",CB,Marino,71,188,Sr,Man Coverage,3.0,3.0,Rice,2018
+4,15,0.0,0,0,CB,0,4,1,"
+",Cameron,Marshall,73,170,So,Zone Coverage,4.5,5.0,Penn State
+2018,4,11,0.0,0,"
+",0,1,3,0,CB,Troy,Marshall,73,163,(Sr),Zone Coverage,5.0,5.0
+Texas,2018,8,25,0.0,2,0,0,0,10,"
+",CB,Gerald,McCall,71,183,(Jr),Zone Coverage,3.5
+3.5,Oregon State,2018,1,1,1,0,0,0,0,0,"
+",CB,Issac,McCullough,71,182,Sr,Zone Coverage
+3.0,3.0,Hawaii,2018,2,0,0.0,0,0,0,2,0,"
+",CB,Benjamin,McGee,69,202,(Fr)
+Zone Coverage,2.5,4.0,Wisconsin,2018,0,2,0.0,0,0,0,1,0,"
+",CB,Benjamin,McNeil,73,167
+(Jr),Man Coverage,4.0,4.0,Florida State,0,6,25,0.0,0,0,0,5,1,"
+",CB,Jaylin,McQueen,70
+189,Fr,Man Coverage,2.5,4.0,0,2018,1,2,0.0,0,0,0,1,0,"
+",CB,Kevin,McQueen
+71,176,(So),Man Coverage,4.0,0.5,UCF,2018,7,28,0,0,0,0,3,0,"
+",CB,Daniel
+Mendoza,73,180,(Jr),Man Coverage,23,3.5,Eastern Michigan,2018,6,0.0,0,0,0,0,3,0,"
+",CB
+Thomas,Mims,71,193,(So),7,4.0,4.0,Auburn,2018,29,0.0,0,0,0,0,6,0,"
+"
+CB,Patrick,Mitchell,69,163,2018,Zone Coverage,5.0,5.0,San Diego State,8,36,0.0,0,0,0,0,6,2
+"
+",CB,Jacory,Mixon,70,California,Jr,Zone Coverage,2.5,2.5,2018,1,1,0.0,0,0,0,0,1
+0,"
+",CB,Donald,Montgomery,3.0,180,Jr,Man Coverage,3.0,Miami (OH),2018,3,4,0.0,0,0,0,0
+3,2,"
+",CB,Mahamadou,1.5,69,187,So,Zone Coverage,3.0,West Virginia,2018,1,4,0.0,0,0,0
+0,1,0,"
+",CB,Man Coverage,Morris,70,158,(Sr),3.5,3.5,Northern Illinois,2018,3,10,0.0,0,0
+0,0,2,1,"
+",Fr,Miles,Myrick,69,182,Man Coverage,2.5,2.5,Maryland,2018,3,5,0.0,0
+0,0,0,3,0,178,CB,Dana,Nance,73,Sr,Zone Coverage,4.0,4.0,Michigan State,2018,5,19,0.0
+0,0,0,0,4,71,"
+",CB,Arthur,Nelson,195,Sr,Man Coverage,4.0,4.0,Hawaii,2018,2,8
+0.0,0,0,0,0,Newman,1,"
+",CB,Michael,73,185,Jr,Zone Coverage,3.5,3.5,Ohio,2018,1
+2,0.0,0,0,0,Bradley,1,0,"
+",CB,Nunn,69,165,(So),Man Coverage,3.5,4.5,Syracuse,2018
+5,21,0.0,0,0,CB,0,2,0,"
+",James,Ortiz,70,195,(Jr),Man Coverage,4.0,4.0,Kentucky
+2018,3,7,0.0,0,"
+",0,0,3,1,CB,Bryan,Parry,73,187,So,Man Coverage,1.5,3.0
+UNLV,2018,3,9,0.0,0,0,0,0,3,"
+",CB,Demetrius,Patterson,73,225,(Sr),Zone Coverage,4.0
+4.0,Texas,2018,4,20,4,0,0,0,0,2,"
+",CB,Thomas,Patterson,71,184,(Sr),Man Coverage
+5.0,5.0,Mississippi State,2018,5,0,0.0,0,0,0,7,1,"
+",CB,William,Patterson,72,190,(Sr)
+Man Coverage,4.0,4.0,Iowa,2018,0,14,0.0,0,0,0,3,1,"
+",CB,Ronnie,Peters,71,185
+(Jr),Zone Coverage,4.0,4.0,Washington,0,2,5,0.0,0,0,0,2,1,"
+",CB,Howard,Phillips,68
+156,Jr,Man Coverage,1.5,2.5,0,2018,1,5,0.0,0,0,0,0,0,"
+",CB,Edward,Rangel
+74,180,(Fr),Zone Coverage,1.0,0.0,Western Kentucky,2018,3,19,0,0,0,0,0,0,"
+",CB,Myles
+Ransom,72,184,(So),Man Coverage,6,3.0,Virginia,2018,1,0.0,0,0,0,0,0,0,"
+",CB
+Abdoulaye,Reaves,73,188,(Fr),1,2.0,4.0,New Mexico,2018,2,0.0,0,0,0,0,1,0,"
+"
+CB,Kevin,Reed,72,181,2018,Zone Coverage,3.5,3.5,Oregon State,2,5,0.0,0,0,0,0,2,1
+"
+",CB,Shawn,Rhoades,73,Oregon,Sr,Zone Coverage,4.0,4.0,2018,2,6,0.0,0,0,0,0,2
+0,"
+",CB,Donald,Richardson,3.5,181,(Jr),Man Coverage,3.5,Iowa State,2018,1,0,0.0,0,0,0,0
+1,1,"
+",CB,Tyrone,3.0,73,170,(Sr),Man Coverage,3.0,Duke,2018,1,5,0.0,0,0,0
+0,0,0,"
+",CB,Zone Coverage,Roberson,72,194,Fr,3.0,3.0,Tulane,2018,2,6,0.0,0,0
+0,0,1,0,"
+",Sr,Jose,Roberts,73,175,Zone Coverage,2.5,2.5,New Mexico,2018,2,5,0.0,0
+0,0,0,2,0,172,CB,Richard,Roberts,74,(So),Man Coverage,2.5,3.0,Kent State,2018,2,10,0.0
+0,0,0,0,0,73,"
+",CB,David,Ross,195,(Jr),Zone Coverage,3.0,3.0,North Carolina,2018,2,9
+0.0,0,0,0,0,Rouse,1,"
+",CB,Justin,72,204,Jr,Man Coverage,2.5,4.0,Akron,2018,4
+18,0.0,0,0,0,Darren,3,0,"
+",CB,Ruffin,70,165,(Sr),Man Coverage,4.5,4.5,Army,2018
+7,38,0.0,0,0,CB,0,2,0,"
+",Lawrence,Russo,73,179,Sr,Man Coverage,2.0,2.0,FIU
+2018,7,31,0.0,0,"
+",0,0,2,1,CB,Jonathan,Salter,72,192,(So),Zone Coverage,3.5,4.0
+Illinois,2018,3,7,0.0,1,0,0,0,3,"
+",CB,Donald,Scott,74,200,(Jr),Man Coverage,3.5
+3.5,Washington State,2018,5,17,4,0,0,0,0,0,"
+",CB,Travis,Seay,70,175,(So),Zone Coverage
+3.5,3.5,SMU,2018,1,0,0.0,0,0,0,1,0,"
+",CB,John,Shaw,69,186,Sr
+Zone Coverage,3.5,3.5,Houston,2018,0,3,0.0,0,0,0,2,0,"
+",CB,Samuel,Shaw,72,180
+(Jr),Zone Coverage,3.5,4.5,Nebraska,0,6,21,0.0,0,0,0,5,1,"
+",CB,Austin,Sheppard,73
+188,(So),Zone Coverage,3.0,4.5,0,2018,1,0,0.0,0,0,0,1,1,"
+",CB,Derrick,Sheppard
+70,164,(Fr),Zone Coverage,3.0,0.0,Virginia,2018,6,29,0,0,0,0,4,0,"
+",CB,Jose
+Simpson,74,189,(Jr),Zone Coverage,1,3.0,Baylor,2018,1,0.0,0,0,0,0,1,0,"
+",CB
+Donovan,Singleton - Blake,70,199,Fr,2,2.0,4.5,USC,2018,4,0.0,0,0,0,0,2,0,"
+"
+CB,King,Smith,73,165,2018,Zone Coverage,2.5,2.5,Northern Illinois,2,2,0.0,0,0,0,0,2,1
+"
+",CB,Rey,Solis,69,Tulane,(Fr),Zone Coverage,2.0,3.0,2018,2,10,0.0,0,0,0,0,0
+0,"
+",CB,Isaiah,Spivey,3.0,186,Jr,Zone Coverage,3.0,California,2018,3,8,0.0,0,0,0,0
+3,0,"
+",CB,Bradley,3.0,70,188,Fr,Man Coverage,4.5,Kansas,2018,1,5,0.0,0,0,0
+0,1,0,"
+",CB,Man Coverage,Stanford,69,194,Jr,4.0,4.0,Rutgers,2018,6,25,0.0,0,0
+0,0,4,1,"
+",Jr,Jahmir,Staples,71,199,Man Coverage,3.0,3.0,Tennessee,2018,2,5,0.0,0
+0,0,0,2,0,187,CB,Jeremy,Starks,70,Jr,Man Coverage,4.0,4.5,Missouri,2018,6,18,0.0
+0,0,0,0,5,71,"
+",CB,John,Stein,176,So,Man Coverage,2.0,3.0,Tulsa,2018,2,5
+0.0,0,0,0,0,Stiles,0,"
+",CB,Aaron,71,180,(Jr),Man Coverage,4.5,5.0,Tennessee,2018,9
+36,0.0,0,0,0,Demetrius,8,0,"
+",CB,Still,72,162,(Sr),Zone Coverage,4.5,4.5,LSU,2018
+2,5,0.0,0,0,CB,0,2,1,"
+",Nigel,Strong,72,166,(So),Zone Coverage,3.0,4.5,Arizona State
+2018,1,5,0.0,0,"
+",0,0,0,0,CB,Javon,Sutton,73,201,So,Man Coverage,3.0,3.0
+Ball State,2018,3,14,0.0,0,0,0,0,1,"
+",CB,Gene,Swain,72,210,(Sr),Man Coverage,4.0
+4.0,Ole Miss,2018,4,16,4,0,0,0,0,0,"
+",CB,Thomas,Sykes,69,172,Sr,Zone Coverage
+3.5,3.5,Wisconsin,2018,2,0,0.0,0,0,0,2,1,"
+",CB,Rocky,Sylvester,71,176,(Sr)
+Man Coverage,3.5,3.5,Navy,2018,0,10,0.0,0,0,0,3,0,"
+",CB,Lewis,Tanner,70,166
+(Fr),Man Coverage,1.5,2.5,UTEP,0,7,26,0.0,0,0,0,3,1,"
+",CB,Don,Taylor,71
+172,Sr,Man Coverage,2.5,2.5,0,2018,2,4,0.0,0,0,0,2,0,"
+",CB,Frank,Taylor
+68,177,Jr,Man Coverage,3.5,1.0,Wyoming,2018,4,17,0,0,0,0,0,0,"
+",CB,Sean
+Taylor,73,193,(Fr),Man Coverage,14,4.0,Florida State,2018,3,0.0,0,0,0,0,4,3,"
+",CB
+Sean,Taylor,69,193,(Fr),5,2.5,5.0,Western Michigan,2018,15,0.0,0,0,0,0,6,3,"
+"
+CB,John,Teague,69,184,2018,Zone Coverage,3.0,3.0,Northwestern,1,5,0.0,0,0,0,0,0,0
+"
+",CB,Eloy,Thacker,73,Louisiana Tech,Jr,Man Coverage,1.5,2.5,2018,1,5,0.0,0,0,0,0,0
+0,"
+",CB,Tommy,Thompson,4.0,174,Sr,Zone Coverage,4.0,Marshall,2018,4,14,0.0,0,0,0,1
+3,0,"
+",CB,Jabari,2.5,70,162,(So),Zone Coverage,4.5,USC,2018,5,22,0.0,0,0,0
+0,4,0,"
+",CB,Zone Coverage,Tolbert,72,161,(Sr),4.0,4.0,Washington,2018,3,17,0.0,0,0
+0,0,1,0,"
+",(Fr),David,Tolliver,70,165,Man Coverage,3.0,4.0,Iowa State,2018,9,32,0.0,0
+0,0,0,7,2,171,CB,Brian,Townsend,70,(Sr),Man Coverage,2.5,2.5,Connecticut,2018,1,3,0.0
+0,0,0,0,1,73,"
+",CB,Thomas,Trujillo,189,(Sr),Man Coverage,3.5,3.5,Fresno State,2018,3,16
+0.0,0,0,0,0,Tucker,0,"
+",CB,Jordan,73,171,So,Zone Coverage,2.5,3.5,Vanderbilt,2018,1
+1,0.0,0,0,0,Blake,1,0,"
+",CB,Turner,75,176,Jr,Man Coverage,5.0,5.0,Ohio State,2018
+7,37,0.0,0,0,CB,0,2,1,"
+",Michael,Turner,74,181,Sr,Man Coverage,3.0,3.0,Kentucky
+2018,3,11,0.0,0,"
+",0,0,2,1,CB,Ernie,Urban,71,173,(Jr),Zone Coverage,4.0,4.0
+Wisconsin,2018,3,11,0.0,0,0,0,0,2,"
+",CB,Fred,Valentin,73,164,Jr,Zone Coverage,1.5
+2.0,Old Dominion,2018,5,23,2,0,0,0,0,0,"
+",CB,Miguel,Varela,72,191,Sr,Man Coverage
+4.0,4.0,Penn State,2018,1,0,0.0,0,0,0,1,1,"
+",CB,Jay,Wade,70,211,(Sr)
+Zone Coverage,5.0,5.0,Alabama,2018,0,5,0.0,0,0,0,3,0,"
+",CB,Paul,Wallace,71,173
+Sr,Zone Coverage,3.5,3.5,Arizona State,0,1,4,0.0,0,0,0,1,0,"
+",CB,Zachary,Waller,70
+187,(Fr),Zone Coverage,2.5,4.0,0,2018,1,0,0.0,0,0,0,1,0,"
+",CB,John,Warren
+73,197,(Sr),Man Coverage,2.5,0.0,Tulsa,2018,3,10,0,0,0,0,2,1,"
+",CB,Tomas
+Weathers,71,181,(Jr),Man Coverage,11,4.5,Colorado,2018,4,0.0,0,0,0,0,4,0,"
+",CB
+Ben,Weber,75,161,(Sr),1,3.5,3.5,UCLA,2018,2,0.0,0,0,0,0,1,0,"
+"
+CB,Jack,Weisensee,72,167,2018,Man Coverage,3.5,4.0,West Virginia,5,21,0.0,0,0,0,0,4,0
+"
+",CB,Jonathan,White,71,Nebraska,Sr,Man Coverage,4.0,4.0,2018,1,4,0.0,0,0,0,0,1
+0,"
+",CB,Michael,Wilkerson,4.5,187,Sr,Zone Coverage,4.5,Vanderbilt,2018,1,4,0.0,0,0,0,0
+1,0,"
+",CB,Jayden,3.0,73,198,So,Man Coverage,3.0,Mississippi State,2018,1,2,0.0,0,0,0
+0,1,0,"
+",CB,Zone Coverage,William,72,173,(So),4.0,4.0,Pittsburgh,2018,3,14,0.0,0,0
+0,0,2,1,"
+",Sr,Ahmad,Williams,72,168,Man Coverage,3.0,3.0,Kansas State,2018,5,25,0.0,0
+0,0,0,0,0,183,CB,Prince,Williams,73,(So),Zone Coverage,3.5,4.5,Air Force,2018,7,36,0.0
+0,0,0,0,3,70,"
+",CB,Carmelo,Wilson,201,(Jr),Zone Coverage,2.5,3.0,Clemson,2018,1,3
+0.0,0,0,0,0,Wilson,0,"
+",CB,Oscar,69,195,Sr,Zone Coverage,3.5,3.5,Indiana,2018,1
+3,0.0,0,0,0,Chris,1,0,"
+",CB,Witt,74,165,(Jr),Zone Coverage,3.5,3.5,Miami (OH),2018
+4,16,0.0,0,0,CB,0,2,0,"
+",Julian,Woods,71,168,Fr,Man Coverage,3.0,4.0,Texas A&M
+2018,2,6,0.0,0,"
+",0,0,2,1,CB,Nathaniel,Woodworth,70,174,(Jr),Man Coverage,4.5,4.5
+Miami (FL),2018,10,42,0.5,3,0,0,0,8,"
+",CB,Tom,Wyman,70,180,(So),Man Coverage,3.5
+5.0,TCU,2018,5,20,4,0,0,0,0,2,"
+",CB,Noah,Yancey,71,197,Fr,Man Coverage
+2.0,3.0,North Texas,2018,4,0,0.0,0,0,0,2,0,"
+",CB,Fred,Young,74,181,(Jr)
+Man Coverage,4.0,4.5,Michigan,2018,0,9,0.0,0,0,0,1,0,"
+",DE,James,Acosta,78,280
+(Sr),Run Stop,4.0,4.0,Minnesota,0,3,11,2.5,0,0,0,0,0,"
+",DE,Gustavo,Adcock,75
+271,(Sr),Pass Stop,4.5,4.5,0,2018,3,12,4.5,0,0,0,0,0,"
+",DE,George,Alexander
+80,250,(Sr),Pass Stop,4.5,6.0,Maryland,2018,5,19,0,0,0,0,0,0,"
+",DE,Zachary
+Allen,74,250,(So),Pass Stop,7,3.5,Duke,2018,2,1.0,0,0,0,0,0,0,"
+",DE
+Charles,Anderson,75,245,(Jr),7,4.0,4.0,BYU,2018,27,8.0,0,0,0,0,0,0,"
+"
+DE,Chad,Armstrong,73,247,2018,Pass Stop,3.5,3.5,Florida State,2,6,2.5,0,0,0,0,0,0
+"
+",DE,Cameron,Arrington,75,Utah State,So,Pass Stop,1.5,3.5,2018,5,24,1.0,0,0,0,0,0
+0,"
+",DE,Samuel,Barnes,3.0,258,Sr,Run Stop,3.0,Western Michigan,2018,1,1,1.0,0,0,0,0
+0,0,"
+",DE,Benny,2.5,78,256,(So),Pass Stop,3.5,Ohio,2018,1,3,1.0,0,0,0
+0,0,0,"
+",DE,Pass Stop,Batista,70,268,(So),2.5,3.5,Virginia Tech,2018,1,4,0.5,0,0
+0,0,0,0,"
+",(Sr),James,Bellamy,74,260,Pass Stop,3.0,3.0,Marshall,2018,2,7,1.0,0
+0,0,0,0,0,235,DE,Lucas,Benton,70,(Fr),Pass Stop,3.5,4.5,Michigan,2018,2,5,1.0
+1,0,0,0,0,73,"
+",DE,Julius,Blackmon,267,(So),Pass Stop,3.5,3.5,SMU,2018,3,12
+2.5,0,0,0,0,Blanton,0,"
+",DE,Mel,72,256,(Jr),Run Stop,3.5,3.5,Air Force,2018,1
+6,0.0,0,0,0,Samuel,0,0,"
+",DE,Blodgett,75,266,(Sr),Pass Stop,2.0,2.0,Buffalo,2018
+6,12,3.5,0,0,DE,0,0,0,"
+",Justin,Bowden,73,236,So,Pass Stop,2.0,3.0,North Texas
+2018,2,6,0.0,0,"
+",0,0,1,0,DE,Jonathan,Bridges,78,267,Sr,Run Stop,4.5,4.5
+Penn State,2018,1,5,1.5,0,0,0,0,0,"
+",DE,Curt,Brown,79,254,(Sr),Pass Stop,3.5
+3.5,Northwestern,2018,2,7,0,0,0,0,0,0,"
+",DE,Robert,Brown,72,248,Sr,Pass Stop
+3.0,3.0,NC State,2018,4,0,4.0,0,0,0,0,0,"
+",DE,Michael,Bruce,80,252,(Sr)
+Pass Stop,4.5,4.5,Texas Tech,2018,0,19,8.5,0,0,0,0,0,"
+",DE,George,Calvert,74,267
+(Jr),Pass Stop,4.5,4.5,Minnesota,0,4,14,5.0,0,0,0,0,0,"
+",DE,Sterling,Campbell,74
+259,Sr,Pass Stop,3.0,3.0,0,2018,2,6,1.0,0,1,1,0,1,"
+",DE,Ethan,Carr
+73,261,Jr,Run Stop,2.5,1.0,Navy,2018,1,2,0,0,0,0,0,0,"
+",DE,Jordy
+Carrera,73,243,(Fr),Pass Stop,4,3.5,Colorado,2018,2,1.0,0,0,1,0,0,0,"
+",DE
+James,Carter,73,255,(Jr),3,4.5,4.5,Air Force,2018,13,2.0,0,0,0,0,0,0,"
+"
+DE,Ivan,Castle,72,254,2018,Pass Stop,3.5,4.0,Clemson,2,8,0.5,0,0,0,0,0,0
+"
+",DE,James,Chase,73,Maryland,(Jr),Pass Stop,3.5,3.5,2018,1,5,0.0,0,0,1,0,0
+0,"
+",DE,Clifton,Chong,4.0,254,(Sr),Pass Stop,4.0,Wisconsin,2018,1,2,1.5,0,0,0,0
+0,0,"
+",DE,Jeffrey,5.0,76,272,(Sr),Pass Stop,5.0,Alabama,2018,8,29,10.5,0,0,1
+2,0,0,"
+",DE,Run Stop,Clark,79,266,(Fr),1.0,2.5,UTSA,2018,4,15,1.0,0,0
+0,0,0,0,"
+",Sr,Frederick,Clark,73,237,Pass Stop,3.0,3.0,Rutgers,2018,4,13,2.5,0
+0,0,0,0,0,263,DE,Marlon,Clay,71,(So),Pass Stop,3.5,3.5,Hawaii,2018,7,18,7.0
+0,0,1,0,1,73,"
+",DE,Isiah,Clinton,252,So,Pass Stop,2.0,3.0,UCF,2018,1,2
+1.0,0,0,0,0,Collins,0,"
+",DE,Cameron,78,261,Jr,Pass Stop,1.5,2.5,FAU,2018,5
+12,4.0,0,0,0,Thomas,0,0,"
+",DE,Conley,76,263,(Sr),Pass Stop,4.5,4.5,Missouri,2018
+4,17,5.5,0,0,DE,0,0,0,"
+",Cesar,Connolly,72,248,Sr,Pass Stop,3.0,3.0,Oklahoma State
+2018,2,8,2.5,0,"
+",0,0,0,0,DE,Donald,Craig,78,250,(Sr),Run Stop,4.0,4.0
+Texas A&M,2018,5,20,5.0,0,0,0,0,0,"
+",DE,Gavin,Crockett,71,263,(Fr),Pass Stop,3.0
+3.5,Miami (FL),2018,4,17,0,0,0,0,1,0,"
+",DE,Rick,Cross,74,254,(Jr),Run Stop
+3.5,3.5,Washington,2018,1,0,0.5,0,0,0,0,0,"
+",DE,Declan,Culver,72,256,Jr
+Run Stop,3.0,4.0,Boise State,2018,0,4,0.0,0,0,0,0,0,"
+",DE,Early,Davis,75,259
+(Jr),Run Stop,5.0,5.0,Georgia,0,9,31,13.5,0,0,0,1,0,"
+",DE,Matthew,Davis,73
+269,(Jr),Run Stop,4.5,4.5,0,2018,3,11,4.5,0,0,0,0,0,"
+",DE,Jacob,Dennison
+74,250,Fr,Run Stop,3.0,2.0,Kent State,2018,3,15,0,0,0,0,0,0,"
+",DE,Henry
+Dias,75,273,Sr,Run Stop,22,3.0,Fresno State,2018,5,3.0,0,0,0,0,0,0,"
+",DE
+Harry,Dickerson,75,254,Sr,3,2.5,2.5,Cincinnati,2018,11,1.0,0,0,0,0,0,0,"
+"
+DE,Russell,Dixon,79,259,2018,Pass Stop,4.5,4.5,Georgia,5,18,10.0,0,0,0,0,0,0
+"
+",DE,Samir,Dixon,70,Stanford,Jr,Pass Stop,2.5,4.0,2018,5,19,4.5,0,0,0,0,0
+0,"
+",DE,Curtis,Dunn,4.5,260,(Fr),Run Stop,3.0,Louisiana Tech,2018,6,19,5.0,0,0,0,0
+0,0,"
+",DE,Jairo,3.0,75,258,(So),Pass Stop,3.0,New Mexico,2018,2,7,1.0,0,0,0
+0,0,0,"
+",DE,Pass Stop,Farr,75,272,(Sr),4.5,4.5,Kansas,2018,2,8,1.0,0,0
+0,0,0,0,"
+",(So),Arturo,Feliciano,75,237,Pass Stop,3.0,4.0,Texas Tech,2018,2,5,2.0,0
+0,0,0,0,0,251,DE,Josh,Fenton,72,(So),Run Stop,3.0,4.0,Georgia Tech,2018,2,6,3.0
+0,0,0,0,0,75,"
+",DE,Ricardo,Fernandez,237,Fr,Pass Stop,2.0,3.5,Indiana,2018,1,4
+0.5,0,0,0,0,Ferris,0,"
+",DE,Edward,78,256,(Sr),Pass Stop,3.5,3.5,Washington,2018,2
+7,2.0,0,0,0,James,0,0,"
+",DE,Finney,75,293,Sr,Pass Stop,4.5,4.5,Ball State,2018
+5,18,7.5,0,0,DE,0,0,0,"
+",Luis,Flanagan,79,266,Jr,Pass Stop,1.5,2.5,FIU
+2018,2,10,0.0,0,"
+",0,0,0,0,DE,Joe,Flores,74,253,(Jr),Pass Stop,3.5,4.0
+UNLV,2018,1,2,1.0,0,0,0,0,0,"
+",DE,Dexter,Flowers,73,265,Jr,Pass Stop,4.5
+5.0,Southern Miss,2018,4,14,0,0,0,0,0,0,"
+",DE,Charles,Fowler,74,250,(Jr),Pass Stop
+3.5,4.5,Oregon State,2018,7,0,6.5,0,0,0,0,0,"
+",DE,Edwin,Frederick,77,257,(Sr)
+Pass Stop,2.5,2.5,Temple,2018,0,9,0.5,0,0,0,0,0,"
+",DE,Robert,Fulton,72,266
+(Jr),Run Stop,5.0,5.0,LSU,0,9,26,13.0,0,0,0,0,0,"
+",DE,Eric,Gaddy,74
+242,(Jr),Pass Stop,3.0,3.0,0,2018,1,5,1.0,0,0,0,0,0,"
+",DE,Lamont,Garcia
+80,254,(So),Run Stop,3.5,4.0,Northern Illinois,2018,6,26,1,0,0,0,0,0,"
+",DE,Michael
+Garcia,78,279,Sr,Run Stop,22,3.5,Kent State,2018,7,4.5,0,0,1,1,0,0,"
+",DE
+Frank,Gates,78,253,Sr,3,3.0,3.0,Eastern Michigan,2018,13,1.5,0,0,0,0,0,0,"
+"
+DE,DeSean,Gay,73,240,2018,Run Stop,3.0,3.0,Northwestern,6,22,4.5,0,0,0,0,0,0
+"
+",DE,Richard,Gonzalez,79,Colorado,(Sr),Pass Stop,4.5,4.5,2018,2,9,1.0,0,0,0,0,0
+0,"
+",DE,Jonathan,Goodwin,5.0,246,Sr,Pass Stop,5.0,Utah,2018,6,12,8.5,0,0,0,0
+0,0,"
+",DE,Donald,3.0,75,245,(Jr),Run Stop,4.0,Arizona,2018,2,7,2.0,0,0,0
+0,0,0,"
+",DE,Pass Stop,Goss,75,257,(Jr),4.5,4.5,Oklahoma,2018,1,4,0.0,0,0
+1,1,0,0,"
+",(Jr),Billy,Green,73,241,Run Stop,2.5,2.5,Wyoming,2018,1,2,1.0,0
+0,0,0,0,0,262,DE,Russell,Greer,73,(Jr),Run Stop,4.0,4.0,Oklahoma,2018,4,20,2.5
+0,0,0,0,0,76,"
+",DE,Tyler,Griggs,275,(Sr),Pass Stop,3.0,3.0,ECU,2018,1,5
+1.0,0,0,0,0,Grove,0,"
+",DE,Robert,74,245,Sr,Run Stop,4.0,4.0,Ohio State,2018,4
+13,5.5,0,0,0,Graham,0,0,"
+",DE,Grubb,74,248,Jr,Run Stop,3.0,3.0,UAB,2018
+8,23,6.0,0,0,DE,0,0,0,"
+",Joseph,Hackett,74,259,Sr,Run Stop,3.5,4.0,BYU
+2018,2,7,2.5,0,"
+",0,0,0,0,DE,Isaiah,Hall,74,246,Jr,Run Stop,4.5,5.0
+Bowling Green,2018,7,31,4.5,0,0,0,0,0,"
+",DE,Abdoulaye,Hannah,72,244,Fr,Pass Stop,1.0
+4.5,Navy,2018,3,9,0,0,0,0,0,0,"
+",DE,Josiah,Harden,75,249,So,Pass Stop
+4.5,5.0,North Carolina,2018,7,0,11.0,0,0,0,0,0,"
+",DE,Ronald,Harris,75,251,(Sr)
+Run Stop,4.0,4.0,UCLA,2018,0,19,11.0,1,0,0,0,0,"
+",DE,Richard,Hebert,73,249
+(Jr),Pass Stop,4.0,4.0,Ohio State,0,2,5,2.5,0,0,0,0,0,"
+",DE,Stephen,High,75
+260,(Fr),Pass Stop,2.0,4.0,0,2018,4,14,2.5,0,0,0,0,0,"
+",DE,Vernon,Hill
+79,241,(Jr),Run Stop,1.0,0.5,Central Michigan,2018,3,10,0,0,0,0,0,0,"
+",DE,Jabari
+Hilliard,73,270,So,Run Stop,8,3.0,Miami (OH),2018,2,1.0,0,0,0,0,0,0,"
+",DE
+Jeffery,Hilliard,79,275,(Jr),3,2.5,3.0,FIU,2018,12,4.0,0,0,0,0,0,0,"
+"
+DE,Raymond,Hodge,74,252,2018,Pass Stop,2.5,3.5,Northern Illinois,2,12,0.0,0,0,0,0,0,0
+"
+",DE,Lowell,Holt,77,Notre Dame,(Sr),Pass Stop,4.0,4.0,2018,4,15,3.5,0,0,0,0,0
+0,"
+",DE,Willis,Hsu,3.0,272,(Jr),Run Stop,3.0,Tulane,2018,4,12,2.5,0,0,0,0
+0,0,"
+",DE,Louis,2.0,75,250,(Jr),Pass Stop,2.0,Akron,2018,3,11,1.0,0,0,1
+0,0,0,"
+",DE,Pass Stop,Hunter - Butler,70,269,So,2.0,3.0,Arkansas,2018,1,10,0.0,0,0
+0,0,0,0,"
+",Sr,Michael,Irving,74,259,Pass Stop,3.0,3.0,Oklahoma State,2018,2,8,0.5,0
+0,0,0,0,0,266,DE,Daniel,Jackson,79,Sr,Run Stop,2.0,2.5,Tulsa,2018,2,8,1.0
+0,0,0,0,0,80,"
+",DE,Sergio,James,257,Sr,Pass Stop,2.5,2.5,North Texas,2018,3,11
+1.5,0,0,0,0,Jennings,0,"
+",DE,Benjamin,74,243,Jr,Pass Stop,3.0,3.0,Virginia Tech,2018,3
+11,2.5,0,0,0,Eric,0,0,"
+",DE,Jennings,75,259,Jr,Pass Stop,5.0,5.0,Oregon,2018
+9,28,10.5,0,0,DE,1,0,1,"
+",Alfred,Johnson,80,250,(Fr),Run Stop,1.0,1.5,UTEP
+2018,1,2,0.5,0,"
+",0,0,0,0,DE,Damian,Johnson,75,241,(Sr),Pass Stop,4.0,4.0
+Duke,2018,3,11,4.5,0,0,0,0,0,"
+",DE,Luther,Johnson,80,270,Jr,Run Stop,2.5
+3.5,UAB,2018,1,4,0,0,0,0,0,0,"
+",DE,John,Jones,80,268,(Sr),Run Stop
+4.0,4.0,West Virginia,2018,7,1,9.5,0,0,0,0,0,"
+",DE,Tyler,Jones,73,257,Jr
+Run Stop,4.0,5.0,Mississippi State,2018,1,25,15.5,0,0,2,1,1,"
+",DE,Jaylen,Jordan,74,240
+(So),Pass Stop,3.5,4.0,Arizona State,0,3,14,1.5,0,0,0,0,0,"
+",DE,David,Kelley,76
+256,(So),Pass Stop,1.5,3.0,0,2018,5,13,2.5,0,1,0,0,0,"
+",DE,Chance,Kemp
+73,248,Fr,Run Stop,2.5,2.5,San Diego State,2018,3,7,0,0,0,0,0,0,"
+",DE,Timothy
+Kern,74,250,So,Pass Stop,2,3.0,Utah State,2018,1,1.0,0,0,0,0,0,0,"
+",DE
+Timothy,Key,74,240,Fr,1,1.0,5.0,Florida,2018,2,1.0,0,0,0,0,0,0,"
+"
+DE,Ilan,Kuhn,71,261,2018,Pass Stop,3.0,4.5,USC,3,11,4.0,0,0,0,0,0,0
+"
+",DE,Micah,Lankford,72,Middle Tennessee,Jr,Pass Stop,3.5,3.5,2018,3,9,4.0,0,0,0,0,0
+0,"
+",DE,Bobby,LeBlanc,3.5,266,Jr,Run Stop,3.5,Colorado State,2018,2,5,2.0,0,0,0,0
+0,0,"
+",DE,Mark,3.5,73,251,(Jr),Pass Stop,3.5,Virginia,2018,1,2,1.0,0,0,0
+0,0,0,"
+",DE,Run Stop,Lindsey,73,266,So,2.0,3.5,Utah State,2018,2,7,1.0,0,0
+0,0,0,0,"
+",Jr,Bryce,Littlejohn,72,244,Run Stop,2.5,4.0,Kentucky,2018,4,15,3.5,0
+0,0,0,0,0,250,DE,Michael,Livingston,73,Sr,Pass Stop,3.5,3.5,Syracuse,2018,3,11,4.5
+0,0,0,0,0,74,"
+",DE,Roger,Long,255,(Jr),Run Stop,3.5,3.5,Syracuse,2018,3,11
+3.5,0,0,0,1,Lopez,0,"
+",DE,Edwin,75,252,Sr,Pass Stop,3.0,3.0,ECU,2018,5
+18,5.0,0,0,0,Fabian,0,0,"
+",DE,Lopez,72,260,(So),Run Stop,3.0,4.0,Colorado State,2018
+2,10,1.0,0,0,DE,0,0,0,"
+",Jaylen,Love,74,253,Fr,Run Stop,3.0,4.0,Memphis
+2018,1,2,0.5,0,"
+",0,0,0,0,DE,Luke,Lyles,72,249,Jr,Pass Stop,4.5,5.0
+Vanderbilt,2018,1,3,2.5,0,0,0,0,0,"
+",DE,Leon,Maimoana,70,265,(Fr),Pass Stop,2.5
+4.0,California,2018,7,22,0,0,0,0,0,0,"
+",DE,Gary,Mann,73,251,Sr,Run Stop
+3.0,3.0,SMU,2018,3,0,2.0,0,0,0,0,0,"
+",DE,Derrick,Mansfield,75,251,(Jr)
+Run Stop,3.5,3.5,Michigan State,2018,0,6,2.0,0,0,0,0,0,"
+",DE,William,Marino,74,259
+(Jr),Run Stop,3.5,3.5,Georgia State,0,2,6,2.5,0,0,0,0,0,"
+",DE,Elvis,Marrero,72
+266,Fr,Pass Stop,2.5,2.5,0,2018,1,5,0.0,0,0,0,0,0,"
+",DE,Lawrence,Marshall
+77,251,(Sr),Run Stop,4.5,6.0,Oregon,2018,4,14,0,0,1,1,0,0,"
+",DE,Matthew
+Mayfield,73,238,(Fr),Pass Stop,7,4.0,Kansas State,2018,2,2.5,0,0,0,0,0,0,"
+",DE
+Ricky,Mayo,78,251,(Sr),7,4.5,4.5,Vanderbilt,2018,23,9.5,1,0,0,0,0,0,"
+"
+DE,Ethan,McCall,72,263,2018,Pass Stop,3.5,4.0,Nevada,4,13,4.5,0,0,1,0,1,0
+"
+",DE,Rex,McKenna,74,Florida State,(Jr),Pass Stop,3.5,3.5,2018,5,12,5.0,0,0,0,0,1
+0,"
+",DE,Malachi,McKnight,4.0,261,(Fr),Run Stop,2.5,Bowling Green,2018,2,7,2.5,0,0,0,0
+0,0,"
+",DE,Omar,3.5,71,258,Jr,Pass Stop,4.5,Fresno State,2018,3,12,4.0,0,0,0
+0,0,0,"
+",DE,Run Stop,McPherson,74,256,Sr,3.5,3.5,Indiana,2018,4,18,2.5,0,0
+0,0,0,0,"
+",Sr,Darrell,Mcmahon,76,268,Pass Stop,2.0,2.0,FAU,2018,2,8,1.0,0
+0,0,0,0,0,254,DE,Matthew,Mendoza,76,(Sr),Run Stop,4.0,4.0,Wisconsin,2018,3,10,4.0
+0,0,0,0,0,73,"
+",DE,Samuel,Mercado,267,Fr,Run Stop,2.0,3.5,Wyoming,2018,1,5
+0.0,0,0,0,0,Miller,0,"
+",DE,Anthony,75,253,(Jr),Pass Stop,5.0,5.0,Tennessee,2018,8
+31,12.5,0,0,0,Eddie,0,0,"
+",DE,Milton,74,261,Sr,Run Stop,4.0,4.0,Ohio,2018
+4,14,7.0,0,0,DE,0,0,0,"
+",Kevin,Mims,74,266,Sr,Run Stop,4.5,4.5,UCF
+2018,4,13,4.0,0,"
+",0,0,0,0,DE,Thierno,Mingo,73,244,Sr,Run Stop,4.0,4.0
+Western Michigan,2018,7,27,9.0,0,0,0,0,0,"
+",DE,Maxim,Morris,74,235,Sr,Pass Stop,4.0
+4.0,Pittsburgh,2018,2,7,0,0,0,0,0,0,"
+",DE,Roy,Morton,77,280,(Sr),Pass Stop
+3.5,3.5,Army,2018,3,0,1.5,0,0,0,0,0,"
+",DE,Dylan,Moses,72,240,Fr
+Run Stop,2.5,3.5,Houston,2018,0,2,0.5,0,0,0,1,0,"
+",DE,Guillermo,Murphy,79,272
+(So),Run Stop,2.5,4.0,USF,0,1,4,1.0,0,0,0,0,0,"
+",DE,Marcus,Neeley,80
+249,(So),Run Stop,1.0,2.0,0,2018,1,4,0.0,0,0,0,0,0,"
+",DE,Jamal,Norwood
+74,251,Sr,Pass Stop,4.5,10.5,Boston College,2018,4,16,0,0,0,1,0,0,"
+",DE,Miguel
+Novak,74,252,Sr,Run Stop,10,3.0,Army,2018,2,0.0,0,0,0,0,0,0,"
+",DE
+Trinidad,Ortiz,72,244,(Jr),3,3.5,3.5,USC,2018,8,3.5,0,0,0,0,0,0,"
+"
+DE,George,Pacheco,74,244,2018,Pass Stop,4.0,4.0,Miami (FL),2,6,4.0,0,0,0,1,0,0
+"
+",DE,Adam,Parks,73,Auburn,Jr,Pass Stop,3.5,3.5,2018,1,5,1.0,0,0,0,0,0
+0,"
+",DE,Paul,Parris,3.0,249,(Fr),Run Stop,2.0,Arkansas,2018,3,14,1.0,0,0,0,0
+0,0,"
+",DE,Tristan,3.0,72,259,So,Run Stop,3.0,Toledo,2018,4,15,1.5,0,0,0
+0,0,0,"
+",DE,Pass Stop,Patterson,75,248,(Jr),3.0,3.0,Ball State,2018,3,11,2.0,0,0
+0,0,0,0,"
+",(Fr),Jamal,Patton,73,255,Run Stop,2.0,4.5,Purdue,2018,7,26,6.5,0
+0,0,0,0,0,244,DE,Andre,Payne,75,So,Pass Stop,2.5,2.5,New Mexico,2018,2,8,1.0
+0,0,0,0,0,70,"
+",DE,David,Payne,255,So,Pass Stop,3.5,3.5,Toledo,2018,1,2
+1.0,0,0,0,0,Pennel,0,"
+",DE,Donte,74,253,(Fr),Run Stop,2.0,4.0,Miami (OH),2018,1
+2,1.0,1,0,0,Jay,0,0,"
+",DE,Peterson,80,254,(Sr),Run Stop,3.5,3.5,San Diego State,2018
+1,2,0.5,0,0,DE,0,0,0,"
+",John,Peterson,77,294,Sr,Pass Stop,4.5,5.0,USF
+2018,10,32,13.0,0,"
+",0,0,0,0,DE,Jalen,Pittman,75,257,(Fr),Pass Stop,2.0,4.0
+Iowa State,2018,5,19,4.5,1,0,1,1,0,"
+",DE,Russell,Pollard,74,249,Sr,Run Stop,3.5
+3.5,Houston,2018,2,6,0,0,0,0,1,0,"
+",DE,Darnell,Quinn,74,244,(Sr),Run Stop
+4.0,4.0,Cincinnati,2018,1,0,1.0,0,0,0,0,0,"
+",DE,Oscar,Randle,74,266,(So)
+Run Stop,2.0,3.0,Louisiana Tech,2018,0,8,1.0,0,0,0,0,0,"
+",DE,Joseph,Randolph,73,266
+(Sr),Pass Stop,5.0,5.0,San Jose State,0,8,27,15.5,0,0,0,0,0,"
+",DE,Rodney,Randolph,77
+255,(Jr),Pass Stop,2.5,3.0,0,2018,1,2,0.5,0,0,0,0,0,"
+",DE,Amir,Ransom
+73,245,(So),Pass Stop,3.5,5.5,Kansas,2018,6,25,0,0,0,0,0,0,"
+",DE,Ayden
+Revis,73,248,So,Pass Stop,8,3.5,Georgia State,2018,2,1.0,0,0,0,0,0,0,"
+",DE
+Isaiah,Riggins,75,253,Sr,5,4.5,4.5,South Carolina,2018,17,7.0,0,0,0,0,0,0,"
+"
+DE,Jacob,Robb,74,249,2018,Pass Stop,2.5,3.5,Auburn,2,10,0.5,0,0,0,0,0,0
+"
+",DE,Darren,Roberson,74,Baylor,So,Run Stop,2.0,3.5,2018,4,18,4.5,0,0,0,0,0
+0,"
+",DE,Manuel,Rogers,3.5,253,(Jr),Run Stop,3.5,Boston College,2018,2,6,2.0,0,0,2,0
+0,0,"
+",DE,Lee,3.5,74,249,(Jr),Pass Stop,3.5,Missouri,2018,2,6,1.5,0,0,0
+0,0,0,"
+",DE,Run Stop,Sanchez,78,278,Sr,2.5,2.5,Charlotte,2018,1,5,0.0,0,0
+0,0,0,0,"
+",Sr,Dennis,Scott,74,243,Pass Stop,3.0,3.0,Louisville,2018,2,7,2.5,0
+0,0,0,0,0,255,DE,Larry,Scott,75,(Jr),Pass Stop,4.5,4.5,Nebraska,2018,3,14,3.5
+0,0,0,0,0,74,"
+",DE,Jared,Self,256,(Jr),Pass Stop,5.0,5.0,Michigan,2018,5,26
+7.5,1,0,0,0,Shea,0,"
+",DE,Lee,74,258,Sr,Pass Stop,3.5,3.5,Mississippi State,2018,2
+7,2.0,0,0,0,Mike,0,0,"
+",DE,Shearer,73,282,Jr,Pass Stop,2.0,3.0,UNLV,2018
+5,17,3.5,0,0,DE,0,0,0,"
+",Larry,Simms,72,246,Sr,Run Stop,3.5,3.5,Michigan State
+2018,2,5,2.0,0,"
+",0,0,0,0,DE,Sebastian,Smallwood,73,254,Fr,Pass Stop,3.0,5.0
+Alabama,2018,4,11,3.5,0,0,0,0,1,"
+",DE,George,Smith,74,254,(Jr),Run Stop,4.0
+4.0,Iowa,2018,3,12,0,0,0,0,0,0,"
+",DE,Robert,Smith,73,270,Sr,Pass Stop
+2.5,2.5,Western Kentucky,2018,4,0,2.0,0,0,0,0,0,"
+",DE,Daniel,Spivey,72,261,(So)
+Run Stop,2.5,4.0,Tennessee,2018,0,3,1.5,0,0,0,0,0,"
+",DE,Gary,Sullivan,75,254
+(Jr),Pass Stop,3.0,3.0,Texas A&M,0,2,6,2.0,0,0,0,0,0,"
+",DE,Wesley,Swanson,75
+266,(Sr),Pass Stop,3.5,3.5,0,2018,6,22,4.0,0,0,0,0,0,"
+",DE,William,Thompson
+72,253,Sr,Pass Stop,4.5,5.0,Oregon State,2018,2,7,0,0,0,0,0,0,"
+",DE,Javier
+Tovar,74,271,(Fr),Run Stop,20,4.0,Kansas State,2018,6,4.0,0,0,0,0,0,0,"
+",DE
+Sebastian,Traylor,74,250,Sr,4,4.5,4.5,Penn State,2018,14,3.5,0,0,0,0,0,0,"
+"
+DE,Frank,Trujillo,74,250,2018,Pass Stop,3.5,3.5,Stanford,1,5,0.0,0,0,0,0,0,0
+"
+",DE,John,Tubbs,76,Kent State,(Sr),Pass Stop,3.0,3.0,2018,1,4,1.0,0,0,0,0,0
+0,"
+",DE,Danny,Turner,3.0,264,Sr,Run Stop,3.0,Connecticut,2018,2,8,3.0,0,0,0,0
+0,0,"
+",DE,Zachary,3.5,73,248,(Jr),Run Stop,3.5,Kentucky,2018,2,9,0.5,0,0,0
+0,0,0,"
+",DE,Pass Stop,Walker,73,266,Sr,2.0,2.0,Charlotte,2018,2,9,0.0,0,0
+0,0,0,0,"
+",Sr,Mitchell,Warren,73,277,Pass Stop,3.0,3.0,Central Michigan,2018,3,10,1.0,1
+0,0,0,0,0,255,DE,Gene,Waugh,73,(Jr),Run Stop,3.0,3.0,Ole Miss,2018,1,3,1.5
+0,0,0,0,0,71,"
+",DE,Gabe,Werner,255,Sr,Pass Stop,4.0,4.0,Arizona State,2018,2,5
+3.0,0,0,0,0,Whitney,0,"
+",DE,Alex,70,243,(Fr),Pass Stop,2.0,4.5,Baylor,2018,4
+14,4.5,0,0,0,Brayden,0,0,"
+",DE,Whitten,71,236,Jr,Pass Stop,3.5,4.0,Rice,2018
+5,20,4.5,0,0,DE,0,0,0,"
+",Kyle,Whitten,74,253,(Fr),Pass Stop,2.0,3.5,Eastern Michigan
+2018,3,12,2.0,0,"
+",0,0,0,0,DE,Anthony,Williams,74,253,Sr,Run Stop,3.5,3.5
+Washington State,2018,4,17,3.0,0,0,0,0,1,"
+",DE,Perry,Wilson,80,281,(Jr),Pass Stop,3.0
+3.5,Southern Miss,2018,5,20,0,0,0,0,0,0,"
+",DE,Charles,Woods,77,273,(Sr),Run Stop
+5.0,5.0,Notre Dame,2018,7,0,11.0,0,0,0,0,0,"
+",DE,Derrick,Woodward,74,245,(Jr)
+Run Stop,4.0,4.0,Iowa,2018,0,18,5.5,0,0,0,0,0,"
+",DE,David,Wright,76,255
+(Jr),Run Stop,2.5,2.5,San Jose State,0,1,1,1.0,0,0,0,0,0,"
+",DE,Kareem,Yancey,73
+249,Jr,Pass Stop,4.0,4.5,0,2018,4,12,4.0,0,0,0,1,0,"
+",DE,Darwin,Zavala
+73,259,Jr,Run Stop,3.5,2.0,Connecticut,2018,1,2,0,0,0,0,0,0,"
+",DT,Hudson
+Adam,72,310,(So),Run Stop,9,5.0,West Virginia,2018,3,3.0,0,0,0,0,0,0,"
+",DT
+Omar,Adcock,77,311,(Fr),2,2.5,5.0,Fresno State,2018,8,0.0,0,0,0,0,1,0,"
+"
+DT,Daniel,Adkins,78,330,2018,Pass Stop,3.0,3.0,Virginia Tech,2,9,1.0,0,0,0,0,0,0
+"
+",DT,Marcus,Anthony,79,Colorado,Sr,Pass Stop,4.5,4.5,2018,3,10,5.5,1,0,0,0,0
+0,"
+",DT,Robert,Arnold,3.0,262,Jr,Run Stop,3.0,Temple,2018,5,21,3.5,0,0,0,1
+0,0,"
+",DT,Marlon,2.0,79,322,(Fr),Run Stop,5.0,Akron,2018,5,18,4.0,0,0,0
+0,0,0,"
+",DT,Pass Stop,Baker,75,304,Sr,5.0,5.0,Georgia Tech,2018,3,8,4.0,0,0
+0,0,0,0,"
+",(Sr),Wilburn,Ball,78,290,Run Stop,4.5,4.5,Notre Dame,2018,5,21,5.5,0
+0,0,0,0,0,265,DT,James,Barnes,79,Jr,Pass Stop,1.5,3.0,UTEP,2018,6,17,6.5
+0,0,0,0,0,74,"
+",DT,Antonio,Becker,256,Sr,Run Stop,3.0,3.0,Ball State,2018,1,5
+0.0,0,0,0,0,Begay,0,"
+",DT,Paul,76,299,Sr,Pass Stop,3.5,3.5,SMU,2018,3
+16,1.0,0,0,0,Edward,0,0,"
+",DT,Bello,74,269,Sr,Run Stop,2.5,2.5,UTSA,2018
+5,21,2.0,0,0,DT,0,0,0,"
+",Kai,Betts,79,320,(So),Run Stop,3.5,4.0,Duke
+2018,5,19,5.5,0,"
+",0,0,0,0,DT,Victor,Bishop,76,322,(Sr),Pass Stop,3.0,3.0
+Florida,2018,3,14,1.0,0,0,0,0,0,"
+",DT,Micheal,Black,77,281,(Sr),Pass Stop,4.5
+4.5,UCLA,2018,5,16,0,0,0,0,0,0,"
+",DT,Alex,Blair,77,277,(Fr),Run Stop
+2.5,3.0,Western Michigan,2018,2,0,0.5,0,0,0,0,0,"
+",DT,James,Blue,77,272,So
+Pass Stop,3.0,4.5,USF,2018,0,3,1.5,0,0,0,0,0,"
+",DT,Bryant,Boyd,74,296
+Sr,Pass Stop,3.5,3.5,South Carolina,0,4,13,3.5,0,0,0,0,0,"
+",DT,Russel,Brandt,73
+257,(So),Pass Stop,3.5,4.5,0,2018,5,21,3.5,0,0,0,0,0,"
+",DT,Lucas,Britton
+76,307,Sr,Run Stop,2.5,1.0,Houston,2018,1,3,0,0,1,0,0,0,"
+",DT,Dave
+Brown,73,268,So,Pass Stop,4,2.0,UAB,2018,1,0.0,0,0,0,0,0,0,"
+",DT
+Eric,Brown,76,300,(Jr),5,3.5,4.0,Southern Miss,2018,16,6.0,0,0,0,0,0,0,"
+"
+DT,Marcus,Brown,77,331,2018,Pass Stop,3.5,4.5,Clemson,5,19,7.5,0,0,0,0,0,0
+"
+",DT,Constantine,Burnham,73,Arizona,(So),Run Stop,4.5,4.5,2018,5,22,4.0,0,0,0,0,0
+0,"
+",DT,Robert,Burnham,4.0,304,(Jr),Run Stop,4.0,Oregon State,2018,5,22,3.0,0,0,0,0
+0,0,"
+",DT,William,4.0,76,298,(Sr),Pass Stop,4.0,Washington,2018,4,15,4.0,0,0,0
+0,0,0,"
+",DT,Run Stop,Cantrell,74,294,(Sr),4.0,4.0,Virginia,2018,5,11,8.0,0,0
+0,0,0,0,"
+",(Sr),Michael,Carroll,80,265,Run Stop,5.0,5.0,Hawaii,2018,6,28,12.0,1
+0,0,1,0,1,262,DT,Roberto,Castaneda,74,Jr,Pass Stop,3.0,3.0,Central Michigan,2018,3,13,2.0
+0,0,0,0,0,76,"
+",DT,Forest,Chase,324,Sr,Run Stop,4.0,4.0,Wake Forest,2018,3,18
+2.0,0,0,0,0,Crawford,0,"
+",DT,John,76,306,Sr,Pass Stop,3.5,3.5,San Diego State,2018,3
+14,0.0,0,0,0,Tyrone,0,0,"
+",DT,Crawley,76,296,(Sr),Pass Stop,4.0,4.0,Kentucky,2018
+6,25,3.0,0,0,DT,0,0,0,"
+",Danny,Davis,76,274,Sr,Run Stop,4.0,4.0,Nevada
+2018,3,9,5.5,0,"
+",0,0,0,0,DT,Corey,Dawson - Briscoe,73,291,(So),Pass Stop,3.0,4.0
+Arizona State,2018,3,16,4.0,0,0,0,0,0,"
+",DT,Michael,Delgado,77,308,Sr,Pass Stop,3.0
+3.0,Clemson,2018,2,8,0,0,0,0,0,0,"
+",DT,Aidan,Dotson,78,315,So,Pass Stop
+4.0,4.0,California,2018,5,0,5.0,1,0,0,0,0,"
+",DT,Edward,Eason,77,309,(Sr)
+Pass Stop,4.5,4.5,Nebraska,2018,0,28,6.5,0,0,0,0,0,"
+",DT,Dennis,Fontenot,76,299
+(Jr),Run Stop,3.0,3.0,Ole Miss,0,4,17,2.5,0,0,0,0,0,"
+",DT,Howard,Foster,78
+310,Sr,Run Stop,3.5,3.5,0,2018,5,19,3.0,0,0,0,0,0,"
+",DT,Mark,Franz
+75,261,So,Pass Stop,1.0,2.0,UNLV,2018,2,3,0,0,0,0,0,0,"
+",DT,Alex
+Gallo,78,279,So,Run Stop,17,3.0,Wyoming,2018,4,1.0,0,0,1,1,0,1,"
+",DT
+Patrick,Garber,74,303,(Jr),5,4.5,4.5,Miami (OH),2018,24,3.0,0,0,0,0,0,0,"
+"
+DT,Robert,Garrett,78,284,2018,Pass Stop,1.5,3.0,Southern Miss,2,7,1.0,0,0,0,0,0,0
+"
+",DT,Alex,Gilbert,79,Buffalo,Fr,Pass Stop,3.0,3.5,2018,2,10,2.5,0,0,0,0,0
+0,"
+",DT,Damani,Gilchrist,4.0,313,Fr,Run Stop,2.0,Hawaii,2018,1,1,1.0,0,0,0,0
+0,0,"
+",DT,Nikolas,2.5,74,317,Fr,Pass Stop,5.0,Army,2018,7,36,5.5,0,0,0
+0,0,0,"
+",DT,Pass Stop,Glenn,80,256,(Fr),1.5,3.0,Western Kentucky,2018,4,15,1.5,0,0
+1,0,0,0,"
+",So,Jamari,Goodwin,76,307,Pass Stop,2.5,2.5,Western Michigan,2018,3,11,2.0,0
+0,0,0,0,0,310,DT,Jerry,Gordon,76,Sr,Run Stop,4.5,4.5,Oregon State,2018,2,5,2.0
+0,0,0,0,0,77,"
+",DT,Mateo,Graf - Hart,295,Fr,Run Stop,2.5,3.0,ECU,2018,4,10
+4.5,0,0,0,0,Gray,0,"
+",DT,Todd,77,287,Sr,Pass Stop,4.0,4.0,Washington State,2018,4
+16,2.0,0,0,0,Darius,0,0,"
+",DT,Greene,78,328,(So),Pass Stop,3.5,4.5,Connecticut,2018
+2,5,2.0,0,0,DT,0,1,0,"
+",Bobby,Griggs,77,299,Jr,Run Stop,4.5,4.5,Boise State
+2018,3,10,3.0,0,"
+",0,0,0,0,DT,Chris,Gross,77,272,(Sr),Run Stop,3.0,3.0
+North Texas,2018,2,9,1.0,0,0,0,0,0,"
+",DT,Shawn,Gunderson,78,266,Jr,Pass Stop,3.0
+4.5,Marshall,2018,5,20,0,0,0,0,0,0,"
+",DT,Max,Hammond,73,294,(Jr),Run Stop
+3.5,3.5,Missouri,2018,5,0,4.0,0,0,0,0,0,"
+",DT,Javier,Hannah,77,297,(So)
+Pass Stop,3.0,4.0,Ohio State,2018,1,17,6.0,0,0,0,0,0,"
+",DT,James,Hawkins,77,267
+(Sr),Pass Stop,4.0,4.0,Kansas,0,7,36,3.0,0,0,0,0,0,"
+",DT,David,Hendrickson,78
+314,(So),Run Stop,3.0,4.0,0,2018,7,34,5.0,0,0,0,0,0,"
+",DT,Zion,Hopkins
+78,299,(So),Run Stop,3.5,6.5,Michigan,2018,6,21,1,0,0,0,1,0,"
+",DT,Curtis
+Hudson,76,289,Sr,Pass Stop,5,3.0,Missouri,2018,1,0.0,0,0,0,0,0,0,"
+",DT
+Byron,Ibarra,74,315,Sr,6,4.0,4.0,Iowa State,2018,23,5.5,0,0,0,0,0,0,"
+"
+DT,David,Jackson,77,296,2018,Run Stop,4.0,4.0,Oklahoma,7,25,7.5,0,0,0,0,0,0
+"
+",DT,Corey,Johnson,76,Mississippi State,(Jr),Pass Stop,4.0,4.0,2018,4,22,1.5,0,0,0,0,0
+0,"
+",DT,Justin,Keller,3.5,294,Sr,Run Stop,3.5,Wake Forest,2018,4,16,2.0,0,0,0,0
+0,0,"
+",DT,Andres,3.5,77,308,(Jr),Run Stop,3.5,Syracuse,2018,8,27,8.0,0,0,1
+0,1,0,"
+",DT,Pass Stop,King,75,312,(Jr),5.0,5.0,Boston College,2018,3,12,6.0,1,0
+0,1,0,1,"
+",(So),Tasura,Lesa,78,303,Run Stop,3.0,4.0,Georgia Tech,2018,2,10,1.5,0
+0,0,0,0,0,311,DT,George,Lewis,79,Sr,Pass Stop,3.0,3.0,Louisville,2018,1,3,0.5
+0,0,0,0,0,75,"
+",DT,William,Long,308,(Jr),Run Stop,4.0,4.0,Texas,2018,2,9
+2.5,0,0,1,0,Martinez,0,"
+",DT,Charles,80,259,Sr,Run Stop,2.0,2.0,Ohio,2018,1
+5,0.0,0,0,0,Matthew,0,0,"
+",DT,Mayberry,73,311,So,Run Stop,2.0,3.5,NC State,2018
+3,9,3.0,0,0,DT,0,0,0,"
+",Michael,McBride,76,313,(Jr),Run Stop,4.5,5.0,Pittsburgh
+2018,5,22,8.0,1,"
+",0,0,0,0,DT,Nigel,McKinney,76,296,Jr,Run Stop,4.5,5.0
+Georgia,2018,6,22,8.5,0,0,1,0,0,"
+",DT,Devontae,McKinnie,78,323,(Sr),Run Stop,3.5
+3.5,Oklahoma State,2018,6,21,0,0,0,0,0,0,"
+",DT,Alpha,McKinnon,73,310,Fr,Pass Stop
+2.5,3.5,Tulane,2018,2,0,0.0,0,0,0,0,0,"
+",DT,Stephen,McLaughlin,75,302,Sr
+Run Stop,3.5,3.5,Houston,2018,0,11,4.5,0,0,0,0,0,"
+",DT,Nico,McLeod,78,292
+(So),Pass Stop,3.0,4.0,Florida State,0,2,6,2.5,0,0,0,0,0,"
+",DT,Christopher,McMahon,77
+310,Sr,Run Stop,3.0,3.0,0,2018,1,5,0.0,0,0,0,0,0,"
+",DT,David,Medley
+79,310,Sr,Run Stop,5.0,6.5,Colorado,2018,6,27,0,0,0,2,0,1,"
+",DT,Barry
+Monk,75,287,(Jr),Run Stop,14,4.5,Purdue,2018,3,3.0,0,0,0,1,0,0,"
+",DT
+Dwayne,Montgomery,74,309,So,4,3.5,4.5,Toledo,2018,9,5.0,0,0,0,0,0,0,"
+"
+DT,Dennis,Moreland,73,268,2018,Pass Stop,1.0,2.0,Middle Tennessee,6,23,2.0,0,0,0,0,0,0
+"
+",DT,Kaden,Muhammad,72,Air Force,(So),Run Stop,2.5,4.0,2018,1,4,1.0,0,0,0,0,0
+0,"
+",DT,William,Mull,3.0,268,So,Run Stop,1.5,Louisiana Tech,2018,2,11,0.0,0,0,0,0
+0,0,"
+",DT,Roy,4.5,76,279,(Sr),Pass Stop,4.5,Miami (FL),2018,3,15,3.5,0,0,0
+0,0,0,"
+",DT,Run Stop,North,73,313,So,2.5,3.0,San Jose State,2018,1,4,1.5,0,0
+0,0,0,0,"
+",So,Christian,Okonkwo,77,297,Run Stop,3.5,5.0,Oregon,2018,8,25,11.0,0
+0,0,1,0,1,321,DT,Christopher,Ortiz,72,(Jr),Pass Stop,3.0,3.0,Rice,2018,3,12,1.0
+0,0,0,0,0,75,"
+",DT,Andrew,Pearson,321,Sr,Pass Stop,5.0,5.0,Boise State,2018,3,11
+4.5,0,0,0,0,Pearson,0,"
+",DT,Thierno,77,313,(Fr),Pass Stop,2.0,4.0,Ball State,2018,2
+9,1.0,0,0,0,Joseph,0,0,"
+",DT,Perez,74,328,(Jr),Run Stop,3.5,3.5,Baylor,2018
+3,10,3.5,0,0,DT,0,0,0,"
+",Kahau,Posala,77,293,Fr,Run Stop,2.0,4.0,New Mexico
+2018,7,23,8.5,0,"
+",1,1,0,0,DT,Kyle,Pratt,76,301,(Jr),Pass Stop,4.5,5.0
+Virginia,2018,5,13,6.0,0,0,0,0,0,"
+",DT,David,Reeves,74,292,Sr,Pass Stop,2.0
+2.0,UNLV,2018,5,17,0,0,0,0,0,0,"
+",DT,James,Regan,75,262,Jr,Run Stop
+1.5,2.5,UAB,2018,1,0,0.0,0,0,0,0,0,"
+",DT,Elliott,Ricci,78,277,Jr
+Run Stop,3.5,3.5,Northwestern,2018,0,12,4.5,0,0,0,0,0,"
+",DT,Edward,Roberts,79,319
+Sr,Pass Stop,3.5,3.5,UCF,0,3,13,0.0,0,1,1,0,0,"
+",DT,Makai,Ross,76
+291,Jr,Pass Stop,2.5,3.5,0,2018,3,11,3.0,0,0,0,0,0,"
+",DT,Joseph,Rouse
+76,300,(Sr),Pass Stop,4.0,5.0,Tulsa,2018,7,27,0,0,0,0,0,0,"
+",DT,Kai
+Rouse,78,319,(Fr),Pass Stop,22,3.0,Eastern Michigan,2018,6,3.0,0,0,0,0,0,0,"
+",DT
+Travis,Sample,77,312,So,3,3.0,3.0,Ohio,2018,11,2.0,0,0,0,0,0,0,"
+"
+DT,Steven,Sanderson,76,332,2018,Run Stop,3.5,3.5,Cincinnati,6,26,2.5,0,0,0,0,0,0
+"
+",DT,Richard,Self,74,Alabama,(Jr),Run Stop,4.0,4.0,2018,4,15,4.0,0,0,1,1,0
+0,"
+",DT,Adam,Shafer,4.5,289,Jr,Run Stop,4.0,Texas Tech,2018,1,3,1.0,0,0,0,0
+0,0,"
+",DT,Scott,4.0,75,309,Sr,Run Stop,4.5,Utah,2018,2,9,1.0,0,0,0
+0,0,0,"
+",DT,Run Stop,Sierra,73,328,(Fr),2.5,4.5,TCU,2018,3,10,5.0,0,0
+0,0,0,0,"
+",Jr,Kaden,Simon - McCrary,73,316,Run Stop,3.5,3.5,Texas A&M,2018,2,11,1.5,0
+0,0,0,0,0,323,DT,Jaden,Singletary,76,So,Pass Stop,2.0,3.0,San Jose State,2018,1,6,0.0
+0,0,0,0,0,76,"
+",DT,Keith,Small,334,(So),Pass Stop,2.5,4.0,Maryland,2018,2,10
+0.5,0,0,0,0,Smith,0,"
+",DT,Keith,75,303,(Jr),Run Stop,4.0,4.0,Colorado State,2018,6
+27,2.5,0,0,0,Gabriel,0,0,"
+",DT,Spencer,74,303,(So),Run Stop,4.0,4.0,North Carolina,2018
+4,13,2.5,0,0,DT,0,0,0,"
+",Cameron,Street,74,317,(So),Pass Stop,3.5,4.5,LSU
+2018,7,22,7.5,0,"
+",0,0,0,0,DT,Gonzalo,Taylor,75,315,(Jr),Pass Stop,4.0,4.0
+Texas,2018,4,14,6.5,0,0,0,0,0,"
+",DT,Ned,Terrell,73,275,So,Pass Stop,1.5
+3.0,FIU,2018,6,26,0,0,0,0,0,0,"
+",DT,Antonio,Thomas,78,266,(Sr),Pass Stop
+3.5,3.5,Michigan State,2018,5,0,3.5,0,0,0,0,0,"
+",DT,David,Thompson,78,298,(Jr)
+Pass Stop,4.5,4.5,Stanford,2018,0,14,4.5,0,0,0,0,0,"
+",DT,Ricky,Thompson,75,299
+Sr,Pass Stop,4.0,4.0,Rutgers,0,4,19,3.0,0,0,0,0,0,"
+",DT,Gary,Trujillo,74
+295,(Jr),Run Stop,4.0,4.0,0,2018,4,18,2.5,0,0,0,0,0,"
+",DT,Jared,Valentine
+72,282,(So),Run Stop,2.5,1.0,Auburn,2018,2,7,0,0,0,0,0,0,"
+",DT,Oscar
+Vigil,75,279,So,Pass Stop,8,3.0,Old Dominion,2018,2,1.5,0,0,0,0,0,0,"
+",DT
+Mark,Walsh,80,317,Sr,6,4.5,4.5,Arkansas,2018,25,3.0,0,0,0,0,0,0,"
+"
+DT,Ricardo,Walter,76,294,2018,Pass Stop,4.0,4.0,Tennessee,7,24,7.5,0,0,1,0,0,0
+"
+",DT,Shamar,Ware,77,Penn State,Fr,Run Stop,3.0,5.0,2018,4,16,5.0,0,0,0,1,0
+0,"
+",DT,Michael,Webster,3.5,292,(Jr),Pass Stop,3.5,Georgia State,2018,3,14,1.0,0,0,0,0
+0,0,"
+",DT,Anthony,4.5,72,324,Sr,Run Stop,4.5,Wisconsin,2018,3,15,3.0,0,0,1
+0,0,0,"
+",DT,Run Stop,Whiteside,74,327,(Jr),5.0,5.0,USC,2018,6,25,7.5,0,0
+0,0,0,0,"
+",Sr,Shane,Whitley,77,304,Run Stop,2.5,2.5,FAU,2018,6,21,6.0,0
+0,0,0,0,0,330,DT,Avery,Williams,73,So,Pass Stop,2.0,3.0,Bowling Green,2018,2,9,2.0
+0,0,0,0,0,79,"
+",DT,Andre,Willis,333,Fr,Pass Stop,3.0,3.0,Memphis,2018,4,14
+4.0,0,0,0,0,Wolfe,0,"
+",DT,Eric,74,312,Sr,Run Stop,3.5,3.5,BYU,2018,4
+15,4.0,0,0,0,Julian,0,0,"
+",DT,Young,79,276,(Sr),Run Stop,4.0,4.0,Minnesota,2018
+4,16,4.5,1,0,FS,0,0,0,"
+",Manuel,Alvarez,71,171,(Jr),Man Coverage,3.5,3.5,New Mexico
+2018,2,9,0.0,0,"
+",0,0,2,1,FS,Philip,Alvarez,74,210,(Jr),Man Coverage,3.5,3.5
+Washington,2018,2,8,0.0,0,0,0,0,1,"
+",FS,Alfonso,Bates,73,176,(So),Zone Coverage,3.5
+3.5,Bowling Green,2018,3,10,3,0,0,0,0,1,"
+",FS,Curtis,Benton,71,183,Jr,Zone Coverage
+3.5,4.0,Marshall,2018,4,0,0.0,0,0,0,3,1,"
+",FS,Aaron,Blakely,73,182,Jr
+Man Coverage,5.0,5.0,Wisconsin,2018,0,34,0.0,0,0,0,5,1,"
+",FS,Dillon,Bonds,72,215
+Jr,Man Coverage,2.5,3.5,Ohio State,0,1,4,0.0,0,0,0,1,0,"
+",FS,Aaden,Boston,71
+184,(So),Zone Coverage,3.0,4.0,0,2018,1,0,0.0,0,0,1,0,1,"
+",FS,Alejandro,Bowen
+75,202,Sr,Zone Coverage,4.0,0.0,Houston,2018,7,29,0,0,0,0,8,1,"
+",FS,Aiden
+Brantley,73,207,Jr,Zone Coverage,5,4.0,Rutgers,2018,1,0.0,0,0,0,0,1,0,"
+",FS
+Elijah,Braswell,71,198,Jr,2,2.5,3.5,UCF,2018,5,0.0,0,0,0,1,1,0,"
+"
+FS,Carlos,Bright,73,220,2018,Man Coverage,2.0,3.5,Northern Illinois,4,19,0.0,0,0,0,0,2,1
+"
+",FS,Ashton,Britt,73,Georgia Tech,Jr,Zone Coverage,4.0,5.0,2018,4,25,0.0,0,0,0,0,4
+2,"
+",FS,Ronnie,Brown,2.0,194,(Jr),Zone Coverage,1.5,Charlotte,2018,6,26,0.0,0,0,0,0
+2,0,"
+",FS,Michael,4.5,70,177,(Sr),Zone Coverage,4.5,Oklahoma,2018,2,8,0.0,0,0,0
+0,2,0,"
+",FS,Man Coverage,Bush,73,192,(Fr),2.0,4.5,Baylor,2018,4,9,0.0,0,0
+0,0,4,1,"
+",(Fr),Zahir,Cason,73,203,Zone Coverage,2.0,4.0,Purdue,2018,2,8,0.0,0
+0,0,0,2,1,208,FS,John,Clement,73,(Jr),Man Coverage,4.0,4.0,Washington State,2018,3,27,0.0
+0,0,0,0,0,73,"
+",FS,Jay,Cook,179,Sr,Man Coverage,2.0,2.0,Southern Miss,2018,1,6
+0.0,0,0,0,0,Cringle,0,"
+",FS,Mekhi,72,218,(So),Man Coverage,2.5,4.5,West Virginia,2018,4
+17,0.0,0,0,0,Damani,2,1,"
+",FS,Crump - Jackson,71,198,(So),Man Coverage,3.5,5.0,Colorado State,2018
+6,22,0.0,0,0,FS,0,5,2,"
+",Anthony,Davis,70,204,So,Zone Coverage,2.5,4.0,Toledo
+2018,6,33,0.0,0,"
+",0,0,2,0,FS,Khalil,Dennis,74,219,(Fr),Zone Coverage,2.5,5.0
+Vanderbilt,2018,2,7,0.0,0,0,0,0,1,"
+",FS,Carl,Dillard,72,206,Sr,Man Coverage,4.5
+4.5,Missouri,2018,3,11,3,0,0,0,0,1,"
+",FS,Travis,Doe,71,209,(Fr),Zone Coverage
+2.5,3.5,Buffalo,2018,3,1,0.0,0,0,0,2,0,"
+",FS,Koren,Donahue,70,190,Sr
+Zone Coverage,5.0,5.0,Rice,2018,0,24,0.0,0,0,0,6,2,"
+",FS,Troy,Doss,72,215
+Fr,Zone Coverage,1.0,3.5,Central Michigan,0,1,4,0.0,0,0,0,1,0,"
+",FS,Curtis,Dubose,74
+211,Jr,Zone Coverage,3.5,3.5,0,2018,1,9,0.0,0,0,0,0,0,"
+",FS,Zachary,Dumas
+73,199,So,Man Coverage,3.0,0.0,Eastern Michigan,2018,2,8,0,0,0,0,2,0,"
+",FS,Matthew
+Dyson,71,216,Fr,Man Coverage,17,4.5,TCU,2018,5,0.0,0,0,0,0,3,2,"
+",FS
+Omari,Easley,71,206,Fr,3,2.5,3.5,Buffalo,2018,8,0.0,0,0,0,0,3,0,"
+"
+FS,Jeremy,Easter,73,195,2018,Man Coverage,2.5,5.0,Duke,4,16,0.0,0,0,0,0,3,1
+"
+",FS,Darren,Eaton,74,Indiana,Sr,Zone Coverage,3.5,3.5,2018,2,12,0.0,0,0,0,0,1
+0,"
+",FS,Roger,Espinoza,3.5,177,(Sr),Man Coverage,3.5,Stanford,2018,1,6,0.0,0,0,0,0
+0,0,"
+",FS,Donovan,5.0,74,214,Sr,Man Coverage,5.0,BYU,2018,4,20,0.0,0,0,0
+0,3,0,"
+",FS,Man Coverage,Ferraro,74,213,Sr,3.0,3.5,Wake Forest,2018,6,25,0.0,0,0
+0,0,2,1,"
+",(Jr),Christopher,Figueroa,75,199,Man Coverage,4.0,4.0,Kansas State,2018,1,7,0.0,0
+0,0,0,0,0,219,FS,Chance,Finney,70,Fr,Zone Coverage,1.0,4.5,Connecticut,2018,5,22,0.5
+0,0,0,0,1,74,"
+",FS,Eric,Finney,203,(Fr),Zone Coverage,2.5,4.0,Wyoming,2018,6,31
+0.0,0,0,0,0,Fountain,1,"
+",FS,Benjamin,72,191,Sr,Zone Coverage,4.0,4.0,Mississippi State,2018,4
+21,0.0,0,0,0,Micah,4,1,"
+",FS,Foy,71,214,So,Zone Coverage,3.5,3.5,Arkansas,2018
+2,8,0.0,0,0,FS,0,1,0,"
+",Edward,Gallagher,73,214,Sr,Man Coverage,4.5,4.5,USC
+2018,2,8,0.0,0,"
+",0,0,1,0,FS,Dillon,Garner,71,196,Jr,Man Coverage,4.0,4.0
+Boston College,2018,3,10,0.0,0,0,0,0,3,"
+",FS,Mark,Gaston,70,205,(Sr),Zone Coverage,3.5
+3.5,Colorado,2018,2,8,2,0,0,0,0,0,"
+",FS,Adrian,Gilbert,74,210,So,Zone Coverage
+2.0,3.0,Ole Miss,2018,2,0,0.0,0,0,0,1,0,"
+",FS,Michael,Haynes,70,207,(Fr)
+Zone Coverage,2.0,3.5,UCLA,2018,0,2,0.0,0,0,0,1,0,"
+",FS,Isaiah,Heard,70,220
+(So),Man Coverage,4.0,4.0,Kansas,0,3,11,0.0,0,0,0,3,0,"
+",FS,Jeffrey,Heck,73
+203,Jr,Man Coverage,3.0,4.0,0,2018,3,15,0.0,0,0,0,0,0,"
+",FS,Luis,Henry
+71,194,(Sr),Man Coverage,4.5,0.0,Arizona,2018,2,6,0,0,0,0,2,0,"
+",FS,Martin
+Hernandez,74,197,Sr,Man Coverage,23,4.5,Miami (FL),2018,5,0.0,0,0,0,0,4,2,"
+",FS
+DeSean,Humphrey,74,191,Fr,3,2.5,3.0,Temple,2018,12,0.0,0,0,0,0,3,0,"
+"
+FS,Donovan,Jackson,71,200,2018,Zone Coverage,1.5,4.0,Western Michigan,4,15,1.0,0,0,0,1,3,0
+"
+",FS,Patrick,Jones,71,FIU,Sr,Zone Coverage,1.5,1.5,2018,2,8,0.0,0,0,0,0,2
+2,"
+",FS,Arlen,Keene,3.5,178,(Jr),Zone Coverage,3.5,Tulane,2018,1,3,0.0,0,0,0,0
+1,0,"
+",FS,Matthew,1.5,69,163,Jr,Zone Coverage,1.5,Central Michigan,2018,1,6,0.0,0,0,0
+0,0,0,"
+",FS,Zone Coverage,Lee,75,202,Sr,4.5,4.5,USF,2018,4,14,0.0,0,0
+0,0,4,0,"
+",(Jr),Mario,Lewis,71,204,Man Coverage,3.0,3.0,Miami (FL),2018,2,6,0.0,0
+0,0,0,2,0,174,FS,Thomas,Lewis,70,(Sr),Zone Coverage,3.5,3.5,Georgia State,2018,1,4,0.0
+0,0,1,1,0,70,"
+",FS,Devin,Lloyd,204,(So),Man Coverage,3.0,4.0,ECU,2018,6,24
+0.0,0,0,0,1,Lockett,2,"
+",FS,Tristan,74,216,Jr,Zone Coverage,3.0,3.0,Penn State,2018,1
+2,0.0,0,0,0,Patrick,1,0,"
+",FS,Lombardo,73,197,Fr,Zone Coverage,1.0,3.5,Oklahoma State,2018
+2,11,0.0,0,0,FS,0,0,0,"
+",Donald,Lopez,73,172,(Jr),Zone Coverage,1.5,1.5,FAU
+2018,4,18,0.0,0,"
+",0,0,1,0,FS,Javier,Lopez,73,181,So,Zone Coverage,3.0,3.0
+Akron,2018,1,5,0.0,0,0,0,0,0,"
+",FS,Adrian,Mack,73,189,Jr,Zone Coverage,3.0
+3.0,Utah,2018,5,25,1,0,0,0,0,0,"
+",FS,Robert,Mahoney,70,174,(So),Man Coverage
+3.5,4.0,Ohio,2018,4,0,0.0,0,0,0,3,0,"
+",FS,Frank,Malone,71,187,Sr
+Zone Coverage,3.0,3.0,Minnesota,2018,0,6,0.0,0,0,0,3,1,"
+",FS,Frederick,Manning,73,170
+Jr,Zone Coverage,2.0,3.0,Western Kentucky,0,5,30,0.0,0,0,0,3,1,"
+",FS,Marcus,Mayes,73
+198,Jr,Zone Coverage,3.5,3.5,0,2018,5,23,0.0,0,0,0,3,0,"
+",FS,Austin,Maynard
+73,215,Jr,Man Coverage,3.0,0.0,North Carolina,2018,4,13,0,0,0,0,4,0,"
+",FS,Prince
+McGill,74,206,Sr,Man Coverage,21,5.0,Florida,2018,4,0.0,0,0,0,0,3,2,"
+",FS
+Jacory,McMillan,72,205,(So),8,2.5,3.5,Louisville,2018,24,0.5,0,0,0,0,5,1,"
+"
+FS,Shawn,McMillan,71,211,2018,Man Coverage,3.0,4.0,Rutgers,1,3,0.0,0,0,0,0,1,0
+"
+",FS,Kameron,McNeil,70,Cincinnati,(So),Man Coverage,3.0,3.0,2018,4,21,0.0,0,0,0,0,0
+0,"
+",FS,Nicholas,Mingo,4.0,190,(Fr),Zone Coverage,2.0,Miami (OH),2018,1,7,0.0,0,0,0,0
+1,0,"
+",FS,Charles,3.5,73,191,(Sr),Zone Coverage,3.5,Fresno State,2018,2,11,0.0,0,0,0
+0,1,0,"
+",FS,Zone Coverage,Montgomery,70,187,(Jr),3.0,3.0,Oregon,2018,1,3,0.0,0,0
+0,0,1,1,"
+",Fr,D'Qwell,Moore,75,203,Zone Coverage,3.0,5.0,Florida State,2018,7,41,0.0,0
+0,0,0,6,1,202,FS,Parker,Moreland,74,(So),Man Coverage,4.0,4.0,Iowa,2018,4,21,0.0
+0,0,1,0,3,72,"
+",FS,Sincere,Noel,212,(So),Zone Coverage,3.0,4.5,Arizona State,2018,4,16
+1.0,0,0,0,0,Oliver,0,"
+",FS,Reshad,71,204,(Sr),Zone Coverage,4.0,4.0,Navy,2018,5
+23,0.0,0,0,0,Rodney,5,0,"
+",FS,Olson,70,165,(Sr),Man Coverage,4.5,4.5,Texas,2018
+2,6,0.0,0,0,FS,0,2,0,"
+",Tyler,Patino,70,212,(Fr),Zone Coverage,2.5,5.0,Illinois
+2018,3,10,0.0,0,"
+",0,0,3,1,FS,Darius,Patton,73,213,(Fr),Man Coverage,3.5,4.5
+Washington State,2018,4,25,0.5,0,0,0,0,1,"
+",FS,Jamir,Pendleton,73,209,So,Zone Coverage,3.5
+4.0,Texas Tech,2018,2,7,2,0,0,0,0,0,"
+",FS,Robert,Pendleton,73,203,Sr,Man Coverage
+5.0,5.0,Michigan,2018,3,0,0.0,0,0,0,3,1,"
+",FS,Jimmy,Petersen,71,208,(Jr)
+Man Coverage,3.0,3.0,SMU,2018,0,12,0.0,0,0,0,3,0,"
+",FS,David,Porter,69,178
+Jr,Zone Coverage,3.5,4.5,Louisiana Tech,0,2,11,0.0,0,0,0,1,0,"
+",FS,Samuel,Porter,71
+206,(Jr),Man Coverage,4.5,4.5,0,2018,6,25,0.0,0,0,0,6,3,"
+",FS,Aidan,Posey
+73,197,Fr,Man Coverage,2.5,0.0,Virginia,2018,2,9,0,0,0,0,1,0,"
+",FS,Samuel
+Prince,72,191,Jr,Man Coverage,17,4.5,Texas A&M,2018,3,0.0,0,0,0,0,3,2,"
+",FS
+Richard,Ramsey,69,173,Jr,2,1.5,2.0,Middle Tennessee,2018,9,0.0,0,0,0,0,1,0,"
+"
+FS,James,Richards,73,196,2018,Zone Coverage,1.0,3.0,UTEP,3,16,0.0,0,0,0,0,1,0
+"
+",FS,Dale,Richmond,70,UAB,Sr,Zone Coverage,2.0,2.0,2018,4,14,0.0,0,0,0,0,3
+0,"
+",FS,Logan,Ritter,4.0,205,Jr,Zone Coverage,3.0,San Jose State,2018,2,10,0.0,0,0,0,0
+0,0,"
+",FS,Clyde,4.5,72,201,(Jr),Zone Coverage,4.5,Notre Dame,2018,1,2,0.0,0,0,0
+0,1,0,"
+",FS,Man Coverage,Ross,72,205,(Sr),4.0,4.0,LSU,2018,3,16,0.0,0,0
+0,0,3,1,"
+",Sr,Darren,Rucker,72,212,Zone Coverage,4.5,4.5,Pittsburgh,2018,3,8,0.0,0
+0,0,0,3,1,166,FS,Kenneth,Schwartz,70,(Sr),Zone Coverage,5.0,5.0,Maryland,2018,2,5,0.0
+0,0,0,0,2,71,"
+",FS,Ryan,Sheffield,188,(Jr),Zone Coverage,1.5,2.0,Old Dominion,2018,3,15
+0.0,0,0,0,0,Sheppard,0,"
+",FS,Damani,71,214,(Fr),Man Coverage,2.5,5.0,Stanford,2018,3
+13,0.0,0,0,0,William,3,1,"
+",FS,Sims,73,211,(Jr),Man Coverage,3.5,3.5,San Diego State,2018
+2,12,0.0,0,0,FS,0,0,0,"
+",Jose,Stewart,72,189,(Jr),Zone Coverage,3.5,3.5,NC State
+2018,5,32,0.0,0,"
+",0,0,0,0,FS,Billy,Switzer,71,222,So,Man Coverage,2.0,3.5
+Kent State,2018,1,6,0.0,0,0,0,0,0,"
+",FS,Carlton,Sylvester,72,193,(Sr),Zone Coverage,5.0
+5.0,Nebraska,2018,1,6,0,0,0,0,0,0,"
+",FS,Alexander,Tracy,71,205,(Jr),Zone Coverage
+4.0,4.0,Hawaii,2018,2,0,0.0,0,0,0,2,0,"
+",FS,Chad,Walker,71,180,So
+Man Coverage,2.0,5.0,Tulsa,2018,0,21,0.0,0,0,0,3,0,"
+",FS,Kenneth,Walker,71,203
+(Sr),Man Coverage,3.5,3.5,Virginia Tech,0,2,9,0.0,0,0,0,1,0,"
+",FS,Mohamed,Walls,71
+193,(Fr),Zone Coverage,1.5,3.5,0,2018,1,4,0.0,0,0,0,1,0,"
+",FS,Dustin,Weinstein
+71,187,(Sr),Zone Coverage,4.0,0.0,Georgia,2018,2,9,0,0,0,0,2,0,"
+",FS,Ayden
+Whitaker,73,218,(Fr),Man Coverage,10,5.0,Army,2018,2,0.0,0,0,0,0,1,0,"
+",FS
+Antonio,White,73,163,Sr,4,4.0,4.0,Nevada,2018,15,0.0,0,0,0,1,2,1,"
+"
+FS,James,White,73,216,2018,Man Coverage,4.0,5.0,Alabama,1,3,0.0,0,0,0,0,1,1
+"
+",FS,Kamari,Wilkins,73,Iowa State,(Fr),Man Coverage,2.5,4.0,2018,3,7,0.0,0,0,0,0,3
+1,"
+",FS,Ian,Williams,4.0,215,Sr,Zone Coverage,4.0,Ball State,2018,2,11,0.0,0,0,0,0
+1,0,"
+",FS,Ronald,3.5,73,211,Sr,Man Coverage,3.5,Northwestern,2018,1,5,0.0,0,0,0
+0,1,0,"
+",FS,Man Coverage,Williams,72,201,(Jr),4.5,4.5,Georgia Tech,2018,3,13,0.0,0,0
+0,0,3,0,"
+",(Sr),Sean,Youngblood,70,185,Zone Coverage,4.0,4.0,Michigan State,2018,4,15,0.0,0
+0,0,0,4,1,217,ILB,Ilan,Abel,74,(So),Pass Zone,3.0,3.0,San Diego State,2018,7,52,0.0
+0,0,0,0,0,76,"
+",ILB,John,Adams,213,(Sr),Pass Zone,4.0,4.0,Pittsburgh,2018,2,13
+0.0,0,0,0,0,Aguilar,0,"
+",ILB,Devin,74,237,(Jr),Run Man - to - Man,4.0,4.0,Georgia Tech,2018,4
+34,0.0,0,0,0,David,0,0,"
+",ILB,Alford,72,221,(Sr),Run Zone,4.0,4.0,BYU,2018
+6,43,0.0,0,0,ILB,0,0,0,"
+",Robert,Allen,73,225,Sr,Pass Zone,3.5,3.5,Boise State
+2018,7,47,1.0,0,"
+",0,0,0,0,ILB,Brett,Anderson,74,231,(Jr),Pass Zone,3.0,3.0
+USF,2018,9,63,0.0,0,0,0,0,0,"
+",ILB,Michael,Andrews,74,230,Jr,Run Man - to - Man,2.5
+3.5,UNLV,2018,9,64,0,0,0,0,0,0,"
+",ILB,Michael,Avery,71,247,(Jr),Pass Zone
+5.0,5.0,North Carolina,2018,5,0,0.0,0,0,0,0,0,"
+",ILB,Luke,Barker,71,241,(Jr)
+Pass Zone,4.0,4.0,Baylor,2018,0,32,0.0,0,0,0,0,0,"
+",ILB,Daniel,Barnes,71,205
+(Sr),Pass Man - to - Man,4.5,4.5,Florida,0,7,54,0.0,0,0,0,0,0,"
+",ILB,Nelson,Barry,71
+225,Sr,Run Man - to - Man,3.0,3.0,0,2018,4,27,0.0,0,1,1,0,0,"
+",ILB,Ayden,Bellamy
+74,230,(Sr),Pass Man - to - Man,4.5,0.0,West Virginia,2018,4,26,0,0,0,0,0,0,"
+",ILB,Thomas
+Bennett,75,229,(Sr),Pass Zone,45,3.5,UCF,2018,7,0.0,0,0,1,0,0,0,"
+",ILB
+Calvin,Blue,74,230,(Fr),5,2.5,4.0,Ohio,2018,37,1.0,0,0,0,0,0,0,"
+"
+ILB,James,Bowen,73,235,2018,Run Man - to - Man,2.5,3.5,UTEP,9,49,0.0,0,0,0,0,4,0
+"
+",ILB,Darren,Boykin,75,Ball State,(Fr),Pass Zone,1.5,3.0,2018,6,41,0.0,0,0,0,0,1
+0,"
+",ILB,Tapco,Brewer,4.0,237,(Fr),Pass Zone,2.0,South Carolina,2018,5,34,0.0,0,0,0,0
+0,0,"
+",ILB,Keith,1.5,73,222,Jr,Pass Man - to - Man,2.5,Old Dominion,2018,2,12,0.0,0,0,0
+0,0,0,"
+",ILB,Run Man - to - Man,Brown,73,218,(Fr),1.5,2.5,Charlotte,2018,7,45,0.5,0,0
+0,0,0,0,"
+",So,James,Burroughs,75,234,Run Man - to - Man,4.0,4.0,Minnesota,2018,7,53,0.5,0
+0,1,1,0,1,243,ILB,Lucas,Callaway,73,(Fr),Run Man - to - Man,2.5,3.5,Buffalo,2018,6,38,0.0
+0,0,0,0,1,71,"
+",ILB,Charles,Cameron,237,(Jr),Run Man - to - Man,3.0,3.5,Washington,2018,9,62
+0.0,0,0,0,0,Campbell,0,"
+",ILB,Arthur,73,226,(Fr),Run Man - to - Man,1.5,3.0,Louisiana Tech,2018,6
+37,0.0,0,0,0,Joshua,0,0,"
+",ILB,Campbell,73,237,(Jr),Run Man - to - Man,3.0,3.0,Illinois,2018
+8,49,0.5,0,0,ILB,0,0,0,"
+",Victor,Campos,75,230,Sr,Pass Zone,2.5,3.5,Wake Forest
+2018,5,35,0.0,0,"
+",0,0,0,0,ILB,Kaden,Carmichael,74,234,Jr,Run Zone,3.0,3.5
+Texas A&M,2018,4,24,0.0,0,0,0,0,0,"
+",ILB,Douglas,Carson,73,220,Sr,Pass Man - to - Man,3.0
+3.0,Navy,2018,7,45,1,0,0,0,1,0,"
+",ILB,James,Carson,74,231,(Jr),Pass Zone
+5.0,5.0,Kansas,2018,8,1,0.0,0,0,0,0,0,"
+",ILB,Jack,Cavazos,75,240,Sr
+Pass Zone,4.5,4.5,UCLA,2018,0,60,0.0,0,0,0,1,0,"
+",ILB,Sebastian,Chaney,75,253
+Jr,Pass Zone,2.5,3.5,ECU,0,4,25,0.0,0,0,0,1,0,"
+",ILB,Amadou,Christian,75
+243,(So),Run Man - to - Man,3.5,4.5,0,2018,4,28,0.0,0,0,0,0,0,"
+",ILB,Anthony,Clark
+69,223,(So),Pass Zone,1.5,0.0,UTSA,2018,6,35,0,0,0,0,0,0,"
+",ILB,Austin
+Clemons,73,253,So,Run Zone,6,4.0,Stanford,2018,1,0.0,0,0,0,0,0,0,"
+",ILB
+Tywin,Cornett,71,224,So,3,3.0,3.0,Arkansas,2018,20,0.0,0,0,0,0,0,0,"
+"
+ILB,Ernie,Crawford,73,220,2018,Pass Man - to - Man,4.5,4.5,Oklahoma,8,54,0.0,0,0,0,0,1,0
+"
+",ILB,Kevin,Crews,74,Iowa State,Fr,Pass Zone,1.5,2.5,2018,4,24,0.0,0,0,0,0,0
+0,"
+",ILB,Messiah,Crosby,3.5,216,(Fr),Pass Zone,3.5,Mississippi State,2018,8,52,0.0,0,0,1,0
+2,1,"
+",ILB,Ayden,2.5,72,225,Jr,Pass Man - to - Man,2.5,Virginia Tech,2018,3,16,0.0,0,0,0
+0,0,0,"
+",ILB,Run Zone,Daly,73,234,Jr,4.0,4.5,Kansas State,2018,7,51,0.5,0,0
+0,0,0,0,"
+",(So),Jaiden,Davenport,71,218,Pass Zone,3.0,4.0,LSU,2018,3,17,0.5,0
+0,0,0,2,0,240,ILB,Ned,Denny,71,So,Run Zone,3.5,3.5,Baylor,2018,2,10,0.0
+0,0,0,0,1,73,"
+",ILB,David,Dunlap,240,(Jr),Run Zone,3.0,3.0,SMU,2018,2,13
+0.0,0,0,0,0,Eddy,0,"
+",ILB,James,74,239,Sr,Pass Zone,4.0,4.0,Rutgers,2018,9
+60,0.0,0,0,0,Ronald,1,0,"
+",ILB,Ellis,71,228,(Sr),Run Man - to - Man,4.0,4.0,Michigan,2018
+6,44,0.0,0,0,ILB,0,0,0,"
+",Jermaine,Epps,73,229,Fr,Pass Zone,2.5,3.0,Rice
+2018,8,46,0.5,0,"
+",1,1,0,0,ILB,John,Fay,73,254,(Sr),Pass Man - to - Man,3.5,3.5
+Central Michigan,2018,9,66,0.0,0,0,0,0,0,"
+",ILB,Steven,Field,73,230,Sr,Run Man - to - Man,3.5
+3.5,Western Michigan,2018,7,47,0,0,0,0,0,0,"
+",ILB,Paul,Floyd,75,232,(Sr),Run Zone
+4.5,4.5,NC State,2018,7,1,0.0,0,0,0,0,1,"
+",ILB,John,Foster,73,227,(Sr)
+Run Man - to - Man,4.5,4.5,Miami (FL),2018,0,49,1.0,0,0,0,0,0,"
+",ILB,Matthew,Gallegos,69,226
+Sr,Pass Zone,3.5,3.5,North Texas,0,8,49,0.0,0,0,0,1,0,"
+",ILB,David,Garcia,73
+238,Sr,Pass Zone,3.5,3.5,0,2018,8,58,0.0,0,0,0,0,0,"
+",ILB,Markus,Golden
+77,240,Fr,Pass Man - to - Man,3.0,2.0,Ole Miss,2018,8,66,0,0,0,1,1,0,"
+",ILB,Abdoul
+Gordon,73,217,(So),Run Man - to - Man,57,4.5,Kentucky,2018,9,0.0,0,0,0,0,0,0,"
+",ILB
+Arthur,Grant,73,230,Sr,5,2.0,2.0,Middle Tennessee,2018,32,0.0,0,0,0,0,0,0,"
+"
+ILB,Malik,Graves,73,224,2018,Run Zone,2.0,3.5,Colorado,8,49,0.0,0,0,1,0,0,0
+"
+",ILB,Darwin,Guillen,74,Cincinnati,Jr,Run Man - to - Man,2.5,2.5,2018,7,41,0.0,0,0,0,0,0
+0,"
+",ILB,Levi,Hankins,3.5,250,Fr,Run Zone,2.0,Temple,2018,9,60,0.0,0,0,1,0
+0,0,"
+",ILB,Kevin,4.0,73,216,(Jr),Pass Man - to - Man,4.0,Tulane,2018,10,68,0.0,0,0,0
+0,0,0,"
+",ILB,Pass Zone,Hansen,73,231,(Jr),4.0,4.0,Houston,2018,7,47,0.0,0,0
+0,0,0,0,"
+",(Jr),Alexander,Hardison,73,232,Run Zone,3.5,4.5,Western Kentucky,2018,8,65,0.0,0
+0,0,0,3,1,235,ILB,Nathaniel,Harper,73,(Sr),Pass Man - to - Man,3.5,3.5,Washington State,2018,4,26,0.0
+0,0,0,0,0,76,"
+",ILB,Nicolas,Haskell,215,(Sr),Run Man - to - Man,4.5,4.5,Wisconsin,2018,5,37
+0.0,0,0,0,0,Haywood,0,"
+",ILB,Christian,75,243,Sr,Pass Man - to - Man,5.0,5.0,Arizona,2018,7
+64,0.0,0,0,0,Mendy,1,0,"
+",ILB,Henson,73,243,(Fr),Run Man - to - Man,3.5,3.5,Navy,2018
+3,18,1.0,0,0,ILB,0,1,0,"
+",Roger,Herndon,73,226,(Jr),Man Coverage,4.0,4.0,Notre Dame
+2018,8,54,0.0,0,"
+",0,0,0,0,ILB,Mark,Hills,75,246,Jr,Pass Zone,4.0,4.5
+Virginia,2018,4,33,0.0,0,0,0,0,1,"
+",ILB,Connor,Hitchcock,75,215,So,Pass Zone,2.5
+4.0,Marshall,2018,6,35,0,0,0,1,1,0,"
+",ILB,Robert,Holmes,70,221,(Jr),Run Zone
+2.5,2.5,Utah State,2018,5,0,0.0,0,0,0,0,0,"
+",ILB,Jason,Hopkins,71,234,(Fr)
+Run Man - to - Man,2.5,4.0,Maryland,2018,0,41,1.0,0,0,1,0,0,"
+",ILB,Abdoul,Hurt,73,216
+(Fr),Run Man - to - Man,2.0,4.0,Bowling Green,0,1,6,0.0,0,0,0,0,0,"
+",ILB,David,Ingram,71
+234,(Sr),Pass Zone,3.0,3.0,0,2018,7,45,0.0,0,0,0,0,0,"
+",ILB,Ronald,Jacobs
+76,245,Sr,Run Zone,3.0,0.0,Oregon State,2018,1,5,0,0,0,0,0,0,"
+",ILB,Roger
+Jefferson,74,225,(Fr),Run Zone,45,3.5,UTSA,2018,8,0.0,0,0,0,0,0,0,"
+",ILB
+Danny,Johnson,73,229,Sr,4,3.0,3.0,Southern Miss,2018,28,0.0,0,0,0,0,0,0,"
+"
+ILB,Jayden,Kessler,73,245,2018,Run Zone,1.5,3.5,Miami (OH),6,37,0.0,0,0,0,0,0,0
+"
+",ILB,Timothy,Kim,73,Akron,(Jr),Run Man - to - Man,3.0,3.5,2018,7,41,0.0,0,0,0,0,0
+0,"
+",ILB,Ahmed,Mark,4.5,242,(So),Pass Zone,4.0,Duke,2018,8,60,0.0,0,0,0,0
+2,1,"
+",ILB,Nicholas,3.5,76,228,(Sr),Run Man - to - Man,3.5,Purdue,2018,4,22,0.0,0,0,1
+0,0,0,"
+",ILB,Run Zone,Martino,73,217,(Jr),3.5,3.5,Bowling Green,2018,7,46,2.0,0,0
+0,0,1,0,"
+",(Jr),Clifton,McLean,75,236,Pass Zone,4.0,4.0,Colorado State,2018,6,42,0.5,0
+0,0,0,0,0,244,ILB,Adam,McNair,75,Jr,Run Zone,3.0,3.0,Utah,2018,5,41,0.0
+0,0,0,1,0,75,"
+",ILB,Frank,McPherson,239,(Jr),Pass Zone,4.0,4.0,Arizona State,2018,4,29
+0.0,0,0,0,0,Mckenna,0,"
+",ILB,Franklin,72,229,Sr,Pass Man - to - Man,4.0,4.0,Missouri,2018,11
+77,0.0,0,0,0,David,0,0,"
+",ILB,Mcleod,75,238,Sr,Pass Zone,2.5,2.5,California,2018
+9,53,0.0,0,0,ILB,0,0,0,"
+",Buford,Monk,73,218,So,Pass Man - to - Man,1.0,2.0,Middle Tennessee
+2018,2,9,0.0,0,"
+",0,0,0,0,ILB,Jesus,Moreno,73,238,Sr,Pass Man - to - Man,2.5,2.5
+UAB,2018,9,54,0.0,0,0,0,0,1,"
+",ILB,Akeel,Morris,77,234,So,Pass Man - to - Man,4.0
+5.0,Nevada,2018,11,85,1,0,0,0,1,0,"
+",ILB,Erik,Morton,73,241,(Fr),Run Zone
+2.0,3.5,Georgia State,2018,4,0,0.0,0,0,0,0,0,"
+",ILB,Alan,Noriega,74,229,So
+Run Zone,3.5,3.5,New Mexico,2018,0,25,0.0,0,0,0,1,0,"
+",ILB,Joshua,Olson,71,245
+(Jr),Run Zone,4.5,4.5,Air Force,0,9,64,0.0,0,0,0,0,0,"
+",ILB,Graham,Otto,72
+245,(So),Pass Zone,4.0,4.0,0,2018,4,28,0.0,0,0,0,0,0,"
+",ILB,Manuel,Owen
+71,231,(Jr),Pass Man - to - Man,3.0,0.5,Eastern Michigan,2018,9,57,0,0,1,1,0,0,"
+",ILB,Tory
+Park,73,221,(Fr),Pass Man - to - Man,33,2.0,FIU,2018,6,0.0,0,0,0,0,0,0,"
+",ILB
+William,Parker,71,239,Sr,1,2.5,2.5,UNLV,2018,10,0.0,0,0,0,0,0,0,"
+"
+ILB,Roland,Patterson,76,232,2018,Run Zone,4.5,4.5,Auburn,8,55,0.0,0,0,0,0,0,0
+"
+",ILB,Samuel,Penn,71,Central Michigan,(Fr),Pass Zone,2.0,3.0,2018,1,5,0.0,0,0,0,0,0
+0,"
+",ILB,Griffin,Perrin,4.5,231,(So),Pass Zone,3.0,Michigan State,2018,5,34,0.0,0,0,0,0
+1,0,"
+",ILB,Richard,4.5,75,237,Jr,Run Man - to - Man,4.5,Georgia State,2018,9,65,0.0,0,0,1
+1,0,0,"
+",ILB,Pass Man - to - Man,Posey,73,240,So,2.5,3.0,Oklahoma State,2018,3,18,0.0,0,0
+0,0,0,0,"
+",(Jr),Joseph,Powell,76,226,Run Zone,4.0,4.0,Iowa,2018,8,57,0.0,0
+0,0,1,2,0,226,ILB,Dave,Price,71,(Sr),Pass Man - to - Man,4.0,4.0,Northern Illinois,2018,5,34,0.5
+0,0,0,0,0,74,"
+",ILB,Tom,Reis,225,Sr,Pass Man - to - Man,5.0,5.0,Alabama,2018,6,52
+1.0,0,0,0,0,Rendon,0,"
+",ILB,Jimmy,71,243,Fr,Pass Zone,2.5,3.5,Utah State,2018,10
+68,0.0,0,0,0,Arthur,0,0,"
+",ILB,Roberts,74,231,(Jr),Run Man - to - Man,3.5,3.5,Stanford,2018
+3,19,0.0,0,0,ILB,0,0,0,"
+",James,Robertson,74,235,(Jr),Run Man - to - Man,4.5,4.5,Texas
+2018,5,35,0.5,0,"
+",0,0,1,0,ILB,Robert,Robinson,69,231,Jr,Pass Zone,1.5,2.5
+FAU,2018,7,36,0.0,0,0,0,0,2,"
+",ILB,Abe,Rock,75,235,(Fr),Run Zone,3.0
+4.5,Pittsburgh,2018,6,35,0,0,0,0,1,0,"
+",ILB,Jaiden,Saenz,71,220,(So),Pass Zone
+3.5,3.5,Texas Tech,2018,4,0,0.0,0,0,0,1,0,"
+",ILB,Michael,Sanchez,73,218,(Fr)
+Run Man - to - Man,1.0,3.0,Old Dominion,2018,0,41,0.0,0,0,0,0,0,"
+",ILB,Philip,Sargent,74,240
+(Jr),Pass Man - to - Man,4.5,4.5,Nebraska,0,7,43,0.5,0,0,0,2,1,"
+",ILB,John,Short,73
+224,(Jr),Pass Man - to - Man,3.0,3.0,0,2018,9,58,0.5,0,0,0,0,0,"
+",ILB,Ernest,Sousa
+70,222,(Sr),Pass Man - to - Man,3.0,0.0,San Jose State,2018,5,29,0,0,0,0,0,0,"
+",ILB,Ian
+Stallings,71,219,Jr,Pass Zone,25,2.0,Virginia,2018,4,0.0,0,0,0,0,0,0,"
+",ILB
+George,Stevens,75,238,(Jr),3,4.0,4.0,TCU,2018,14,0.0,0,0,0,1,0,0,"
+"
+ILB,Jaime,Stewart,74,217,2018,Pass Man - to - Man,3.0,3.0,Toledo,6,42,0.0,0,0,0,0,0,0
+"
+",ILB,Charles,Stroud,74,Memphis,Sr,Pass Zone,3.0,3.0,2018,8,44,0.0,0,0,1,1,0
+0,"
+",ILB,Richard,Suarez,4.5,219,(Sr),Pass Zone,4.5,Boston College,2018,4,26,1.5,0,0,0,0
+0,0,"
+",ILB,Evan,3.0,71,221,So,Run Man - to - Man,3.5,North Texas,2018,4,23,0.0,0,0,0
+0,0,0,"
+",ILB,Run Man - to - Man,Taylor,72,225,(Sr),5.0,5.0,Syracuse,2018,10,79,0.0,0,0
+0,1,1,0,"
+",Jr,C.J.,Thomas,76,240,Run Man - to - Man,5.0,5.0,Georgia,2018,8,64,1.0,1
+0,0,1,2,0,220,ILB,Benjamin,Thompson,70,Sr,Run Zone,4.5,4.5,Marshall,2018,6,45,0.0
+0,0,0,0,1,71,"
+",ILB,Bruce,Thompson,239,Sr,Run Zone,3.5,3.5,Oregon State,2018,10,64
+0.0,0,0,0,0,Thompson,0,"
+",ILB,Raymond,74,225,Sr,Run Man - to - Man,3.0,3.0,Tulsa,2018,8
+46,0.0,0,0,0,Omar,0,0,"
+",ILB,Trotter,73,234,(Fr),Run Zone,2.0,4.5,Clemson,2018
+6,42,0.5,0,0,ILB,0,0,0,"
+",Thomas,Trujillo,74,227,Sr,Pass Zone,3.5,3.5,Wyoming
+2018,8,55,0.0,0,"
+",0,0,0,0,ILB,Chris,Tucker,75,230,(Sr),Run Man - to - Man,4.5,4.5
+Tennessee,2018,3,21,1.0,0,0,1,1,1,"
+",ILB,Daniel,Watkins,72,231,Sr,Run Zone,5.0
+5.0,Louisville,2018,7,56,0,0,0,0,0,0,"
+",ILB,Jacob,Watson,74,250,(Fr),Pass Zone
+2.0,4.5,Ohio State,2018,9,0,0.0,0,0,0,1,0,"
+",ILB,Raymond,Wesley,74,233,(So)
+Run Zone,2.0,3.0,Tulsa,2018,0,5,0.0,0,0,0,0,0,"
+",ILB,Thomas,Williams,73,234
+Sr,Run Man - to - Man,3.5,3.5,Florida,0,3,21,0.0,0,0,0,0,0,"
+",ILB,Kwahu,Wing,74
+243,So,Run Man - to - Man,2.0,2.5,0,2018,1,5,0.0,0,0,0,0,0,"
+",ILB,Douglas,Wolfe
+71,226,(Jr),Pass Zone,3.0,0.0,San Jose State,2018,5,35,0,0,0,0,0,0,"
+",ILB,Edward
+Wyatt,74,243,Sr,Run Zone,22,3.0,Army,2018,4,0.5,0,0,1,1,0,0,"
+",OLB
+Shamar,Addison,72,243,(So),4,3.0,5.0,Florida State,2018,27,1.5,0,0,0,0,0,0,"
+"
+OLB,Maurice,Allison,73,221,2018,Pass Man - to - Man,3.0,3.0,Nevada,2,7,1.5,0,0,0,0,0,0
+"
+",OLB,Gabriel,Andersen,73,Kentucky,(So),Run Man - to - Man,2.5,4.0,2018,5,29,0.0,0,0,0,0,0
+0,"
+",OLB,Jeffrey,Anderson,2.5,209,(Jr),Run Zone,2.5,Buffalo,2018,6,32,0.5,0,0,0,0
+0,0,"
+",OLB,Leland,4.5,73,236,(Sr),Pass Zone,4.5,Miami (FL),2018,2,13,1.0,0,0,0
+0,0,0,"
+",OLB,Run Zone,Anderson,72,223,(Jr),3.0,3.0,Duke,2018,4,21,0.5,0,0
+0,0,0,0,"
+",(Sr),Jeffrey,Aranda,71,221,Run Zone,4.5,4.5,Oklahoma,2018,3,20,0.5,0
+0,0,0,0,0,224,OLB,Frank,Atwood,73,Jr,Pass Man - to - Man,1.5,2.0,Middle Tennessee,2018,6,30,0.0
+0,0,0,0,0,73,"
+",OLB,Steven,Bass,223,Jr,Run Man - to - Man,2.5,3.5,FAU,2018,8,45
+0.0,0,0,0,0,Bates,0,"
+",OLB,Oliver,75,241,Jr,Pass Zone,3.5,3.5,Kansas,2018,2
+10,0.0,0,0,1,Martin,0,0,"
+",OLB,Bauman,74,217,Sr,Pass Zone,2.0,2.0,Connecticut,2018
+5,27,2.5,0,0,OLB,1,2,0,"
+",Wayne,Bell,69,216,Jr,Pass Zone,1.0,2.5,UNLV
+2018,3,18,0.0,0,"
+",0,0,1,0,OLB,Martin,Berg,74,226,Sr,Run Man - to - Man,3.0,3.0
+Mississippi State,2018,3,19,0.0,1,0,1,1,0,"
+",OLB,Robert,Bingham,72,242,Sr,Run Zone,3.0
+3.0,SMU,2018,4,21,0,0,0,0,0,0,"
+",OLB,Travis,Blackman,71,236,Jr,Pass Zone
+3.0,3.5,Duke,2018,3,1,0.5,0,0,0,0,1,"
+",OLB,Nikolas,Blevins,71,226,(So)
+Pass Zone,3.0,4.0,UCF,2018,1,27,1.0,0,0,1,0,1,"
+",OLB,Geno,Bohannon,76,230
+(Sr),Pass Man - to - Man,4.0,4.0,TCU,0,4,22,2.0,0,0,1,0,0,"
+",OLB,Eric,Bone,71
+215,(Sr),Run Zone,4.0,4.0,0,2018,2,13,1.0,0,0,0,1,0,"
+",OLB,Isaiah,Booker
+75,218,Fr,Pass Zone,2.0,0.0,Wake Forest,2018,4,23,0,0,0,0,0,0,"
+",OLB,Kyle
+Braswell,75,235,(So),Pass Man - to - Man,31,3.0,Arkansas,2018,5,0.0,0,0,0,0,0,0,"
+",OLB
+Aiden,Brice,73,228,Jr,1,2.0,2.0,Virginia,2018,5,0.0,0,0,0,0,0,0,"
+"
+OLB,Jabrill,Brower,76,243,2018,Run Man - to - Man,3.0,3.0,Georgia Tech,3,15,1.0,0,0,0,0,0,0
+"
+",OLB,Ryan,Brown,73,Ball State,(Sr),Run Zone,3.0,3.0,2018,7,42,1.5,0,0,0,0,2
+0,"
+",OLB,Eric,Burden,4.0,233,(Sr),Pass Man - to - Man,4.0,Florida,2018,6,38,1.5,0,0,0,0
+0,0,"
+",OLB,Tyler,3.5,71,228,Jr,Pass Zone,4.0,Houston,2018,1,6,0.0,0,0,0
+0,0,0,"
+",OLB,Pass Man - to - Man,Burdick,75,237,(So),3.5,3.5,Hawaii,2018,4,21,4.5,0,0
+0,0,0,0,"
+",Jr,Shane,Caldwell,75,230,Pass Man - to - Man,3.5,3.5,Auburn,2018,4,20,1.0,0
+0,0,0,1,0,244,OLB,Omar,Callaway,73,(Fr),Run Man - to - Man,2.5,4.0,SMU,2018,4,18,5.0
+0,0,0,0,0,71,"
+",OLB,Stephen,Cannon,228,(Sr),Pass Zone,4.5,4.5,San Diego State,2018,4,24
+3.0,0,0,0,0,Carpenter,0,"
+",OLB,James,73,241,Sr,Run Zone,2.0,2.0,Southern Miss,2018,1
+6,0.0,0,0,0,Justin,0,0,"
+",OLB,Carr,75,219,(Sr),Pass Man - to - Man,4.0,4.0,Boston College,2018
+4,24,1.0,0,0,OLB,0,1,0,"
+",Cristian,Chapa,73,235,Jr,Run Man - to - Man,3.0,3.0,Navy
+2018,1,7,0.0,0,"
+",0,0,0,0,OLB,Noel,Clark,76,234,(Sr),Pass Zone,4.0,4.0
+Michigan State,2018,2,11,0.5,0,0,0,0,1,"
+",OLB,Jason,Clarke,72,213,(Sr),Run Zone,3.0
+3.0,Washington,2018,4,21,1,0,0,0,0,0,"
+",OLB,Colin,Cleary,71,233,So,Pass Man - to - Man
+2.0,3.0,Iowa State,2018,7,0,0.5,0,0,0,1,0,"
+",OLB,Robert,Cobb,76,231,(Jr)
+Pass Man - to - Man,3.5,3.5,South Carolina,2018,0,35,0.5,0,0,0,0,0,"
+",OLB,Steven,Coleman,72,222
+Sr,Run Man - to - Man,3.0,3.0,Boise State,0,1,6,0.0,0,0,0,0,0,"
+",OLB,Jonathan,Collins,73
+211,So,Run Man - to - Man,1.0,2.5,0,2018,2,11,0.0,0,0,0,0,0,"
+",OLB,Christopher,Cox
+73,231,Sr,Run Zone,2.5,0.5,Bowling Green,2018,3,15,0,0,0,0,0,0,"
+",OLB,Antonio
+Daigle,75,226,Sr,Run Zone,15,3.0,Iowa,2018,2,0.0,0,0,0,0,1,0,"
+",OLB
+Daquan,Darcey,76,232,Jr,6,5.0,5.0,TCU,2018,41,1.5,0,0,0,0,1,0,"
+"
+OLB,Brian,Davis,74,220,2018,Pass Zone,3.0,3.0,San Diego State,1,5,0.5,0,0,0,0,0,0
+"
+",OLB,Justin,Davis,73,Eastern Michigan,(Jr),Pass Man - to - Man,2.5,2.5,2018,4,18,0.5,0,0,0,0,0
+0,"
+",OLB,Paul,Davis,3.5,212,(Jr),Run Man - to - Man,3.0,Tulane,2018,6,32,2.0,0,0,0,0
+0,0,"
+",OLB,Timothy,2.0,73,223,Jr,Run Man - to - Man,3.0,UAB,2018,3,16,0.0,0,0,0
+0,0,0,"
+",OLB,Pass Man - to - Man,DeLuca,73,225,So,2.5,4.0,Georgia State,2018,1,5,0.0,0,0
+0,0,0,0,"
+",(Jr),David,Dean,73,228,Pass Man - to - Man,2.5,3.0,Hawaii,2018,3,14,1.0,0
+0,0,0,0,0,243,OLB,Liam,Dickinson,71,So,Pass Zone,3.0,3.0,Ball State,2018,4,24,0.0
+0,0,0,0,0,75,"
+",OLB,Oliver,Dowdy,234,Jr,Run Man - to - Man,3.0,3.0,USC,2018,3,19
+0.0,0,0,0,0,Drummond,0,"
+",OLB,Marcus,73,237,Jr,Run Man - to - Man,3.0,3.0,Minnesota,2018,3
+20,0.0,0,0,0,David,0,0,"
+",OLB,Dupre,74,227,(So),Pass Zone,3.0,3.0,Miami (OH),2018
+5,29,4.0,0,0,OLB,0,0,0,"
+",Jonah,Durham,75,244,Jr,Pass Man - to - Man,3.0,3.0,Northwestern
+2018,4,24,0.0,0,"
+",0,0,0,0,OLB,William,Dyer,73,230,So,Pass Zone,1.5,3.0
+Louisiana Tech,2018,2,11,0.0,0,0,0,0,1,"
+",OLB,Shane,Easley,76,236,Fr,Run Zone,3.0
+5.0,Penn State,2018,8,55,2,0,0,1,0,0,"
+",OLB,Alpha,Eason,72,220,Jr,Pass Man - to - Man
+3.0,3.0,Texas Tech,2018,3,0,1.0,0,0,0,0,0,"
+",OLB,Avery,Ellis,75,245,So
+Run Zone,2.0,2.5,NC State,2018,0,33,0.0,0,0,0,0,0,"
+",OLB,Jose,Engle,73,231
+Sr,Pass Zone,3.0,3.0,USF,0,2,12,0.0,0,0,0,0,0,"
+",OLB,Richard,Ennis,73
+248,(Jr),Run Zone,3.0,3.0,0,2018,3,18,0.0,0,0,0,1,0,"
+",OLB,Zack,Fink
+73,229,(So),Run Zone,2.5,0.0,New Mexico,2018,6,38,0,0,0,0,1,0,"
+",OLB,Zaire
+Finney,75,240,(Fr),Pass Zone,29,4.0,UCF,2018,5,3.0,0,0,0,1,0,0,"
+",OLB
+Jabari,Fletcher,77,239,Fr,2,2.0,5.0,Texas,2018,14,2.0,0,0,0,1,1,1,"
+"
+OLB,Charles,Floyd,73,241,2018,Pass Man - to - Man,3.5,3.5,Illinois,2,10,0.0,0,0,0,0,0,0
+"
+",OLB,Thomas,Floyd,73,Middle Tennessee,(Fr),Run Man - to - Man,1.0,2.0,2018,4,21,0.0,0,0,0,0,0
+0,"
+",OLB,Lukas,Forman,5.0,233,Jr,Pass Zone,4.5,Connecticut,2018,9,65,7.0,0,0,0,1
+0,0,"
+",OLB,Caleb,3.0,74,225,So,Run Man - to - Man,3.0,USC,2018,3,19,0.0,0,0,0
+0,0,0,"
+",OLB,Run Zone,Foster,75,234,Sr,3.5,4.0,Rutgers,2018,4,23,2.0,0,0
+0,0,0,0,"
+",(Jr),William,Franco,73,228,Pass Man - to - Man,2.5,2.5,Eastern Michigan,2018,2,11,0.0,0
+0,0,0,0,0,244,OLB,Nikolas,Gannon,73,So,Pass Man - to - Man,3.0,3.5,Utah,2018,2,12,0.0
+0,0,0,0,0,73,"
+",OLB,James,Garcia,231,Sr,Run Zone,4.5,4.5,Houston,2018,4,24
+4.5,0,0,0,0,Garcia,0,"
+",OLB,Julian,74,214,(Jr),Run Man - to - Man,2.0,2.0,Marshall,2018,1
+6,0.0,0,0,0,Mike,0,0,"
+",OLB,Gibson,75,253,Sr,Pass Zone,3.0,3.5,Colorado State,2018
+5,30,0.5,0,0,OLB,0,0,0,"
+",Forrest,Gleason,73,229,(Fr),Run Man - to - Man,1.5,3.0,Charlotte
+2018,5,29,2.5,0,"
+",0,0,0,0,OLB,Matt,Godfrey,74,227,Sr,Pass Man - to - Man,4.0,4.0
+Louisiana Tech,2018,5,32,3.0,0,0,0,0,0,"
+",OLB,Frank,Goldstein,73,249,Jr,Run Man - to - Man,3.5
+3.5,Stanford,2018,5,34,0,0,0,0,0,0,"
+",OLB,Lorenzo,Gomez,74,252,So,Run Zone
+2.5,3.0,Toledo,2018,1,0,0.0,0,0,0,0,0,"
+",OLB,David,Gonzalez,74,234,Sr
+Run Zone,3.5,3.5,Michigan State,2018,0,20,0.0,0,0,0,0,0,"
+",OLB,Dennis,Gordon,75,231
+Sr,Pass Man - to - Man,3.5,3.5,Rutgers,0,4,24,1.0,0,0,0,0,0,"
+",OLB,Kevin,Greene,72
+239,Jr,Pass Zone,3.0,3.0,0,2018,5,28,1.0,0,0,0,0,0,"
+",OLB,Nathan,Greene
+73,237,(Jr),Pass Zone,3.0,0.0,Ohio State,2018,2,11,0,0,0,0,0,0,"
+",OLB,Carl
+Hahn,75,233,(Jr),Pass Man - to - Man,25,3.5,Rice,2018,5,1.0,0,0,0,0,1,0,"
+",OLB
+Patrick,Haines,74,244,(Fr),6,2.5,4.5,Utah,2018,35,3.5,0,0,1,0,0,0,"
+"
+OLB,Aaron,Hammond,73,223,2018,Run Man - to - Man,5.0,5.0,Purdue,6,47,2.0,0,0,0,0,2,1
+"
+",OLB,Lawrence,Harris,73,Central Michigan,(Jr),Pass Zone,2.5,3.5,2018,2,14,1.0,0,0,0,0,0
+0,"
+",OLB,Terrell,Hatcher,3.5,243,So,Pass Zone,2.5,Navy,2018,3,16,0.0,0,0,1,0
+0,0,"
+",OLB,William,1.0,73,219,So,Run Man - to - Man,2.0,UTSA,2018,3,15,0.0,0,0,0
+0,0,0,"
+",OLB,Run Zone,Hernandez,75,242,Sr,3.5,3.5,Indiana,2018,9,56,4.0,0,0
+0,0,1,0,"
+",(Jr),Robert,Hernandez,76,242,Run Man - to - Man,4.0,4.0,LSU,2018,2,15,1.0,0
+0,0,0,0,0,228,OLB,Dennis,Himes,72,(Jr),Pass Zone,4.5,5.0,Oklahoma,2018,4,25,2.5
+0,0,0,0,0,70,"
+",OLB,Federico,Hobbs,201,(Jr),Run Zone,2.5,2.5,Ohio,2018,1,6
+0.0,0,0,0,0,Hodge,0,"
+",OLB,Luke,74,224,(So),Run Man - to - Man,2.5,3.5,Fresno State,2018,5
+27,0.0,0,0,0,Alex,0,0,"
+",OLB,Hogue,75,231,Jr,Pass Zone,2.5,3.5,ECU,2018
+2,12,1.0,0,0,OLB,0,0,0,"
+",Harvey,Hollingsworth,73,242,Sr,Run Man - to - Man,1.5,1.5,FAU
+2018,2,11,0.0,0,"
+",0,0,0,0,OLB,Kenneth,Hooper,74,201,(Jr),Pass Zone,3.0,3.0
+San Jose State,2018,1,5,0.0,0,0,0,0,0,"
+",OLB,Eddie,Howard,75,232,Sr,Pass Man - to - Man,3.0
+3.0,Syracuse,2018,2,12,0,0,0,0,0,0,"
+",OLB,Mike,Hulsey,73,233,Sr,Run Man - to - Man
+4.5,4.5,Oregon,2018,2,1,2.0,0,0,1,0,0,"
+",OLB,Lucas,Huntley,73,236,Jr
+Pass Man - to - Man,2.5,2.5,Ole Miss,2018,1,26,2.0,0,0,0,0,0,"
+",OLB,Jamel,Ingram,73,246
+(Fr),Run Man - to - Man,2.0,3.0,Oklahoma State,0,6,30,2.0,0,0,0,0,0,"
+",OLB,Joey,Johnston,76
+217,(Jr),Pass Man - to - Man,3.5,3.5,0,2018,4,21,0.5,0,0,0,1,0,"
+",OLB,Bryan,Jones
+75,225,(Sr),Pass Man - to - Man,4.5,4.5,Ole Miss,2018,7,44,0,0,0,0,2,0,"
+",OLB,Cameron
+Jones,76,221,(Sr),Pass Man - to - Man,25,4.5,Arizona,2018,4,3.0,0,0,0,0,0,0,"
+",OLB
+Richard,Jones,71,236,(Sr),6,5.0,5.0,Washington State,2018,45,3.0,0,0,0,0,1,1,"
+"
+OLB,Tanner,Jones,72,241,2018,Run Man - to - Man,3.0,3.0,Cincinnati,4,24,0.0,0,0,0,0,0,0
+"
+",OLB,Harold,Kennedy,74,UCLA,(Sr),Pass Man - to - Man,4.5,4.5,2018,3,17,3.0,0,0,1,1,0
+1,"
+",OLB,Shia,Kenney,3.0,235,So,Pass Man - to - Man,2.0,Western Michigan,2018,4,21,0.0,0,0,0,0
+0,0,"
+",OLB,Thomas,2.5,74,231,Jr,Run Zone,2.5,California,2018,3,15,0.0,0,0,0
+0,0,0,"
+",OLB,Pass Man - to - Man,Kimble - Boston,71,228,(So),3.0,4.0,Arizona State,2018,7,41,0.5,0,0
+1,0,2,0,"
+",Fr,Timmy,King,71,234,Run Man - to - Man,2.0,3.0,North Carolina,2018,2,12,0.0,0
+0,0,0,0,0,242,OLB,Brian,Kowalski,73,So,Run Man - to - Man,2.0,3.5,Kansas State,2018,7,44,0.0
+0,0,0,0,0,75,"
+",OLB,Robert,Lacy,240,Sr,Pass Man - to - Man,5.0,5.0,Stanford,2018,5,35
+2.5,0,0,0,0,Ladner,0,"
+",OLB,James,73,213,Sr,Pass Man - to - Man,1.5,1.5,Charlotte,2018,4
+26,0.0,0,0,0,Lewis,0,0,"
+",OLB,Latham,76,237,Sr,Run Man - to - Man,3.5,3.5,Colorado,2018
+3,17,0.0,0,0,OLB,1,0,0,"
+",Ayden,Laws,75,228,Jr,Pass Zone,3.0,3.0,Pittsburgh
+2018,4,24,0.0,0,"
+",0,0,0,0,OLB,Daniel,Leon,75,200,(Sr),Pass Man - to - Man,3.5,3.5
+Oregon State,2018,6,37,1.5,0,0,0,0,0,"
+",OLB,Myles,Lindsay,73,235,Fr,Pass Zone,1.0
+4.0,Ohio,2018,2,12,0,0,0,0,0,0,"
+",OLB,Kevin,Little,71,234,(Sr),Run Zone
+4.0,4.0,Texas A&M,2018,5,0,3.5,0,0,0,0,0,"
+",OLB,Kristian,Little,72,237,Sr
+Pass Man - to - Man,5.0,5.0,Alabama,2018,1,24,1.0,0,0,0,0,0,"
+",OLB,Ahmed,London,74,239
+Jr,Pass Man - to - Man,3.0,4.5,West Virginia,0,3,19,2.5,0,0,0,0,0,"
+",OLB,Keith,Lovelace,74
+241,(Fr),Pass Zone,2.0,4.0,0,2018,2,11,1.5,0,0,0,0,0,"
+",OLB,Axel,Lozano
+74,243,(Fr),Run Zone,2.0,0.5,Texas,2018,2,11,0,0,0,0,0,0,"
+",OLB,Constantine
+Lytle,73,240,So,Pass Man - to - Man,13,3.5,Buffalo,2018,2,0.0,0,0,0,0,0,0,"
+",OLB
+Jack,Mack,74,236,Sr,7,3.0,3.0,Georgia State,2018,40,2.0,0,0,0,0,0,0,"
+"
+OLB,Angelo,Marks,72,252,2018,Run Man - to - Man,1.0,3.5,Temple,2,11,0.0,0,0,0,0,0,0
+"
+",OLB,Brandon,Marks,74,Washington,(Sr),Run Zone,3.5,3.5,2018,6,32,1.5,0,0,0,0,1
+0,"
+",OLB,Eric,Martin,2.5,216,So,Pass Zone,1.0,UNLV,2018,5,27,1.0,0,0,0,0
+0,0,"
+",OLB,Prince,1.0,73,254,Fr,Run Man - to - Man,4.5,Louisville,2018,2,10,0.0,0,0,0
+0,0,0,"
+",OLB,Pass Zone,Mayes,75,217,Jr,3.0,3.0,Baylor,2018,1,4,0.5,0,0
+0,0,0,0,"
+",(So),Jake,McCann,71,220,Run Man - to - Man,3.5,4.0,Boise State,2018,5,26,2.0,0
+0,1,1,2,1,237,OLB,Griffin,McElroy,75,(Fr),Pass Zone,2.5,4.0,California,2018,4,23,1.0
+0,0,0,0,0,71,"
+",OLB,Walter,McGregor,232,(Fr),Pass Zone,2.0,3.0,Western Michigan,2018,1,5
+1.0,0,0,0,0,McKay,0,"
+",OLB,Timothy,73,231,(Sr),Run Man - to - Man,4.0,4.0,Colorado,2018,2
+14,1.0,0,0,0,Chance,0,0,"
+",OLB,McKenzie,75,242,So,Pass Zone,2.0,4.0,Syracuse,2018
+1,7,0.0,0,0,OLB,0,0,0,"
+",Salvatore,McKinney,73,249,So,Run Man - to - Man,2.5,4.5,Temple
+2018,6,36,2.5,0,"
+",0,0,0,0,OLB,Frederick,McLaughlin,75,235,(Jr),Run Man - to - Man,3.0,3.0
+ECU,2018,4,21,1.0,0,0,1,0,0,"
+",OLB,Darren,McLean,73,248,Jr,Run Man - to - Man,3.0
+3.0,Maryland,2018,5,30,1,0,0,0,0,0,"
+",OLB,Caleb,McNamara,74,217,(So),Pass Zone
+4.0,5.0,Vanderbilt,2018,3,0,0.5,0,0,0,0,0,"
+",OLB,Shawn,Mccullough,73,226,Sr
+Run Zone,2.5,2.5,Western Kentucky,2018,0,30,1.0,0,0,1,0,1,"
+",OLB,Tyler,Michaels,72,254
+(So),Run Man - to - Man,3.0,4.0,Notre Dame,0,6,32,1.0,0,0,0,1,0,"
+",OLB,Salvatore,Miles,74
+212,(Fr),Run Man - to - Man,1.0,2.0,0,2018,2,9,0.0,0,0,0,0,0,"
+",OLB,Sergio,Miller
+71,227,(Jr),Run Zone,4.5,0.5,Alabama,2018,1,6,0,0,0,0,1,0,"
+",OLB,Edward
+Mills,74,215,(Jr),Run Man - to - Man,22,3.0,Kent State,2018,4,0.5,0,0,0,0,0,0,"
+",OLB
+Dean,Minter,73,238,(Jr),7,3.5,3.5,Virginia Tech,2018,40,1.5,0,0,0,0,0,0,"
+"
+OLB,Norman,Mitchell,71,225,2018,Run Zone,2.5,2.5,New Mexico,4,22,0.5,0,0,0,0,0,0
+"
+",OLB,Brian,Morgan,73,Indiana,(Sr),Pass Man - to - Man,3.5,3.5,2018,7,42,2.0,0,0,0,0,0
+0,"
+",OLB,Nicholas,Moss,4.5,227,Sr,Run Man - to - Man,4.5,West Virginia,2018,6,40,2.5,0,0,0,0
+0,0,"
+",OLB,Joel,3.5,74,240,(Jr),Pass Zone,3.5,Colorado State,2018,4,25,2.0,0,0,0
+0,0,0,"
+",OLB,Pass Zone,Nelson,75,233,Sr,3.0,3.0,Florida State,2018,1,5,0.0,0,0
+0,0,0,0,"
+",So,Aiden,Neville,71,219,Run Man - to - Man,3.0,3.0,Cincinnati,2018,2,12,0.0,0
+0,0,0,0,0,240,OLB,Julian,Nolan,75,(So),Pass Man - to - Man,3.0,3.5,Maryland,2018,3,15,1.0
+1,0,0,0,0,74,"
+",OLB,Damien,Norman,235,(So),Pass Man - to - Man,3.5,5.0,Illinois,2018,1,7
+0.5,0,0,0,0,Orlando,0,"
+",OLB,Trevor,75,235,Fr,Pass Zone,3.0,4.5,Oklahoma State,2018,8
+44,5.0,0,0,0,Brent,0,0,"
+",OLB,Ouellette,75,232,(Jr),Pass Zone,4.5,4.5,Georgia Tech,2018
+6,37,3.5,0,0,OLB,0,0,0,"
+",Owen,Parks,74,228,Sr,Pass Zone,2.5,2.5,UTSA
+2018,6,32,0.0,0,"
+",0,0,0,0,OLB,Juan,Parra,72,231,(Sr),Run Zone,4.0,4.0
+Oregon,2018,3,18,1.5,0,0,0,0,1,"
+",OLB,Damani,Patton,73,254,Fr,Run Zone,2.0
+3.0,Wake Forest,2018,2,12,0,0,0,0,0,0,"
+",OLB,Donovan,Pendleton,74,238,Fr,Run Man - to - Man
+1.0,4.0,Ohio,2018,4,0,0.5,0,0,0,1,0,"
+",OLB,Ron,Phillips,76,219,(Sr)
+Run Man - to - Man,4.0,4.0,Arizona,2018,1,10,0.0,0,0,0,0,0,"
+",OLB,Milan,Porter,71,206
+(Jr),Run Zone,4.0,4.0,Fresno State,0,4,24,0.5,0,0,0,0,0,"
+",OLB,Mark,Powell,71
+236,(Jr),Pass Man - to - Man,3.5,3.5,0,2018,3,19,1.0,0,0,0,0,0,"
+",OLB,Keith,Powers
+73,197,(Jr),Run Man - to - Man,3.5,0.0,Northern Illinois,2018,4,20,0,0,0,0,0,0,"
+",OLB,Jamie
+Price,72,240,(Jr),Run Zone,19,4.5,Ohio State,2018,3,1.0,0,0,0,0,0,0,"
+",OLB
+Aiden,Proctor,71,225,So,2,3.5,3.5,Rice,2018,11,0.0,0,0,0,0,0,0,"
+"
+OLB,Herman,Randle,74,240,2018,Run Zone,4.5,4.5,Michigan,3,19,0.0,0,0,0,0,0,0
+"
+",OLB,Shawn,Richardson,72,Vanderbilt,(Jr),Pass Zone,3.5,4.0,2018,6,33,4.0,0,0,0,0,2
+0,"
+",OLB,Benjamin,Robinson,5.0,240,(Jr),Pass Zone,5.0,Boston College,2018,7,52,2.5,0,0,1,1
+0,1,"
+",OLB,Mark,2.5,71,236,Sr,Run Man - to - Man,2.5,Memphis,2018,4,23,2.0,0,0,0
+0,1,0,"
+",OLB,Pass Man - to - Man,Ryan,75,230,(Jr),3.5,4.5,Virginia Tech,2018,6,37,2.5,0,0
+0,0,0,0,"
+",Fr,Omar,Salas,74,254,Run Zone,2.0,3.5,Tulane,2018,2,11,0.0,0
+0,0,0,0,0,221,OLB,Leroy,Salinas,71,Sr,Pass Man - to - Man,3.0,3.0,Arizona State,2018,4,23,0.0
+0,0,0,0,0,74,"
+",OLB,Jamir,Sample,231,Jr,Run Man - to - Man,4.5,4.5,Clemson,2018,3,22
+1.0,0,0,0,1,Sanchez,1,"
+",OLB,Douglas,72,240,Sr,Run Man - to - Man,3.0,3.0,Arkansas,2018,2
+14,0.0,0,0,0,James,0,0,"
+",OLB,Sargent,74,237,(Sr),Pass Man - to - Man,3.5,3.5,NC State,2018
+6,30,1.5,0,0,OLB,0,0,0,"
+",Nicholas,Selby,75,217,(So),Pass Man - to - Man,3.0,4.0,Kansas
+2018,4,25,1.5,0,"
+",0,0,0,0,OLB,Larry,Shafer,75,244,So,Run Zone,2.5,3.5
+Central Michigan,2018,2,12,0.0,0,0,0,0,0,"
+",OLB,Joel,Siegel,71,241,So,Pass Zone,4.0
+4.0,Wisconsin,2018,4,24,1,0,0,0,1,1,"
+",OLB,Micah,Singletary,74,229,(So),Run Man - to - Man
+2.5,4.5,Tennessee,2018,3,0,1.5,0,0,0,0,0,"
+",OLB,Brandon,Smith,71,222,(Jr)
+Run Man - to - Man,3.5,3.5,North Texas,2018,0,21,0.5,0,0,0,0,0,"
+",OLB,Nicholas,Smith,71,234
+Sr,Pass Man - to - Man,3.0,3.0,Northern Illinois,0,3,17,0.0,0,0,0,0,0,"
+",OLB,Paul,Smith,74
+235,(Sr),Run Man - to - Man,2.0,2.0,0,2018,2,11,0.0,0,0,0,0,0,"
+",OLB,Terry,Spears
+71,219,Jr,Run Man - to - Man,2.0,0.5,FIU,2018,5,24,0,0,0,0,0,0,"
+",OLB,Mark
+Stapleton,77,238,(Jr),Pass Zone,12,4.0,Air Force,2018,2,0.0,0,0,0,0,0,0,"
+",OLB
+Paul,Suarez,75,224,(Jr),3,4.0,4.0,Air Force,2018,16,0.0,0,0,0,0,0,0,"
+"
+OLB,Gary,Sutton,73,224,2018,Run Man - to - Man,1.5,1.5,UTEP,3,16,0.0,0,0,0,0,0,0
+"
+",OLB,Jadon,Talbert,75,Miami (OH),(Fr),Pass Zone,2.0,3.5,2018,6,32,0.0,0,0,0,0,0
+0,"
+",OLB,James,Taylor,3.0,231,(Jr),Pass Zone,3.0,Wyoming,2018,2,12,1.0,0,0,0,0
+1,0,"
+",OLB,John,3.5,75,243,Sr,Run Man - to - Man,3.5,Indiana,2018,2,11,0.5,0,0,0
+0,0,0,"
+",OLB,Run Zone,Taylor,70,211,(Sr),3.5,3.5,Akron,2018,7,39,0.5,0,0
+0,0,0,0,"
+",Fr,Brandon,Thomas,75,229,Run Man - to - Man,3.0,5.0,Bowling Green,2018,6,41,5.0,0
+0,0,0,0,0,215,OLB,William,Thomas,76,(Sr),Run Zone,5.0,5.0,BYU,2018,3,22,0.0
+0,0,0,0,0,74,"
+",OLB,Jerry,Thornton,229,(Jr),Pass Man - to - Man,4.5,4.5,Texas Tech,2018,3,11
+0.5,0,0,0,0,Tinsley,0,"
+",OLB,Brian,71,216,(So),Pass Zone,3.0,3.0,Army,2018,6
+38,1.5,0,0,0,William,0,0,"
+",OLB,Tipton,76,213,(Sr),Run Zone,3.0,3.0,Army,2018
+2,10,0.0,0,0,OLB,0,0,0,"
+",Hudson,Tompkins,73,220,So,Run Man - to - Man,3.0,3.0,Louisville
+2018,2,11,0.0,0,"
+",0,0,0,0,OLB,Carlos,Torrez,74,229,(So),Zone Coverage,1.5,2.5
+UTEP,2018,4,17,1.5,0,0,0,0,0,"
+",OLB,Joshua,Turner,71,216,Fr,Pass Man - to - Man,2.0
+3.0,Kansas State,2018,3,17,0,0,0,0,0,0,"
+",OLB,Tom,Turner,71,227,Sr,Pass Zone
+1.5,1.5,FIU,2018,4,0,0.5,0,0,0,1,0,"
+",OLB,Jorge,Vargas,75,231,(Jr)
+Run Zone,3.5,3.5,Wisconsin,2018,0,24,1.5,0,0,0,0,0,"
+",OLB,Chad,Walker,74,220
+(Fr),Pass Zone,1.0,2.0,Southern Miss,0,4,23,1.0,0,0,0,0,0,"
+",OLB,Gary,Walls,76
+231,Sr,Pass Zone,3.0,3.0,0,2018,1,6,0.0,0,0,0,0,0,"
+",OLB,Evan,Walsh
+71,218,Fr,Pass Man - to - Man,2.0,3.0,Nevada,2018,5,34,0,0,0,0,1,0,"
+",OLB,Ralph
+Watts,73,229,(Jr),Run Zone,16,4.5,Nebraska,2018,3,0.0,0,0,0,0,0,0,"
+",OLB
+Franklin,Weatherford,73,215,(Jr),7,3.0,3.0,Akron,2018,39,2.0,0,0,0,1,0,0,"
+"
+OLB,Matthew,Webb,71,219,2018,Run Zone,2.5,2.5,Wyoming,4,23,0.0,0,0,0,0,0,0
+"
+",OLB,Samuel,Weiner,75,Penn State,(Sr),Pass Zone,4.5,4.5,2018,3,17,2.0,0,0,0,0,1
+0,"
+",OLB,Russell,Weiss,3.5,238,(Jr),Pass Man - to - Man,3.5,Purdue,2018,4,19,2.0,0,0,0,0
+0,0,"
+",OLB,Brett,2.0,73,208,Jr,Pass Man - to - Man,3.0,Tulsa,2018,5,30,0.5,0,0,0
+0,0,0,"
+",OLB,Run Zone,Welch,74,236,Sr,4.0,4.0,UCLA,2018,2,9,3.0,0,0
+0,0,0,0,"
+",So,Martin,Whiting,75,235,Pass Zone,4.5,5.0,North Carolina,2018,4,31,4.0,0
+0,0,0,0,0,216,OLB,Bryce,Williams,74,(Fr),Pass Zone,2.5,4.0,South Carolina,2018,5,30,0.5
+0,0,0,0,1,74,"
+",OLB,Joseph,Wise,216,(Sr),Pass Man - to - Man,4.0,4.0,Missouri,2018,2,12
+1.0,0,0,0,0,Witt,0,"
+",OLB,Lester,74,231,Sr,Run Man - to - Man,3.0,3.0,Iowa,2018,1
+6,0.0,0,0,0,Allen,0,0,"
+",OLB,Wooten,74,233,(Sr),Run Man - to - Man,2.5,2.5,Utah State,2018
+5,27,1.5,0,0,OLB,0,0,0,"
+",Richard,Wray,71,216,(Sr),Pass Zone,4.0,4.0,Georgia
+2018,1,6,0.0,0,"
+",0,0,0,0,OLB,John,Yates,73,224,(Sr),Run Zone,3.0,3.0
+Kent State,2018,1,6,0.0,0,0,0,0,0,"
+",OLB,Edgar,Young,75,229,(Sr),Run Zone,4.5
+4.5,Nebraska,2018,1,7,0,0,0,0,0,0,"
+",OLB,Jaylen,Zambrano,73,248,(Fr),Run Zone
+1.5,3.0,Toledo,2018,2,0,0.0,0,0,0,0,0,"
+",SS,David,Albert,71,165,Jr
+Zone Coverage,3.5,3.5,Miami (OH),2018,1,13,0.0,0,0,1,2,1,"
+",SS,Alexander,Alexander,73,171
+(So),Man Coverage,1.0,1.5,UAB,0,1,3,0.0,0,0,0,1,0,"
+",SS,Phillip,Allen,73
+163,(Sr),Man Coverage,3.5,3.5,0,2018,1,3,0.0,0,0,0,1,0,"
+",SS,Alan,Anderson
+69,177,(Jr),Zone Coverage,4.0,0.0,Fresno State,2018,4,18,0,0,0,0,2,0,"
+",SS,Antonio
+Askew,74,204,(Fr),Zone Coverage,9,3.5,Oklahoma State,2018,2,0.0,0,0,0,0,1,0,"
+",SS
+Ashton,Best,71,217,Jr,4,4.0,4.0,ECU,2018,23,0.0,0,0,0,0,3,1,"
+"
+SS,Brian,Blackwell,74,170,2018,Zone Coverage,2.0,4.0,Tulane,5,19,0.5,0,0,0,0,2,0
+"
+",SS,Omari,Bland,70,Army,(Fr),Man Coverage,2.0,3.5,2018,1,9,0.0,0,0,0,0,0
+0,"
+",SS,Charles,Boyd,4.0,215,Sr,Man Coverage,4.0,California,2018,3,9,0.0,0,0,0,0
+3,0,"
+",SS,Jadon,3.0,71,210,So,Man Coverage,4.0,Akron,2018,2,9,0.0,0,0,0
+0,1,1,"
+",SS,Zone Coverage,Branch,71,180,So,2.5,3.0,North Texas,2018,4,23,0.0,0,0
+0,0,2,1,"
+",Sr,Wilbert,Brown,70,161,Zone Coverage,3.0,3.0,Kent State,2018,1,1,0.0,0
+0,0,0,1,0,184,SS,Evan,Brumfield,72,(So),Man Coverage,2.5,3.5,Virginia,2018,7,40,0.0
+0,0,0,0,1,70,"
+",SS,Gordon,Burnett,172,(Fr),Zone Coverage,1.0,2.5,Charlotte,2018,4,17
+0.0,0,0,0,0,Calloway,1,"
+",SS,Jared,73,196,Sr,Zone Coverage,4.5,4.5,Duke,2018,2
+11,0.0,0,0,0,Anthony,1,0,"
+",SS,Campbell,73,194,(Sr),Zone Coverage,4.0,4.0,UCLA,2018
+3,9,0.0,0,0,SS,0,3,0,"
+",Joshua,Campbell,73,166,(Sr),Man Coverage,3.0,3.0,West Virginia
+2018,2,8,0.0,0,"
+",0,0,2,0,SS,Victor,Carroll,73,205,(Sr),Zone Coverage,3.5,3.5
+Northwestern,2018,2,6,0.0,0,0,0,0,2,"
+",SS,Steven,Carter,71,203,Sr,Zone Coverage,3.5
+3.5,Iowa State,2018,1,6,0,0,0,0,0,0,"
+",SS,Abdoul,Childs,70,198,(Fr),Zone Coverage
+2.0,4.0,Maryland,2018,4,1,0.0,0,0,1,3,1,"
+",SS,Ethan,Crockett,74,176,(Jr)
+Zone Coverage,4.5,4.5,Alabama,2018,0,15,0.0,0,0,0,2,2,"
+",SS,Corey,Davis,74,195
+Jr,Zone Coverage,5.0,5.0,Pittsburgh,0,5,44,0.0,0,0,0,2,0,"
+",SS,Johnathan,Davis,70
+181,Fr,Zone Coverage,1.0,2.5,0,2018,2,13,0.0,0,0,0,0,0,"
+",SS,Mark,Dean
+70,205,(Sr),Zone Coverage,4.5,0.0,Nevada,2018,3,15,0,0,1,0,2,0,"
+",SS,Ben
+Dickson,72,196,Jr,Man Coverage,8,2.5,Kansas State,2018,1,0.0,0,0,0,0,0,0,"
+",SS
+Javon,Fair,73,181,Jr,1,3.0,4.0,Ohio State,2018,4,0.0,0,0,0,0,1,0,"
+"
+SS,George,Farr,70,189,2018,Man Coverage,1.5,2.0,UTEP,3,12,0.0,0,0,0,0,2,0
+"
+",SS,Harold,Farrell,73,Ball State,Jr,Zone Coverage,4.0,4.0,2018,2,9,0.0,0,0,0,0,1
+0,"
+",SS,Kevin,Faulkner,4.0,199,Fr,Zone Coverage,1.0,Marshall,2018,3,14,0.0,0,0,0,0
+2,0,"
+",SS,Paul,4.0,70,210,Sr,Man Coverage,4.0,USC,2018,3,18,0.0,0,0,0
+0,0,0,"
+",SS,Zone Coverage,Foy,73,188,(So),3.5,4.0,Notre Dame,2018,1,6,0.0,0,0
+0,0,1,0,"
+",(Sr),David,Franks,71,175,Man Coverage,4.0,4.0,Michigan,2018,5,26,0.0,0
+0,0,0,4,1,189,SS,David,Frazier,70,Jr,Zone Coverage,3.5,3.5,Kansas State,2018,1,4,0.0
+0,0,0,0,0,73,"
+",SS,Richard,Fuller,187,Sr,Man Coverage,3.5,3.5,Virginia Tech,2018,2,11
+0.0,0,0,0,0,Goodwin,0,"
+",SS,Blake,70,200,(Fr),Zone Coverage,2.0,4.0,SMU,2018,5
+27,0.0,0,0,0,Thomas,5,1,"
+",SS,Gordon,70,193,Fr,Zone Coverage,3.0,4.0,Buffalo,2018
+3,13,0.0,0,0,SS,0,3,0,"
+",Zahir,Gordon,73,201,Sr,Zone Coverage,4.0,4.0,Michigan State
+2018,2,9,0.0,0,"
+",0,0,2,0,SS,Tyler,Gore,70,195,(So),Zone Coverage,2.5,3.5
+Oregon,2018,1,2,0.0,0,0,0,0,1,"
+",SS,Todd,Graves,69,185,Sr,Man Coverage,3.0
+3.0,Bowling Green,2018,1,1,1,0,0,0,0,1,"
+",SS,Brandon,Guillory,71,201,Jr,Zone Coverage
+3.5,4.5,Texas A&M,2018,5,0,0.0,0,0,0,5,0,"
+",SS,Christopher,Hatton,70,194,Sr
+Zone Coverage,3.5,3.5,Utah State,2018,0,5,0.0,0,0,0,0,0,"
+",SS,Jack,Hayes,70,189
+(Sr),Man Coverage,3.0,3.0,Ohio,0,3,13,0.0,0,0,0,2,0,"
+",SS,Daniel,Hicks,70
+174,(Sr),Zone Coverage,4.0,4.0,0,2018,2,12,0.0,0,1,0,1,1,"
+",SS,Emmanuel,Huggins
+72,217,Fr,Man Coverage,2.0,0.0,Navy,2018,3,11,0,0,0,0,3,0,"
+",SS,Jesse
+Hutchins,74,182,Jr,Man Coverage,18,4.5,Air Force,2018,4,0.0,0,0,0,0,3,1,"
+",SS
+Mordechai,Hutchison,70,181,Jr,2,2.5,4.0,Central Michigan,2018,11,0.0,0,0,0,0,2,1,"
+"
+SS,Jerrold,Jackson,71,197,2018,Man Coverage,3.5,3.5,USF,2,9,0.0,0,0,0,0,2,0
+"
+",SS,Jaheim,Jennings,70,NC State,Fr,Zone Coverage,1.0,3.5,2018,2,19,0.0,0,0,0,0,0
+0,"
+",SS,Antonio,Jordan,3.0,184,So,Man Coverage,3.0,Utah State,2018,2,12,0.0,0,0,0,0
+1,0,"
+",SS,Jeremiah,4.5,71,204,(Jr),Zone Coverage,4.5,New Mexico,2018,5,26,0.0,0,0,0
+0,7,1,"
+",SS,Zone Coverage,King,73,189,(Sr),3.5,3.5,Georgia Tech,2018,5,29,0.0,0,0
+0,1,3,3,"
+",Sr,William,Kirk,71,206,Man Coverage,3.0,3.0,Wake Forest,2018,1,5,0.0,0
+0,0,0,1,0,197,SS,James,Larsen,73,(Jr),Man Coverage,4.0,4.0,Utah,2018,5,33,0.5
+0,0,0,0,0,72,"
+",SS,Julian,Lauer,201,(So),Man Coverage,3.0,4.0,Oklahoma,2018,1,5
+0.0,0,0,0,0,Lawrence,0,"
+",SS,Johnathan,74,188,(Jr),Zone Coverage,4.0,4.0,Hawaii,2018,1
+3,0.0,0,0,0,Aaron,1,0,"
+",SS,Layton,71,194,(Fr),Man Coverage,2.0,3.5,Temple,2018
+1,4,0.0,0,0,SS,0,1,0,"
+",Carter,Leavitt,73,193,(So),Zone Coverage,3.0,4.5,LSU
+2018,2,10,0.0,0,"
+",0,0,2,0,SS,Willie,Lee,71,181,Sr,Man Coverage,2.5,2.5
+Tulsa,2018,1,11,0.0,0,0,0,0,0,"
+",SS,Jose,Leon,71,202,(Jr),Zone Coverage,4.5
+5.0,Georgia,2018,1,5,1,0,0,0,0,0,"
+",SS,Antonio,Little,73,205,Sr,Man Coverage
+4.0,4.0,Kentucky,2018,3,0,0.0,0,0,0,2,0,"
+",SS,Eugene,Logan,73,179,(Jr)
+Zone Coverage,2.0,2.5,Old Dominion,2018,0,32,0.0,0,0,0,6,3,"
+",SS,James,Lott,73,199
+(Fr),Zone Coverage,1.0,2.5,Louisiana Tech,0,2,10,0.0,0,0,0,1,0,"
+",SS,Jaylin,Lott,74
+179,So,Zone Coverage,2.0,2.5,0,2018,3,14,0.0,0,0,0,0,0,"
+",SS,Hunter,Mackey
+74,177,So,Zone Coverage,3.0,0.0,Northern Illinois,2018,1,2,0,0,0,0,1,0,"
+",SS,Gavin
+Magee,72,177,(So),Zone Coverage,40,3.0,Arkansas,2018,9,0.0,0,0,0,0,6,0,"
+",SS
+Christopher,Malone,73,178,(Fr),4,2.0,5.0,TCU,2018,18,0.0,0,0,0,0,3,1,"
+"
+SS,Devin,McCauley,75,194,2018,Man Coverage,3.5,4.0,Arizona,6,27,0.0,0,0,0,0,5,1
+"
+",SS,Jeffrey,Mccoy,74,Washington State,Sr,Zone Coverage,3.0,3.0,2018,2,11,0.0,0,0,0,0,1
+0,"
+",SS,Brian,Miles,4.5,165,(Sr),Man Coverage,4.5,Washington,2018,2,12,0.0,0,0,0,0
+2,1,"
+",SS,Jayden,3.0,71,199,(So),Zone Coverage,4.0,USC,2018,2,11,0.0,0,0,0
+0,2,0,"
+",SS,Man Coverage,Mosley,71,202,(So),4.0,4.5,Arizona State,2018,5,34,0.0,0,0
+0,0,5,1,"
+",(Jr),Joel,Murray,72,203,Man Coverage,4.0,4.0,Missouri,2018,2,10,0.0,0
+0,0,0,1,0,199,SS,Gregory,Noel,71,Jr,Man Coverage,5.0,5.0,Georgia State,2018,2,6,0.0
+0,0,1,1,1,71,"
+",SS,Michael,O'Neal,184,Fr,Man Coverage,1.0,4.0,Southern Miss,2018,3,15
+0.0,0,0,0,0,Oliver,0,"
+",SS,Antonio,72,196,(Jr),Man Coverage,4.5,4.5,Houston,2018,2
+5,0.0,0,0,0,William,2,0,"
+",SS,Oliver,75,199,Sr,Man Coverage,3.5,3.5,Indiana,2018
+2,7,0.0,0,0,SS,0,2,1,"
+",Antonio,Paige,70,183,Fr,Zone Coverage,3.0,3.5,Wyoming
+2018,5,19,1.0,0,"
+",0,0,4,3,SS,Jonah,Parker,75,208,So,Man Coverage,2.5,5.0
+Boise State,2018,1,1,0.0,0,0,0,0,1,"
+",SS,David,Pennington,73,192,Sr,Zone Coverage,5.0
+5.0,Vanderbilt,2018,8,47,8,0,0,1,1,3,"
+",SS,Roberto,Ramos,73,181,(Jr),Zone Coverage
+3.5,4.0,Colorado,2018,1,0,0.0,0,0,0,1,1,"
+",SS,James,Reyes,73,195,(Jr)
+Man Coverage,4.0,4.0,Purdue,2018,0,5,0.0,0,0,0,1,1,"
+",SS,Constantine,Richards,74,198
+(So),Zone Coverage,3.0,4.0,Memphis,0,3,15,0.0,0,0,0,1,1,"
+",SS,John,Richardson,74
+184,Jr,Man Coverage,2.5,2.5,0,2018,1,5,0.0,0,0,0,1,0,"
+",SS,Cameron,Riley
+73,197,(So),Zone Coverage,3.5,0.0,Texas Tech,2018,7,44,0,0,0,0,6,2,"
+",SS,Sincere
+Robinson,73,201,(Fr),Man Coverage,26,4.0,South Carolina,2018,5,0.0,0,0,0,0,3,0,"
+",SS
+Marlon,Roland,74,180,(Fr),4,2.5,3.0,Louisville,2018,17,0.0,0,0,0,0,2,0,"
+"
+SS,Wesley,Rosado,72,173,2018,Man Coverage,4.5,4.5,North Carolina,3,17,0.0,0,0,0,0,3,1
+"
+",SS,Joshua,Rucker,71,Baylor,(So),Man Coverage,3.0,4.0,2018,2,10,0.0,0,0,0,0,2
+1,"
+",SS,Mario,Ruff,4.5,185,Jr,Zone Coverage,4.0,Cincinnati,2018,4,24,0.0,0,0,0,0
+2,1,"
+",SS,Edwin,4.0,70,182,(Sr),Zone Coverage,4.0,Nebraska,2018,2,8,0.0,0,0,0
+0,2,0,"
+",SS,Zone Coverage,Russell,71,167,(Sr),5.0,5.0,San Diego State,2018,4,26,0.0,0,0
+0,0,2,0,"
+",Jr,Jayden,Salter,74,202,Zone Coverage,3.5,4.5,Memphis,2018,2,9,0.0,0
+0,0,0,2,0,174,SS,James,Sanchez,70,(Jr),Zone Coverage,4.0,4.0,Hawaii,2018,2,8,0.0
+0,0,0,0,2,72,"
+",SS,James,Shade,194,Sr,Zone Coverage,4.0,4.0,Texas,2018,2,9
+0.0,0,0,0,0,Shipp,1,"
+",SS,Robert,71,204,(Sr),Zone Coverage,5.0,5.0,Ole Miss,2018,3
+17,0.0,0,0,0,DeAndre,3,1,"
+",SS,Stewart,71,186,(So),Zone Coverage,3.0,4.0,Connecticut,2018
+5,28,0.0,0,0,SS,0,4,0,"
+",Richard,Swann,70,176,Sr,Zone Coverage,1.5,1.5,UTSA
+2018,1,7,0.0,0,"
+",0,0,0,0,SS,Dwayne,Tatum,73,189,So,Zone Coverage,3.5,4.5
+Stanford,2018,3,17,0.0,2,0,0,0,3,"
+",SS,Sebastian,Tolliver,70,202,(So),Zone Coverage,3.5
+3.5,Auburn,2018,5,22,4,0,0,0,0,1,"
+",SS,John,Torres,74,191,(Sr),Zone Coverage
+3.0,3.0,Toledo,2018,4,1,0.0,0,0,1,3,1,"
+",SS,Noah,Tubbs,73,205,(So)
+Man Coverage,3.5,5.0,Syracuse,2018,1,27,0.0,0,0,0,4,3,"
+",SS,Stephen,Turner,71,169
+(Sr),Man Coverage,4.0,4.0,BYU,0,4,18,0.0,0,0,0,5,0,"
+",SS,Andrew,Wade,72
+206,Sr,Man Coverage,4.5,4.5,0,2018,5,22,0.0,0,0,0,5,3,"
+",SS,Steven,Ward
+73,192,(Sr),Zone Coverage,4.0,0.0,Iowa,2018,3,13,0,0,0,0,3,1,"
+",SS,Samir
+Ware,71,200,Sr,Man Coverage,18,4.5,Clemson,2018,3,0.0,0,0,0,0,5,0,"
+",SS
+Devin,Whitaker,74,193,(Jr),4,4.5,4.5,Wisconsin,2018,10,0.0,0,0,0,0,4,0,"
+"
+SS,Ryan,White,70,175,2018,Man Coverage,3.5,3.5,Kent State,5,26,0.0,0,0,0,0,2,0
+"
+",SS,Dave,Wilkinson,70,Boise State,(Sr),Man Coverage,3.5,3.5,2018,2,6,0.0,0,0,0,0,3
+0,"
+",SS,Christopher,Williams,4.0,184,(Jr),Zone Coverage,4.0,Florida State,2018,2,6,0.0,0,0,0,0
+2,0,"
+",SS,Joseph,4.0,71,198,(Sr),Man Coverage,4.0,Florida,2018,6,25,0.0,0,0,0
+0,6,2,"
+",SS,Zone Coverage,Williams,74,187,(Jr),4.5,5.0,Tennessee,2018,2,13,0.0,0,0
+0,0,2,1,"
+",(Jr),William,Willis,72,199,Man Coverage,2.5,3.0,Rice,2018,3,11,0.0,0
+0,0,0,3,1,193,SS,Marc,Wynn,72,Jr,Zone Coverage,3.5,4.0,Penn State,2018,2,2,0.0
+0,0,0,0,2,75,"
+",WR,Kenneth,Garcia,161,Sr,Speed,3.0,3.0,Georgia State,2018,1,5
+0.0,0,0,0,0,1,1,"
+"
